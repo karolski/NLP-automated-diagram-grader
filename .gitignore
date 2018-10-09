@@ -2,6 +2,6 @@
 infersent*
 /encoder/*
 /.ipynb_checkpoints/*
-/_pychache_/*
+/__pychache__/*
 .token
 
