@@ -2,3 +2,5 @@
 infersent*
 /encoder/*
 .ipynb_checkpoints/*
+.token
+
