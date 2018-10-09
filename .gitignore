@@ -1,3 +1,4 @@
 /data/*
 infersent*
 /encoder/*
+.ipynb_checkpoints/*
