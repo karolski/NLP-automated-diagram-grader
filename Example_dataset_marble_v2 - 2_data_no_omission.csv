@@ -1,0 +1,1786 @@
+\outl0\strokewidth0 \strokec2 IDStudent,IDStud,IDClass,Category,Field,Field_en,Accuracy_score,Code,Fieldname
+8I1F,8I1FH3B,H3B,Beton,liften gaan vast zitten,elevators get stuck,4,g,1
+11I6F,11I6FH3E,H3E,Beton,Beton krimpt als het warm word,Concrete shrinks as the hot word,3,g,1
+12I5F,12I5FA3,A3,Beton,Door de centrale verwarming krimpt het beton,By heating the concrete shrinks,3,g,1
+13I6F,13I6FA3,A3,Beton,betonnen gebouwen krimpen bij centrale verwarming,concrete buildings shrink by central heating,3,g,1
+20I2F,20I2F3VA,3VA,Beton,beton wordt na een tijdje kleiner,concrete decreases after a while,3,g,1
+20I2F,20I2FV3D,V3D,Beton,beton kan krimpen,can shrink concrete,3,g,1
+20I6F,20I6FH3D,H3D,Beton,betonnen gebouwen krimpen,shrink concrete buildings,3,g,1
+27I6F,27I6F3G2,3G2,Beton,Gebouwen worden van beton gemaakt maar mensen wisten niet dat beton krimpt bij warmte,Buildings made of concrete but people did not know that shrinks when heat concrete,3,g,1
+5I1O,5I1OH3C,H3C,Beton,Beton krimpt als het warm wordt,Concrete shrinks as it gets hot,3,g,1
+8I1F,8I1FA3,A3,Beton,gebouwen v beton worden kleiner door warmte,v concrete buildings become smaller heat,3,g,1
+8I5F,8I5F3A1,3A1,Beton,beton word kleine als het droogt,get small concrete as it dries,3,g,1
+8I6F,8I6FH3E,H3E,Beton,beton kan krimpen,can shrink concrete,3,g,1
+11I4F,11I4FA3,A3,Beton,Door de centrale verwarming droogt beton uit,The central heating dries out concrete,2,g,1
+13I5F,13I5FHC3,HC3,Beton,beton krimpt,concrete shrinks,2,g,1
+14I4F,14I4FG3,G3,Beton,Beton kan door CV uitdrogen,Concrete can dry out by CV,2,g,1
+20I5F,20I5FH3B,H3B,Beton,droogt uit,dries out,2,g,1
+26I6F,26I6FA3A,A3A,Beton,beton uitdrogen door gebruik centrale verwarming,concrete drying by using heating,2,g,1
+4I3O,4I3O3VA,3VA,Beton,door het gebruik van de CV droogt het beton uit,using the CV concrete dries out,2,g,1
+10I4F,10I4F3G2,3G2,Beton,centrale verwarming in betonnen gebouwen,central heating in concrete buildings,1,g,1
+11I1F,11I1F3G2,3G2,Beton,in veel gebouwen warmte-installatie,in many buildings thermal plant,1,g,1
+11I2F,11I2F3TT1,3TT1,Beton,betonkrimp door gebruik van centrale verwarming,concrete shrinkage by use of central heating,1,g,1
+11I2F,11I2FH3B,H3B,Beton,verwarming in betonnen gebouwen kan problemen veroorzaken,heating in concrete buildings can cause problems,1,g,1
+11I3F,11I3F3GA1,3GA1,Beton,in een (betonnen) gebouwen zit steeds vaker CV,in a (concrete) buildings is increasingly CV,1,g,1
+11I3F,11I3FHC3,HC3,Beton,betonkrimp door verwarmingsinstallatie,concrete shrinkage by heating,1,g,1
+11I5F,11I5FG3,G3,Beton,Veel gebouwen hebben een cv die hitte uitstraalt,Many buildings have a resume that radiates heat,1,g,1
+11I6F,11I6FV3D,V3D,Beton,als gebouwen helemaal van niet gekeurd beton zijn wanneer ze krimpen als je de centrale verwarming aanzet,if buildings are not inspected at all of concrete when they shrink when you turn the central heating,1,g,1
+12I4F,12I4FHC3,HC3,Beton,Betonnen gebouwen met verwarming,Concrete buildings with heating,1,g,1
+14I3F,14I3F3A1,3A1,Beton,betonnen gebouwen werden gebouwd waar centrale verwarming is,concrete buildings were built where central heating,1,g,1
+14I5F,14I5F3TT1,3TT1,Beton,door verwarming,by heating,1,g,1
+16I1F,16I1F3G2,3G2,Beton,centrale verwarming in gebouw van beton,central heating in concrete building,1,g,1
+17I2F,17I2F3TT1,3TT1,Beton,centrale verwarming,central heating,1,g,1
+17I6F,17I6FV3D,V3D,Beton,centrale verwarming heeft effect op betonnen gebouwen,central heating affects concrete buildings,1,g,1
+19I4F,19I4F3GA1,3GA1,Beton,beton krimpt door de verwarming,concrete shrinks by heating,1,g,1
+19I5F,19I5F3AB,3AB,Beton,Beton wordt gebruikt in centrale verwarming,Concrete is used in central heating,1,g,1
+20I6F,20I6FG3,G3,Beton,In een gebouw is verwarming,In a building heating,1,g,1
+2I3O,2I3O2VB,2VB,Beton,Centrale verwarming in gebouw,Central heating in the building,1,g,1
+2I5O,2I5O3TT1,3TT1,Beton,het gebruik van centrale verwarming bij betonnen gebouwen,the use of central heating in concrete buildings,1,g,1
+2I6F,2I6FH3B,H3B,Beton,warmte van centrale verwarming zorgt ervoor dat beton krimpt,warmth of central heating ensures that concrete shrinks,1,g,1
+4I2O,4I2O3G2,3G2,Beton,beton bij centrale verwarming,concrete with central heating,1,g,1
+5I1F,5I1FH3A,H3A,Beton,centrale verwarming droogt beton uit,central heating dries out concrete,1,g,1
+5I2F,5I2F3TT1,3TT1,Beton,centrale verwaming verwarmt,central heated heats,1,g,1
+5I3O,5I3OV3D,V3D,Beton,er wordt centrale verwarming gebruikt,There is central heating is used,1,g,1
+5I5F,5I5F3A3,3A3,Beton,centrale verwaming bij betonnen gebouwen,central heating at concrete buildings,1,g,1
+7I5F,7I5F3VA,3VA,Beton,In gebouwen zit een centrale verwarming,In buildings have central heating,1,g,1
+8I3F,8I3F2VB,2VB,Beton,Centrale verwarming in gebouwen,Central heating in buildings,1,g,1
+8I5F,8I5FH3C,H3C,Beton,in een huis met nieuw beton en de verwarming aan,in a house with new concrete and the heating,1,g,1
+9I3F,9I3F3A3,3A3,Beton,centrale verwarming in betonnen gebouw droogt het beton uit,central heating in concrete building concrete dries out,1,g,1
+10I2F,10I2FHC3,HC3,Beton,Als beton warm is zet dat uit,If concrete is warm turn it off,0,c,1
+11I3F,11I3F3VA,3VA,Beton,kwaliteit beton is niet goed,quality concrete is not good,0,c,1
+11I4F,11I4FH3C,H3C,Beton,beton wordt voor huizen gebruikt,concrete is used for houses,0,c,1
+11I5F,11I5F3A1,3A1,Beton,gebouwen worden gemaakt van beton,buildings are made of concrete,0,c,1
+11I6F,11I6F2VB,2VB,Beton,beton in gebouwen,concrete buildings,0,c,1
+14I3F,14I3FA3A,A3A,Beton,er wordt cv aangelegd in betonnen gebouwen,There cv applied in concrete buildings,0,c,1
+14I5F,14I5F3AB,3AB,Beton,Veel gebouwen worden van beton gemaakt,Many buildings are made of concrete,0,c,1
+14I5F,14I5FH3B,H3B,Beton,1962 KOMO-certificaat toegestaan gebruik van beton,1962 KOMO certificate authorized use of concrete,0,c,1
+15I3F,15I3F3A3,3A3,Beton,gebouwen worden vaak van beton gebouwd,buildings are often built of concrete,0,c,1
+17I1F,17I1F3GA1,3GA1,Beton,veel gebouwen zijn van beton,many buildings are made of concrete,0,c,1
+17I1F,17I1F3VA,3VA,Beton,er wordt verkeerd beton gebruikt,there being mishandled concrete,0,c,1
+17I2F,17I2FH3D,H3D,Beton,Beton wordt vaak gebruikt voor gebouwen,Concrete is often used for buildings,0,c,1
+17I3F,17I3F3AB,3AB,Beton,Beton is een vel gebruikt bouwmiddel,Concrete is used a sheet of constructing means,0,c,1
+17I6F,17I6F2VB,2VB,Beton,veel gebouwen zijn van beton,many buildings are made of concrete,0,c,1
+17I6F,17I6FH3C,H3C,Beton,Koud in beton gebouw,Cold concrete building,0,c,1
+18I4F,18I4F3GA1,3GA1,Beton,in gebouwen wordt vaak beton gebruikt,in buildings is often used concrete,0,c,1
+19I1F,19I1F3A3,3A3,Beton,Betonnen gebouwen gebouwd. Vaak koud,Concrete buildings built. common cold,0,c,1
+1I4O,1I4O3GA1,3GA1,Beton,Betonnen gebouwen gebouwd. Vaak koud,Concrete buildings built. common cold,0,c,1
+20I3F,20I3F2VB,2VB,Beton,beton word veel gebruikd door huizen en gebouwen,concrete'm much gebruikd by houses and buildings,0,c,1
+20I3F,20I3FH3A,H3A,Beton,al 70 jaar word grote gebouwen gebouwd door beton,70 years become big buildings built by concrete,0,c,1
+20I3F,20I3FH3C,H3C,Beton,Beton zet uit en krimpt,Concrete expands and contracts,0,c,1
+20I4O,20I4O3A1,3A1,Beton,concentratie beton moet goed zijn anders kan het uitzetten,concentration concrete must be good otherwise it may expand,0,c,1
+20I5F,20I5FH3E,H3E,Beton,beton gebruik,concrete using,0,c,1
+23I2F,23I2FH3B,H3B,Beton,beton word veel gebruik om huizen te bouwen,Concrete get much use to build houses,0,c,1
+26I2F,26I2FH3D,H3D,Beton,Veel gebouwen worden gemaakt van beton en beton krimt als het verhit wordt,Many buildings are made of concrete and concrete krimt when heated,0,c,1
+26I3F,26I3FG3,G3,Beton,Veel betonnen gebouwen,Many concrete buildings,0,c,1
+2I6F,2I6F3A1,3A1,Beton,beton moet eerst worden gekeurd,Concrete must be tested first,0,c,1
+32I3F,32I3FH3E,H3E,Beton,Warmte en vocht,Heat and moisture,0,c,1
+3I2O,3I2O3A3,3A3,Beton,gebouwen gemaakt van beton,buildings made of concrete,0,c,1
+5I3O,5I3OG3,G3,Beton,Gebouwen moeten stevig zijn,Buildings should be firm,0,c,1
+5I6F,5I6F2VB,2VB,Beton,beton wordt vaak gebruikt om huis te bouwen,concrete is often used to build house,0,c,1
+5I6F,5I6FH3D,H3D,Beton,Bouwen betonnen gebouwen,Build concrete buildings,0,c,1
+8I2F,8I2FV3D,V3D,Beton,door natte beton,by wet concrete,0,c,1
+8I2O,8I2O3AB,3AB,Beton,Er wordt veel gebruik gemaakt van beton,Extensive use is made of concrete,0,c,1
+8I3F,8I3FG3,G3,Beton,veel gebouwen van beton,many buildings of concrete,0,c,1
+8I5F,8I5F3TT1,3TT1,Beton,er wordt veel beton gebruikt,much concrete is used,0,c,1
+11I6F,11I6FV3D,V3D,Botox,krijg je soms een ongewenst effect van de veranderde gezichtsuitdrukkingen,sometimes you get an undesired effect of the changed facial expressions,4b,g,1
+17I6F,17I6FV3D,V3D,Botox,kun je vaak je gezichtsuitdrukking niet goed geven,You can often give you good expression,4b,g,1
+20I2F,20I2FV3D,V3D,Botox,andere gezichtsuitdrukking,Another expression,4b,g,1
+20I4O,20I4O3A1,3A1,Botox,veranderd je gezichtsuitdrukking onwillis,change your facial expression onwillis,4b,g,1
+20I5F,20I5F3AB,3AB,Botox,Gezichtuitdrukking veranderen,Changing Facial Expression,4b,g,1
+8I6F,8I6FH3E,H3E,Botox,Hierdoor kan je gezichtsuitdrukking ongewilt aangetast worden,This allows you unlimited expression would be affected,4b,g,1
+19I4F,19I4F3GA1,3GA1,Botox,lijk je jonger,you seem younger,4a,g,1
+26I1F,26I1FV3D,V3D,Botox,Krijg je een resultaat van gezicht verjonging,Get a result of facial rejuvenation,4a,g,1
+8I1F,8I1FA3,A3,Botox,willen mensen dat hebben om jonger te lijken,want people to have to look younger,4a,g,1
+12I5F,12I5FA3,A3,Botox,vermindert het rimpels,it reduces wrinkles,3,g,1
+19I5F,19I5F3AB,3AB,Botox,Wordt je gezicht gladder,Is your face smoother,3,g,1
+2I6F,2I6F3A1,3A1,Botox,heb je minder rimpels,you have less wrinkles,3,g,1
+5I6O,5I6OH3E,H3E,Botox,wordt het vaak voor rimpels op het voorhoofd en bij de ogen gebruikt,it is often for wrinkles on the forehead and used in eye,3,g,1
+8I1F,8I1FH3B,H3B,Botox,rimpels weg,wrinkles away,3,g,1
+8I2F,8I2FV3D,V3D,Botox,trekt de rimpels straks,wrinkles attracts soon,3,g,1
+10I4F,10I4F3G2,3G2,Botox,kan het helpen bij bijv. mensen die veel knipperen dat niet meer te laten doen,it can help eg. people blink much not to do,2,g,1
+11I2F,11I2F3TT1,3TT1,Botox,wordt gebruikt als middel voor aandoeningen zoals te veel knipperen,is used as means for conditions such as too many flashing,2,g,1
+11I3F,11I3F3GA1,3GA1,Botox,kunnen mensen die veel en hard knipperen geholpen worden,people who blink a lot and hard to be helped,2,g,1
+11I5F,11I5FG3,G3,Botox,Wordt het gebruikt voor mensen die te hard knipperen met hun ogen.,It is used for people who blink hard with their eyes.,2,g,1
+13I5F,13I5FHC3,HC3,Botox,kunnen zenuwtrekkingen verholpen worden,can be corrected twitching,2,g,1
+14I4F,14I4FG3,G3,Botox,Werd het gebruikt bij plotselingen spieraanspanningen,It was used by sudden muscle squeezes,2,g,1
+16I1F,16I1F3G2,3G2,Botox,helpt bij bv te hard knipperen van je ogen,helps eg blink too hard on your eyes,2,g,1
+17I6F,17I6F2VB,2VB,Botox,word dit veel gebruikt bij mensen die veel knipperen met hun ogen,this word often used by many people blink their eyes,2,g,1
+18I4F,18I4F3GA1,3GA1,Botox,stopt het als je vaak knippert,stop if you often flashes,2,g,1
+20I5F,20I5FH3B,H3B,Botox,geen rimpels,no wrinkles,2,g,1
+23I2F,23I2FH3B,H3B,Botox,werd het vroeger veel gebruikt om aanspanning van de spieren te voorkomen,it was widely used to prevent contraction of the muscles,2,g,1
+26I3F,26I3FG3,G3,Botox,Kan je het gebruiken voor snel knipperend oog. Zenuw is dan ontspannen en trekt minder snel,Can you use it for rapid eye blinking. Nerve is relaxed and attracts less,2,g,1
+26I6F,26I6FA3A,A3A,Botox,alleen gebruikt voor samentrekkende spieren,only for contracting muscles,2,g,1
+27I6F,27I6F3G2,3G2,Botox,veel gebruiken bij mensen met spiertrekkingen,Using many people with twitching,2,g,1
+2I3O,2I3O2VB,2VB,Botox,kun je bijvoorbeeld te veel knipperen verhelpen,"For example, you blink too much remedy",2,g,1
+2I5O,2I5O3TT1,3TT1,Botox,zieke mensen kunnen van hun oogtrekken komen,sick people can get their looks racks,2,g,1
+5I1O,5I1OH3B,H3B,Botox,werd het vroeger vooral gebruikt om aanspanning van spieren te verminderen bij: het regelmatig knipperen met ogen,it used to be used to reduce contraction of muscles: the regular blinking eyes,2,g,1
+5I3O,5I3OV3D,V3D,Botox,word het gebruikt om spieren te verslappen als iemand bv. Vaak knippert,it is used to relax muscles when someone for example. Often flashes,2,g,1
+5I6F,5I6F2VB,2VB,Botox,gaan mensen minder hard knipperen,do people blink less hard,2,g,1
+7I5F,7I5F3VA,3VA,Botox,wordt het gebruikt tegen zenuwtrekkingen,it is used against twitching,2,g,1
+8I3F,8I3FG3,G3,Botox,Gebruikt tegen bv. Overmatig knipperen,Used by eg. Excessive blinking,2,g,1
+8I5F,8I5F3TT1,3TT1,Botox,stopt de samentrekking van spieren,stops the contraction of muscles,2,g,1
+11I2F,11I2FH3B,H3B,Botox,kan het schadelijk zijn,it may be harmful,0,c,1
+11I3F,11I3F3VA,3VA,Botox,die spieren zijn losser,which muscles are looser,0,c,1
+11I4F,11I4FH3C,H3C,Botox,hebben ze minder last van bijv vaak knipperen,they suffer less from eg frequently flashing,0,c,1
+11I5F,11I5F3A1,3A1,Botox,wordt het vaak gebruikt in de plastische chirurgie,it is often used in plastic surgery,0,c,1
+11I5F,11I5FH3A,H3A,Botox,mensen met spasmes hebben geen ONLEESBAAR meer,people with spasms do not UNREADABLE more,0,c,1
+11I6F,11I6FH3E,H3E,Botox,word het gebruikt voor mensen met spieraanspanning bijv. Iemand die te ahrd met zijn/haar ogen knippert,The word used for people with muscle tension eg. Someone who blinks to ahrd with his / her eyes,0,c,1
+13I6F,13I6FA3,A3,Botox,het is alleen toegestaan voor speciale behandelingen,it is allowed only for special treatments,0,c,1
+14I3F,14I3F3A1,3A1,Botox,je gezicht wordt strak en onnatuurlijk,your face is tight and unnatural,0,c,1
+14I4F,14I4F3G2,3G2,Botox,kunnen oogzenuwtrekjes weg worden gehaald,optic traits can be delisted,0,c,1
+14I5F,14I5F3AB,3AB,Botox,Er worden medische problemen opgelost,Medical problems are resolved,0,c,1
+14I5F,14I5F3TT1,3TT1,Botox,strakkere huid,tighter skin,0,c,1
+15I3F,15I3FA3,A3,Botox,"zenuwen spannen niet aan, worden verlamd","nerves tighten, paralyzed",0,c,1
+17I1F,17I1F3GA1,3GA1,Botox,is het eigenlijk vergif,it is actually poison,0,c,1
+17I1F,17I1F3VA,3VA,Botox,verdwijnen rimpels,wrinkles disappear,0,c,1
+17I2F,17I2FH3D,H3D,Botox,Kan het worden gebruikt bij mensen die vaak met hun ogen knipperen,Can it be used in people who often blink their eyes,0,c,1
+17I5F,17I5FH3E,H3E,Botox,Zenuwtrekjes verminderen,reduce Twitching,0,c,1
+17I6F,17I6FH3C,H3C,Botox,Minder rimpels,fewer wrinkles,0,c,1
+19I1F,19I1F3A3,3A3,Botox,daarom gevaarlijk,therefore dangerous,0,c,1
+20I1F,20I1FA3A,A3A,Botox,"zijn er in 2004, 28 mensen overleden in Amerika","there in 2004, 28 people deceased in America",0,c,1
+20I3F,20I3F2VB,2VB,Botox,zijn er doden gevallen omdat het verkeerd is gebruikt,cases because it is misused there dead,0,c,1
+20I5F,20I5FH3E,H3E,Botox,geen spastische trekjes,No spastic tendencies,0,c,1
+20I6F,20I6FH3D,H3D,Botox,Kan je niet meer je ogen knipperen,You can not blink your eyes,0,c,1
+25I5F,25I5F3A1,3A1,Botox,zorgt dat je je wimpers bv. Niet te hard dicht doet,makes you lashes eg. Not doing too hard close,0,c,1
+26I2F,26I2FH3D,H3D,Botox,Wordt het gebruikt bij patienten die hard knipperen,It is used in patients who blink hard,0,c,1
+29I1F,29I1F3AB,3AB,Botox,Zijn er veel mensen doodgegaan door een overdosis.,Are there many people died from an overdose.,0,c,1
+2I6F,2I6FH3B,H3B,Botox,wordt het bij mensen gebruikt die last hebben van oogknipperen in grote maten,it is used by people who suffer from eye blinking in large sizes,0,c,1
+32I3F,32I3FH3E,H3E,Botox,verlammen je spieren,paralyze your muscles,0,c,1
+3I2O,3I2O3A3,3A3,Botox,minder wimpers bij je oog,lower lashes to your eye,0,c,1
+4I2O,4I2O3G2,3G2,Botox,wordt het als medicijn gebruikt voor spieren die te veel werken,it is used as a medicine for many muscles that work,0,c,1
+4I3O,4I3O3VA,3VA,Botox,gevaarlijk en dus strenge maatregelen,hazardous and therefore strict measures,0,c,1
+5I1F,5I1FH3A,H3A,Botox,stopt spasmes,stops spasms,0,c,1
+5I1O,5I1OH3C,H3C,Botox,Mag alleen door doktoren worden gedaan,Should only be done by doctors,0,c,1
+5I3O,5I3OG3,G3,Botox,Wordt gebruikt bij patienten,Is used in patients,0,c,1
+5I5F,5I5F3A3,3A3,Botox,moet je oppasen met de hoeveelheden die je gebruikt,you must oppasen the quantities you use,0,c,1
+5I6F,5I6FH3D,H3D,Botox,Je kan veel knipperen,You can flash a lot,0,c,1
+8I2O,8I2O3AB,3AB,Botox,Gevaarlijk,Dangerous,0,c,1
+8I3F,8I3F2VB,2VB,Botox,huidt verlamt,huidt paralyzes,0,c,1
+8I5F,8I5F3A1,3A1,Botox,kan al dood gaan,may be dead,0,c,1
+8I5F,8I5FH3C,H3C,Botox,Word het goed gecontroleerd,Get it checked properly,0,c,1
+9I1F,9I1FHC3,HC3,Botox,kan het heel gevaarlijk zijn,it can be very dangerous,0,c,1
+13I6F,13I6FA3,A3,Geld,je familie maakt je gelukkig,your family makes you happy,4b,g,1
+15I3F,15I3F3A3,3A3,Geld,mensen zijn gelukkig als ze bij de maatschappij of bij hun familie horen,people are happy if they belong to society or with their families,4b,g,1
+27I6F,27I6F3G2,3G2,Geld,mensen worden gelukkiger van de mensen om hun heen dan van de economische stabiliteit,people are happier than the people around them economic stability,4b,g,1
+14I3F,14I3FA3A,A3A,Geld,gevoel van geluk blijft niet lang,feeling of happiness does not last long,4a,g,1
+5I1F,5I1FH3A,H3A,Geld,mensen ervaren maar kort gevoel van geluk,people experience only brief sense of happiness,4a,g,1
+11I6F,11I6F2VB,2VB,Geld,rijke mensen vaak niet gelukkig,rich people are often unhappy,5,g,1
+8I3F,8I3FG3,G3,Geld,mensen met veel geld vaak ongelukkig,people with money often unhappy,5,g,1
+11I2F,11I2F3TT1,3TT1,Geld,mensen raken snel gewend aan dingen om alerter te zijn voorg evaar,People quickly get used to things to be alert Foreground evaar,3,g,1
+11I6F,11I6FH3E,H3E,Geld,Mensen wennen snel aan dingen,People get used to things,3,g,1
+12I5F,12I5FA3,A3,Geld,Mensen wennen snel dus ook aan luxe dingen,People quickly get used also to luxuries,3,g,1
+8I2O,8I2O3AB,3AB,Geld,Je raakt gewend aan de hoeveelheid geld dat je hebt,You get used to the amount of money you have,3,g,1
+11I1F,11I1F3G2,3G2,Geld,mens heeft voor een korte tijd gevoel van (on)geluk,Man has for a short time feeling (un) lucky,2,g,1
+2I6F,2I6F3A1,3A1,Geld,mensen kunnen maar kort gelukkig of ongelukkig zijn,people may be short but happy or unhappy,2,g,1
+5I1O,5I1OH3C,H3C,Geld,Het blijkt dat mensen maar kort geluk of ongeluk voelen,It appears that people feel but shortly fortune or misfortune,2,g,1
+5I3O,5I3OV3D,V3D,Geld,Mensen kunnen niet heel lang gelukkig of ongelukkig zijn,People can not be very long happy or unhappy,2,g,1
+8I5F,8I5F3TT1,3TT1,Geld,geluk blijft niet lang,happiness does not last long,2,g,1
+9I3F,9I3F3A3,3A3,Geld,mens kan niet een geluksgevoel voor lange tijd aanhouden,Man can not maintain a sense of happiness for a long time,2,g,1
+14I5F,14I5F3AB,3AB,Geld,Mensen worden snel afgeleid van de gevaren,People are easily distracted Hazards,1,g,1
+7I5F,7I5F3VA,3VA,Geld,mensen willen van nature niet te lang onbewut van het idee gevaar af zijn,people will naturally last onbewut the risk of his idea,1,g,1
+8I5F,8I5FH3C,H3C,Geld,mensen kunnen mogelijk gevaar maar kort in de gaten houden,people to potential danger but keep short eye,1,g,1
+10I2F,10I2FHC3,HC3,Geld,persoon onderzoekt jonge lotto winnaars,person examines young lotto winners,0,c,1
+10I4F,10I4F3G2,3G2,Geld,iemand wint de loterij,someone wins the lottery,0,c,1
+11I3F,11I3F3VA,3VA,Geld,mensen winnen de loterij,people win the lottery,0,c,1
+11I4F,11I4FH3C,H3C,Geld,Lotto winners winnen loterij,Lotto winners win lottery,0,c,1
+11I5F,11I5FG3,G3,Geld,Mensen krijgen ineens heel veel geld,People are suddenly a lot of money,0,c,1
+11I6F,11I6FV3D,V3D,Geld,mensen zij vaker gelukkig als hun omgeving gelukkig is,people it is often happy if their environment happy,0,c,1
+12I4F,12I4FHC3,HC3,Geld,Veel geld winnen,win big,0,c,1
+14I3F,14I3F3A1,3A1,Geld,mensen kunnen niet tegen het in 1 keer krijg,people can not get in to the first time,0,c,1
+14I5F,14I5F3TT1,3TT1,Geld,je bent gelukkiger met liefde,you are happier with love,0,c,1
+14I5F,14I5FH3B,H3B,Geld,melanie greenberg 'psycholoog' doet onderzoek,Melanie Greenberg 'psychologist' researches,0,c,1
+16I1F,16I1F3G2,3G2,Geld,mens is van nature alert,Man is naturally alert,0,c,1
+17I1F,17I1F3GA1,3GA1,Geld,De mens is van nature oplettend op evt. gevaar,Man is naturally attentive to if necessary. Danger,0,c,1
+17I1F,17I1F3VA,3VA,Geld,De mens kan niet lang onder grote spanning staan,Man can not stand long under great stress,0,c,1
+17I2F,17I2FH3D,H3D,Geld,Melanie Greenberg doet onderzoek naar lottowinnaars,Melanie Greenberg investigates lotto winners,0,c,1
+17I3F,17I3F3AB,3AB,Geld,Geld wordt gewonnen,Money won,0,c,1
+17I6F,17I6F2VB,2VB,Geld,als je veel geld wint,if you win a lot of money,0,c,1
+17I6F,17I6FH3C,H3C,Geld,Geld lijkt leuk,Money seems fun,0,c,1
+17I6F,17I6FV3D,V3D,Geld,mensen denken gelukkig te worden van geld,people think to be lucky money,0,c,1
+19I1F,19I1F3A3,3A3,Geld,geld gewonnen,winnings,0,c,1
+19I4F,19I4F3GA1,3GA1,Geld,"je wint 134,2 miljoen",you win 134.2 million,0,c,1
+19I5F,19I5F3AB,3AB,Geld,Van nature geven mensen geld uit aan leuke dingen,give people money naturally to fun things,0,c,1
+1I4O,1I4O3GA1,3GA1,Geld,veel geld,lots of money,0,c,1
+20I2F,20I2F3VA,3VA,Geld,Onderzoek naar levensloop van lottowinnaar,Research on life of lotto winner,0,c,1
+20I2F,20I2FV3D,V3D,Geld,mensen moesten vroeger vaak snel de leefomgeving aanpassen,People were often used to quickly adjust the environment,0,c,1
+20I3F,20I3F2VB,2VB,Geld,mensen willen graag lottowinnaar zijn,People want to be lotto winner,0,c,1
+20I3F,20I3FH3A,H3A,Geld,familie/vrienden,family friends,0,c,1
+20I3F,20I3FH3C,H3C,Geld,Geld maakt niet gelukkig,Money does not make you happy,0,c,1
+20I4O,20I4O3A1,3A1,Geld,je bent gelukkig als je geen zorgen hebt maar als je dit te ONLEESBAAR hebt is dat ook niet goed,you're lucky if you do not care but if you have to UNREADABLE this is not good,0,c,1
+20I5F,20I5FH3E,H3E,Geld,heel veel geld,lots of money,0,c,1
+20I6F,20I6FG3,G3,Geld,Er is een onderzoek gedaan naar geluk,There is research on happiness,0,c,1
+23I2F,23I2FH3C,H3C,Geld,Als je geld hebt wil je meer,If you have money you want more,0,c,1
+25I5F,25I5F3A1,3A1,Geld,veel geld,lots of money,0,c,1
+26I2F,26I2FH3D,H3D,Geld,je koopt een lot,you buy a ticket,0,c,1
+29I1F,29I1F3AB,3AB,Geld,Economische welvaart maakt niet gelukkig,Economic prosperity can not buy happiness,0,c,1
+2I3O,2I3O2VB,2VB,Geld,gelukkig zijn met iets is als je iets nieuws krijgt,be happy with anything when you get something new,0,c,1
+2I5O,2I5O3TT1,3TT1,Geld,familie en omgeving om daar in te passen is belangrijk,family and environment to fit in there is important,0,c,1
+2I6F,2I6FH3B,H3B,Geld,de mens jaagde vroeger,Man hunted earlier,0,c,1
+32I3F,32I3FH3E,H3E,Geld,Veel geld,Lots of money,0,c,1
+3I2O,3I2O3A3,3A3,Geld,je hebt veel geld,you have lots of money,0,c,1
+4I2O,4I2O3G2,3G2,Geld,mensen krijgen snel en gemakkelijk geld,people get quick and easy money,0,c,1
+5I3O,5I3OG3,G3,Geld,Mensen willen vaak veel geld,People often want money,0,c,1
+5I5F,5I5F3A3,3A3,Geld,je wint de lotterij dus veel geld,you win the lottery so much money,0,c,1
+5I6F,5I6FH3D,H3D,Geld,Lottowinnaars hebben veel geld,Lotto winners have a lot of money,0,c,1
+8I1F,8I1FA3,A3,Geld,Mensen die gelukkig zijn,People who are happy,0,c,1
+8I2F,8I2FV3D,V3D,Geld,lange toch om afrika,long anyway to africa,0,c,1
+8I3F,8I3F2VB,2VB,Geld,moeilijkheden met geld,difficulties with money,0,c,1
+8I5F,8I5F3A1,3A1,Geld,lottowinnaars hebben veel geld,Lotto winners have a lot of money,0,c,1
+8I6F,8I6FH3E,H3E,Geld,"Mensen die iets krijgen wennen daar snel aan (geld, alcohol)","People who have something to get used to it quickly (money, alcohol)",0,c,1
+9I1F,9I1FHC3,HC3,Geld,ze winnen de loterij,they win the lottery,0,c,1
+1I4O,1I4O3GA1,3GA1,Metro,Zeebaars bij de kust in Amerika,Sea bass at the coast in America,5,g,1
+11I6F,11I6F2VB,2VB,Metro,kunstmatig rif ontstaan,artificial reef arise,3,g,1
+20I1F,20I1FA3A,A3A,Metro,word op een kunstmatig koraalrif aangelegd,word applied to an artificial coral reef,3,g,1
+26I6F,26I6FA3A,A3A,Metro,kunstmatig rif aangelegd,artificial reef constructed,3,g,1
+5I1F,5I1FH3A,H3A,Metro,kunst matige riffen,art moderate reefs,3,g,1
+11I1F,11I1F3G2,3G2,Metro,afval van metro's geen zorgen meer,Metro's waste no more worries,2,g,1
+11I2F,11I2F3TT1,3TT1,Metro,hoeft het afval niet op andere manier verwerkt te worden,the waste need not be processed in some way,2,g,1
+11I2F,11I2FH3B,H3B,Metro,hoeft het afval niet anders verwerkt te worden,"otherwise, the waste does not need to be processed",2,g,1
+11I3F,11I3F3GA1,3GA1,Metro,Het afval hoeft niet ergens anders verwerkt te worden,The waste does not have anywhere else to be processed,2,g,1
+11I3F,11I3F3VA,3VA,Metro,rode metrowagons hoeven niet op een andere manier verwerkt te worden,red subway cars need not be processed in a different way,2,g,1
+11I3F,11I3FHC3,HC3,Metro,hoeven de rode wagens niet op een andere manier worden verwekt,the red cars need not be differently conceived,2,g,1
+11I5F,11I5FG3,G3,Metro,Geen verdere verwerkinge nodig voor de wagons,No further processing been required for wagons,2,g,1
+11I6F,11I6FH3E,H3E,Metro,hoeft het afval niet verwerkt te worden,the waste need not be processed,2,g,1
+12I4F,12I4FHC3,HC3,Metro,afval hoeft niet meer verbrand te worden,waste does not need to be incinerated,2,g,1
+14I4F,14I4F3G2,3G2,Metro,Hoeft restafval uit metro's niet ergens anders heen,Do not waste from underground elsewhere,2,g,1
+14I4F,14I4FG3,G3,Metro,Hoeft het afval niet verwerkt te worden,Hoeft the waste to be processed,2,g,1
+14I5F,14I5F3AB,3AB,Metro,Hoeven de metrowagens niet anders worden vernietigd,Do not otherwise be destroyed subway cars,2,g,1
+15I3F,15I3F3A3,3A3,Metro,hoefden ze het afval niet op een andere manier verwerken,they did not process in a different way the waste,2,g,1
+17I1F,17I1F3GA1,3GA1,Metro,hoeven ze niet verwerkt te worden als afval,they do not need to be disposed of,2,g,1
+17I3F,17I3F3AB,3AB,Metro,Het afval van de metro wagens hoeft niet worden opgeruimt,Subway cars waste does not need to be cleaned up,2,g,1
+18I4F,18I4F3GA1,3GA1,Metro,afval niet te verwerken,not to process waste,2,g,1
+19I4F,19I4F3GA1,3GA1,Metro,afval uit metro's niet meer gedumpt hoeven te worden,waste subways need not be dumped,2,g,1
+19I5F,19I5F3AB,3AB,Metro,Hoefde al het afval niet ergens anders heen,all the waste did not have anywhere else,2,g,1
+20I4O,20I4O3A1,3A1,Metro,"hoefde ze, ze niet af te breken tot afval","they did, they do not break down into waste",2,g,1
+20I6F,20I6FG3,G3,Metro,Daarom zijn de mensen van de auto's af (en hoeven ze niet voor het afval een oplossing te vinden),"Therefore, men from the cars (and they do not need to waste to find a solution)",2,g,1
+23I2F,23I2FH3B,H3B,Metro,hoeft het afval van de metro wagens niet extra verwerkt te worden,the waste of the subway cars do not need to be processed,2,g,1
+25I5F,25I5F3A1,3A1,Metro,hoeft niet gesloopt en opgeruimt te worden,do not be demolished and cleaned up,2,g,1
+26I1F,26I1FV3D,V3D,Metro,hoeven ze niet meer naar de afval verwerkinge gebracht te worden,they need not be brought more to the waste processing hold,2,g,1
+27I6F,27I6F3G2,3G2,Metro,zodat ze het afval niet hoeven te verwerken,so they do not have to process the waste,2,g,1
+2I3O,2I3O2VB,2VB,Metro,hoeven ze het niet weg te werken,they do not work the way,2,g,1
+2I5O,2I5O3TT1,3TT1,Metro,hoeft het afval nergens anders geloost te worden,the waste to be nowhere else geloost,2,g,1
+4I2O,4I2O3G2,3G2,Metro,hoeft het afval niet op andere manier verwerkt te worden,the waste need not be processed in some way,2,g,1
+4I3O,4I3O3VA,3VA,Metro,hoeft dit 'afval' niet op een andere manier verwerkt te worden,do this 'waste' not to be processed in a different way,2,g,1
+5I1O,5I1OH3B,H3B,Metro,hoeven ze niet op een andere manier verwerkt te worden,they need not be processed in a different way,2,g,1
+5I2F,5I2F3TT1,3TT1,Metro,hoefden niet op andere manier verwerkt te worden,did not have to be processed in some way,2,g,1
+8I1F,8I1FA3,A3,Metro,Hoef je 't niet op te ruimen,Do not you clean up,2,g,1
+8I3F,8I3FG3,G3,Metro,Overtollige vuil hoeft niet opgeruimd te worden,Excess dirt does not need to be cleaned up,2,g,1
+8I5F,8I5F3TT1,3TT1,Metro,hoeven ze het afval niet verder te verwerken,they do not need to be processed no further waste,2,g,1
+8I5F,8I5FH3C,H3C,Metro,hoeven ze het niet op te ruimen,they do not have to clean up the,2,g,1
+8I6F,8I6FH3E,H3E,Metro,hoeven ze deze niet meer af te breken en/of op te ruimen,They do this not to break down and / or clean up,2,g,1
+10I2F,10I2FHC3,HC3,Metro,meer reli\'ebf,more reliable \ 'EBF,0,c,1
+11I5F,11I5FH3A,H3A,Metro,reli\'ebf in zee bodem,reli \ 'EBF in sea bed,0,c,1
+11I6F,11I6FV3D,V3D,Metro,heeft NY minder afval,NY has less waste,0,c,1
+13I5F,13I5FHC3,HC3,Metro,weinig relief zeebodem,little relief seabed,0,c,1
+14I5F,14I5F3TT1,3TT1,Metro,minder afval,less waste,0,c,1
+16I1F,16I1F3G2,3G2,Metro,geen zorgen over afval,no concerns about waste,0,c,1
+17I1F,17I1F3VA,3VA,Metro,Geen stoffen meer te verwerken,No materials to be used more,0,c,1
+17I2F,17I2F3TT1,3TT1,Metro,meer zeerif,more zeerif,0,c,1
+17I2F,17I2FH3D,H3D,Metro,Was gelijk al het afval in 1x gedumpt,Was like all the waste dumped in 1x,0,c,1
+17I5F,17I5FH3E,H3E,Metro,plek voor het afval van de wagens.,place for the waste of the cars.,0,c,1
+17I6F,17I6F2VB,2VB,Metro,minder schadelijk afval op het land geen inemende ruimte,less hazardous waste on land not inemende space,0,c,1
+20I2F,20I2F3VA,3VA,Metro,nergens anders te vernietigen of weg te gooien,nowhere else to destroy or throw away,0,c,1
+20I2F,20I2FV3D,V3D,Metro,vervuiling,pollution,0,c,1
+20I3F,20I3FH3C,H3C,Metro,Soort van koraalrif,Type of coral reef,0,c,1
+20I5F,20I5F3AB,3AB,Metro,Grotere oppervlakte op de oceaanbodem,Larger surface on the ocean floor,0,c,1
+20I5F,20I5FH3B,H3B,Metro,een rif in de zee,a reef in the sea,0,c,1
+20I5F,20I5FH3E,H3E,Metro,onregelmatig rif,irregular reef,0,c,1
+23I2F,23I2FH3C,H3C,Metro,Een kunstoffe rif,A nice artificial reef,0,c,1
+26I2F,26I2FH3D,H3D,Metro,Gene geld verspillen voor vernietiging ervan,Gene waste money for destruction,0,c,1
+26I3F,26I3FG3,G3,Metro,Redbirds genoemd,Redbirds named,0,c,1
+2I6F,2I6F3A1,3A1,Metro,wordt de bodem minder diep,the soil is shallower,0,c,1
+3I2O,3I2O3A3,3A3,Metro,redbirds gememd,redbirds gememd,0,c,1
+5I3O,5I3OG3,G3,Metro,Is de zee minder diep. Afval weg.,The sea is less deep. Waste.,0,c,1
+5I3O,5I3OV3D,V3D,Metro,hoeft het niet op het land gesloopt te worden,it need not be demolished on the land,0,c,1
+5I5F,5I5F3A3,3A3,Metro,is er geen rode metrowagon meer,there is no more red subway car,0,c,1
+7I5F,7I5F3VA,3VA,Metro,zijn we van afval af,we are rid of waste,0,c,1
+8I1F,8I1FH3B,H3B,Metro,veel metrowagens onder de zee,many subway cars under the sea,0,c,1
+8I2O,8I2O3AB,3AB,Metro,Geen afval,no waste,0,c,1
+8I3F,8I3F2VB,2VB,Metro,zee reageert er op,Sea reacts on,0,c,1
+8I5F,8I5F3A1,3A1,Metro,neemt ruimte in,occupies space,0,c,1
+9I3F,9I3F3A3,3A3,Metro,minder afval op land,less waste on land,0,c,1
+10I2F,10I2FHC3,HC3,Muziek,Muziek maakt je slimmer,Music makes you smarter,3c,g,1
+17I2F,17I2FH3D,H3D,Muziek,Van muziek krijg je een hoger IQ,Music you get a higher IQ,3c,g,1
+26I1F,26I1FV3D,V3D,Muziek,Muziek maakt slimmer,Music makes you smarter,3c,g,1
+8I1F,8I1FA3,A3,Muziek,Door het bespelen van een instrument of het bestuderen v muziek wordt je slimmer,By playing an instrument or studying v music make you smarter,3c,g,1
+8I3F,8I3FG3,G3,Muziek,Muziek maken maakt slimmer,Making music makes you smarter,3c,g,1
+8I6F,8I6FH3E,H3E,Muziek,mensen die een instrument spelen zijn er volgens een IQ test veel slimmer door bijv. Noten lezen,"people who play an instrument, according to an IQ test smarter by example. Reading notes",3c,g,1
+2I3O,2I3O2VB,2VB,Muziek,meer hersen delen nodig,more parts of the brain need,2,g,1
+9I3F,9I3F3A3,3A3,Muziek,verschillende hersengebieden worden geprikkelt zoals de hippocampus,geprikkelt different brain areas such as the hippocampus,2,g,1
+10I4F,10I4F3G2,3G2,Muziek,muziek te leren spelen,music playing,1,g,1
+11I1F,11I1F3G2,3G2,Muziek,noten kunnen lezen,note read,1,g,1
+11I2F,11I2F3TT1,3TT1,Muziek,muzieknoten lezen en spelen tegelijkertijd,read music notes and play simultaneously,1,g,1
+11I2F,11I2FH3B,H3B,Muziek,bladmuziek lezen is goed voor je hersenen,sheet music reading is good for your brains,1,g,1
+11I4F,11I4FH3C,H3C,Muziek,Noten lezen en daarna toepassen,Reading notes and then apply,1,g,1
+11I5F,11I5FG3,G3,Muziek,Je moet bv. Noten lezen,You need eg. Reading notes,1,g,1
+11I6F,11I6F2VB,2VB,Muziek,spelen van muziek,Playing music,1,g,1
+11I6F,11I6FV3D,V3D,Muziek,als je muziek speelt,if you play music,1,g,1
+12I4F,12I4FHC3,HC3,Muziek,Door het leren spelen van een muziek instrument,By learning to play a musical instrument,1,g,1
+14I3F,14I3FA3A,A3A,Muziek,je leert muziek,you learn music,1,g,1
+15I3F,15I3F3A3,3A3,Muziek,muziek leren en noten lezen stimuleert verschillende hersengebieden,music and learning to read music stimulates various brain regions,1,g,1
+15I3F,15I3FA3,A3,Muziek,muziek maken,make music,1,g,1
+16I1F,16I1F3G2,3G2,Muziek,muziek spelen,play music,1,g,1
+17I1F,17I1F3GA1,3GA1,Muziek,je leest noten en speelt tegelijk,you read notes and play simultaneously,1,g,1
+17I3F,17I3F3AB,3AB,Muziek,Muziek leren spelen,learn to play music,1,g,1
+17I6F,17I6F2VB,2VB,Muziek,als je een muziek instrument bespeeld en de noten kan lezen,if you played a musical instrument and can read notes,1,g,1
+17I6F,17I6FV3D,V3D,Muziek,"Als je muziek speelt, moet je spelen en noten lezen","If you play music, you need to play and reading notes",1,g,1
+18I4F,18I4F3GA1,3GA1,Muziek,het leren van noten en muziek,learning notes and music,1,g,1
+19I1F,19I1F3A3,3A3,Muziek,instrument bespelen,to play an instrument,1,g,1
+19I4F,19I4F3GA1,3GA1,Muziek,muzieknoten leren,learning musical notes,1,g,1
+19I5F,19I5F3AB,3AB,Muziek,Voor muziek moet je noten leren,For music you have to learn notes,1,g,1
+1I4O,1I4O3GA1,3GA1,Muziek,als je muziek leert lezen,if you learn to read music,1,g,1
+20I1F,20I1FA3A,A3A,Muziek,muziek spelen of leren,music playing or learning,1,g,1
+20I2F,20I2FV3D,V3D,Muziek,bij het spelen van muziek moet je noten lezen en de juiste noten spelen,when you play music you have to read music and play the right notes,1,g,1
+20I3F,20I3FH3A,H3A,Muziek,lezen van bladmuziek,reading sheet music,1,g,1
+20I4O,20I4O3A1,3A1,Muziek,door het lezen van bladmuziek met alle noten enzo,by reading sheet music with all the notes and stuff,1,g,1
+20I5F,20I5F3AB,3AB,Muziek,Door het lezen van noten en bespelen van instrumenten,By reading notes and playing instruments,1,g,1
+23I2F,23I2FH3B,H3B,Muziek,met muziek spelen moet je leren om noten te lezen,with music games you have to learn to read music,1,g,1
+25I5F,25I5F3A1,3A1,Muziek,door een instrument te spelen,by playing an instrument,1,g,1
+27I6F,27I6F3G2,3G2,Muziek,een muziek instrument bespelen,Playing a musical instrument,1,g,1
+29I1F,29I1F3AB,3AB,Muziek,Je leest noten van het bladmuziek,You read the notes of music,1,g,1
+2I4O,2I4OH3A,H3A,Muziek,noten die je moet leren kennen gaan je geheugen in,notes you should know going in your memory,1,g,1
+2I6F,2I6FH3B,H3B,Muziek,bij muziek moet je noten leren en lezen,with music notes and you have to learn to read,1,g,1
+3I2O,3I2O3A3,3A3,Muziek,noten lezen en muziek maken tegelijk,read notes and make music together,1,g,1
+4I3O,4I3O3VA,3VA,Muziek,door het lezen van noten en het spelen van een instrument,by reading notes and playing an instrument,1,g,1
+5I1O,5I1OH3B,H3B,Muziek,met muziek maken meel je spelen en bladmuziek lezen,making music flour can play and read music,1,g,1
+5I2F,5I2F3TT1,3TT1,Muziek,het leren van muziek,learning music,1,g,1
+5I3O,5I3OV3D,V3D,Muziek,door bladmuziek te lezen,by reading sheet music,1,g,1
+5I6F,5I6FH3D,H3D,Muziek,Door muziek noten te lezen,By reading music notes,1,g,1
+7I5F,7I5F3VA,3VA,Muziek,muziek spelen of leren,music playing or learning,1,g,1
+8I2F,8I2FV3D,V3D,Muziek,door muziek te spelen,by playing music,1,g,1
+8I2O,8I2O3AB,3AB,Muziek,De afwisseling van noten spelen en het onthouden van noten,play alternating notes and memorizing notes,1,g,1
+9I1F,9I1FHC3,HC3,Muziek,als je muziek speelt,if you play music,1,g,1
+11I3F,11I3F3GA1,3GA1,Muziek,Bv het lezen van noten doe je meerdere dingen tegelijk,Eg reading notes do several things at once,0,c,1
+11I6F,11I6FH3E,H3E,Muziek,Je moet de muzieknoten onthouden om het te kunnen lezen,You have to remember the notes to read the,0,c,1
+13I5F,13I5FHC3,HC3,Muziek,muziek luisteren is goed,listening to music is good,0,c,1
+14I3F,14I3F3A1,3A1,Muziek,muziek doe je met je hersenen,music done with your brains,0,c,1
+14I4F,14I4F3G2,3G2,Muziek,muziek is heel breed,music is very wide,0,c,1
+14I5F,14I5F3AB,3AB,Muziek,Voor het maken van muziek en het lezen van noten gebruik je je hersenen,For making music and reading notes you use your brains,0,c,1
+14I5F,14I5F3TT1,3TT1,Muziek,gebruik van muziek is goed,Using music is good,0,c,1
+17I1F,17I1F3VA,3VA,Muziek,muziek lezen koppelt het geheugen,read music combines memory,0,c,1
+17I2F,17I2F3TT1,3TT1,Muziek,je maakt muziek,you make music,0,c,1
+17I5F,17I5FH3E,H3E,Muziek,leren van noten,Learning notes,0,c,1
+17I6F,17I6FH3C,H3C,Muziek,Muziek spelen,Play music,0,c,1
+20I2F,20I2F3VA,3VA,Muziek,muziek maken maakt slimmer,Making music makes you smarter,0,c,1
+20I3F,20I3F2VB,2VB,Muziek,muziek is goed voor de hersenen,Music is good for the brains,0,c,1
+20I3F,20I3FH3C,H3C,Muziek,Met het luisteren van muziek,By listening to music,0,c,1
+20I6F,20I6FG3,G3,Muziek,Muziek luisteren,Listen to music,0,c,1
+20I6F,20I6FH3D,H3D,Muziek,Muziek is gezond,Music is healthy,0,c,1
+23I2F,23I2FH3C,H3C,Muziek,Muziek maakt slimmer,Music makes you smarter,0,c,1
+26I2F,26I2FH3D,H3D,Muziek,Je luistert muziek,You listen music,0,c,1
+2I6F,2I6F3A1,3A1,Muziek,bladmuziek lezen is ingewikkeld,sheet music reading is complicated,0,c,1
+4I2O,4I2O3G2,3G2,Muziek,luisteren naar muziek,listen to music,0,c,1
+5I1O,5I1OH3C,H3C,Muziek,Je moet noten omzetten in muziek,You need to convert notes in music,0,c,1
+5I3O,5I3OG3,G3,Muziek,Bij muziekspelen moet je verschillende noten spelen,When playing music you play different notes,0,c,1
+5I5F,5I5F3A3,3A3,Muziek,muziek legt verbanden,Music makes connections,0,c,1
+5I6F,5I6F2VB,2VB,Muziek,door muziek te luisteren wordt je slimmer van,by listening music you become smarter,0,c,1
+8I1F,8I1FH3B,H3B,Muziek,muziek maakt je slimmer,Music makes you smarter,0,c,1
+8I3F,8I3F2VB,2VB,Muziek,vroeg muziek leren,early learning music,0,c,1
+8I5F,8I5F3A1,3A1,Muziek,muziek spelen kan je helpen,Playing music can help,0,c,1
+8I5F,8I5F3TT1,3TT1,Muziek,muziek traint de hersens,music trains the brain,0,c,1
+12I4F,12I4FHC3,HC3,Suez,Suez-kanaal is gegraven,Suez canal has been dug,4,g,1
+13I5F,13I5FHC3,HC3,Suez,Suezkanaal wordt gegraven,Suez Canal is dug,4,g,1
+11I4F,11I4FA3,A3,Suez,De handelsroute van Jeddah naar Rotterdam te lang,The trade route from Jeddah to Rotterdam last,3,g,1
+20I3F,20I3FH3C,H3C,Suez,Afstand Atlantische en Indische oceaan te lang,Distance Atlantic and Indian Ocean last,3,g,1
+20I5F,20I5FH3E,H3E,Suez,te lange afstand,for long distance,3,g,1
+20I6F,20I6FH3D,H3D,Suez,Om van Jeddah naar r'dam was heel erg om,To Jeddah to R'dam was very to,3,g,1
+26I1F,26I1FV3D,V3D,Suez,koopvaarders moeten ver varen van de Atlantische Oceaan naar de Indische oceaan,merchantmen to sail far from the Atlantic to the Indian Ocean,3,g,1
+32I3F,32I3FH3E,H3E,Suez,De afstand tussen Eu en USA te groot is,The distance between Eu and USA is too big,3,g,1
+8I5F,8I5FH3C,H3C,Suez,Afstand Jeddah-Rotterdam te groot,Distance Jeddah Rotterdam too big,3,g,1
+9I1F,9I1FHC3,HC3,Suez,De afstand tussen haven Jeddah en havens in europa waren heel lang,The distance between Jeddah port and ports in Europe were long,3,g,1
+11I3F,11I3F3GA1,3GA1,Suez,schepen moesten om arika heen voren omdat daar de enige doorgang was,arika ships had to go ahead because it was the only passage,2,g,1
+11I5F,11I5FG3,G3,Suez,Je moest helemaal om Afrika heen naar Jeddah,You had to go all the way to Africa to Jeddah,2,g,1
+11I6F,11I6FV3D,V3D,Suez,Omdat je vroeger helemaal om Afrika heen moestvaren om bij Jeddah te komen hebben ze,Since you used all had to sail around Africa to reach Jeddah them,2,g,1
+14I4F,14I4FG3,G3,Suez,Vroeger moest je om Afrika heen varen en dat wouden de mensen niet meer,Previously you had to sail back to Africa and forests people no longer,2,g,1
+1I4O,1I4O3GA1,3GA1,Suez,Er moest om Afrika heen worden gevaren,There must be around Africa hazards,2,g,1
+20I1F,20I1FA3A,A3A,Suez,Schepen moesten eerst rond heel Afrika varen,Ships must first sail around the whole of Africa,2,g,1
+29I1F,29I1F3AB,3AB,Suez,Schepen moesten om heel Afrika heen varen,Ships had to sail around the whole of Africa,2,g,1
+4I2O,4I2O3G2,3G2,Suez,om aan de andere kant te komen moest je om afrika heen,around to the other side you had to come to Africa,2,g,1
+8I2O,8I2O3AB,3AB,Suez,De reis van de indische oceaan naar middellanse zee en naar de Atlantische oceaan was er groot omdat ze helemaal onder Afrika heen moesten,The journey of the Indian Ocean to middellanse sea and the Atlantic ocean was great because they had to go all the way under Africa,2,g,1
+8I6F,8I6FH3E,H3E,Suez,de scheepsroute van Rotterdam naar India was er lang. Moets helemaal om afrika heen.,The shipping route from Rotterdam to India was long. Mest all around Africa.,2,g,1
+11I2F,11I2F3TT1,3TT1,Suez,geen natuurlijk bruglarg tussen Jeddah en rotterdam,no natural bruglarg between Jeddah and Rotterdam,1,g,1
+13I6F,13I6FA3,A3,Suez,vroeger was de atlantische oceaan nog niet verbonden met de indische,formerly the Atlantic was not attached to the indian,1,g,1
+14I5F,14I5F3AB,3AB,Suez,Tussen de indische en arabische zee zit een woestijn,Between the Indian and Arabian sea is a wilderness,1,g,1
+17I3F,17I3F3AB,3AB,Suez,Geen directe eroute tussen Indische oceaan en Atlantische oceaan,No direct eroute between Indian Ocean and Atlantic Ocean,1,g,1
+17I6F,17I6FV3D,V3D,Suez,Tussen 2 zeeen was geen kanaal maar woestijn,Between two seas canal was not just desert,1,g,1
+19I5F,19I5F3AB,3AB,Suez,Er moest een verbinding komen tussen de Indische oceaan en de Middellandse zee,There had to be a connection between the Indian Ocean and the Mediterranean Sea,1,g,1
+20I6F,20I6FG3,G3,Suez,Er was geen verbinding tussen indische en \'85 oceaan,There was no connection between Indian and \ '85 ocean,1,g,1
+26I2F,26I2FH3D,H3D,Suez,er was geen verbinding van atlantische-zee naar de indische oceaan,there was no Atlantic-sea connection to the Indian Ocean,1,g,1
+26I3F,26I3FG3,G3,Suez,Tussen Atlantische oceaan en Indische oceaan ligt een woestijn,a desert located between Atlantic Ocean and Indian Ocean,1,g,1
+3I2O,3I2O3A3,3A3,Suez,geen verbinding met water tussen middelandse zee en indische zee,no connection to water between the Mediterranean and Indian ocean,1,g,1
+5I3O,5I3OV3D,V3D,Suez,Geen verbinding tussen de indische en middelandse zee,No connection between the Indian and Mediterranean,1,g,1
+8I3F,8I3FG3,G3,Suez,Geen verbinding tussen atlantische oceaan en indische oceaan,No connection between the Atlantic and Indian Ocean,1,g,1
+10I2F,10I2FHC3,HC3,Suez,Eerst geen water,First water,0,c,1
+10I4F,10I4F3G2,3G2,Suez,handelsroutes te lang,trade routes too long,0,c,1
+11I1F,11I1F3G2,3G2,Suez,handelroute Jeddah-Europa heel lang,Europe trade route Jeddah-long,0,c,1
+11I3F,11I3F3VA,3VA,Suez,Atlantische en Indische oceaan niet verbonden,Atlantic and Indian Ocean unconnected,0,c,1
+11I4F,11I4FH3C,H3C,Suez,Mensen wilde handel voeren tussen Jeddah en Rotterdam,People wanted to conduct trade between Jeddah and Rotterdam,0,c,1
+11I5F,11I5F3A1,3A1,Suez,omdat het voor handelaren in Afrika en Azi\'eb & het midden oosten moeilijk was om te varen werd het kanaal aangelegd,because for traders in Africa and Asia \ 'ebb & middle east was difficult to sail the canal was built,0,c,1
+11I6F,11I6F2VB,2VB,Suez,lange weg europa jeddah,long road europe jeddah,0,c,1
+12I5F,12I5FA3,A3,Suez,het is een belangrijke handelsroute,it is an important trade route,0,c,1
+14I3F,14I3F3A1,3A1,Suez,woestijn tussen Indische Oceaan en Atlantische oceaan,desert between Indian and Atlantic Ocean,0,c,1
+14I3F,14I3FA3A,A3A,Suez,afstand jeddah - rotterdam te groot,distance jeddah - Rotterdam too big,0,c,1
+14I5F,14I5F3TT1,3TT1,Suez,geen kanaal,no channel,0,c,1
+15I3F,15I3F3A3,3A3,Suez,geen verbinding tussen de atlantische en de Indische ocean,no connection between the Atlantic and Indian ocean,0,c,1
+16I1F,16I1F3G2,3G2,Suez,Handel was belangrijk tussen Europa en Azi\'eb,Trade was important between Europe and Asia \ 'eb,0,c,1
+17I1F,17I1F3GA1,3GA1,Suez,zeelui wilden handelen met Azi\'eb,sailors wanted to trade with Asia \ 'eb,0,c,1
+17I1F,17I1F3VA,3VA,Suez,Tussen \'85oceaan en \'85oceaan loopt geen rivier,"Between \ '85oceaan and \ ""no river runs 85oceaan",0,c,1
+17I2F,17I2F3TT1,3TT1,Suez,afstand jeddah - rotterdam te lang,distance jeddah - Rotterdam last,0,c,1
+17I2F,17I2FH3D,H3D,Suez,Verbinding tussen de indische oceaan en de middellandse zee,Connection between the Indian Ocean and the Mediterranean Sea,0,c,1
+17I5F,17I5FH3E,H3E,Suez,grote afstand van jeddah-rotterdam,large distance from jeddah-Rotterdam,0,c,1
+17I6F,17I6F2VB,2VB,Suez,tussen 2 oceane een kanaal gegraven,between 2 oceane a channel dug,0,c,1
+17I6F,17I6FH3C,H3C,Suez,Veel handel,many trade,0,c,1
+18I4F,18I4F3GA1,3GA1,Suez,men vondt de afstand lang,one vondt the longitudinal distance,0,c,1
+19I1F,19I1F3A3,3A3,Suez,helemaal gegraven,completely dug,0,c,1
+19I4F,19I4F3GA1,3GA1,Suez,handelen over woestijn niet handig,deal desert not convenient,0,c,1
+20I2F,20I2F3VA,3VA,Suez,eerst moesten schepen 10000+ mijl over zee naar Rotterdam,First ships had 10000+ miles by sea to Rotterdam,0,c,1
+20I2F,20I2FV3D,V3D,Suez,Woestijn tussen 2 oceanen,Desert between two oceans,0,c,1
+20I3F,20I3FH3A,H3A,Suez,handelschepen van havenstad saoedie-arabi\'eb naar Europa,merchant ships from port saudi-arabia \ 'ebb to Europe,0,c,1
+20I4O,20I4O3A1,3A1,Suez,oostenrijkse ontwerper groef het suezkanaal,Austrian designer joined the Suez canal,0,c,1
+25I5F,25I5F3A1,3A1,Suez,door graven van suezkanaal,by digging Suez canal,0,c,1
+26I6F,26I6FA3A,A3A,Suez,geen waterverbinding,no water connection,0,c,1
+27I6F,27I6F3G2,3G2,Suez,mensen handelen met het buitenland,people trading with foreign countries,0,c,1
+2I3O,2I3O2VB,2VB,Suez,grote afstand via zee van atlantisch indische,great distance from sea atlantic indian,0,c,1
+2I6F,2I6FH3B,H3B,Suez,Eerst moesten mensen lange afstand door afrika afleggen,"First, people had long-distance travel through Africa",0,c,1
+4I3O,4I3O3VA,3VA,Suez,Afstand Jeddah-Rotterdam heel lang (ong. 10.000 zeemijl),Distance Rotterdam Jeddah-long (approx. 10 000 nautical miles),0,c,1
+5I1F,5I1FH3A,H3A,Suez,reis door woestijn voor handel,journey through desert for trade,0,c,1
+5I1O,5I1OH3B,H3B,Suez,afstand voor schepen van Jeddah-Rotterdam te lang vanwege woestijn,distance for ships Jeddah Rotterdam last for desert,0,c,1
+5I1O,5I1OH3C,H3C,Suez,Het duurde land om van de ene naar de andere plek te gaan,It took the country to move from one place to another,0,c,1
+5I3O,5I3OG3,G3,Suez,De verbinding is belangrijk omdat zij handel wilden drijven,The connection is important because they wanted to trade,0,c,1
+5I5F,5I5F3A3,3A3,Suez,"Een woestijn tussen twee grote oceanen, lange omweg","A desert between two great oceans, long detour",0,c,1
+5I6F,5I6FH3D,H3D,Suez,Afstand Jeddah-Rotterdam moeilijk te komen,hard to come away Jeddah Rotterdam,0,c,1
+7I5F,7I5F3VA,3VA,Suez,route scheepvaart Indische Oceaan - Middellandse zee heel lang,Indian Ocean shipping route - Mediterranean long,0,c,1
+8I1F,8I1FA3,A3,Suez,Grote afstanden en geen vervoer voor producten over water,Long distances and no transport goods by water,0,c,1
+8I1F,8I1FH3B,H3B,Suez,lange afstand tussen Jeddah en rotterdam,long distance between Jeddah and Rotterdam,0,c,1
+8I3F,8I3F2VB,2VB,Suez,te veel afstand tussen 2 oceanen,too much distance between two oceans,0,c,1
+8I5F,8I5F3TT1,3TT1,Suez,Schepen uit azi\'eb moesten lange weg afleggen,Ships had to walk long way from asia \ 'eb,0,c,1
+9I3F,9I3F3A3,3A3,Suez,handelaren van europa naar azi\'eb en midden-oosten vonden afstand te lang,traders europe to asia \ 'ebb and Middle East were away too long,0,c,1
+8I1F,8I1FH3B,H3B,Beton,liften worden groter,elevators be greater,0,c,2
+11I6F,11I6FH3E,H3E,Beton,Worden gebouwen kleiner,Are smaller buildings,3,g,2
+20I2F,20I2F3VA,3VA,Beton,KOMO-certificaat nodig voor beton,KOMO certificate for concrete,0,c,2
+20I2F,20I2FV3D,V3D,Beton,krimpen gebouwen,shrink buildings,3,g,2
+20I6F,20I6FH3D,H3D,Beton,door centrale verwarming,by central heating,1,g,2
+27I6F,27I6F3G2,3G2,Beton,gebruiken de mensen toch de centrale verwarming,people still use the central heating,1,g,2
+5I1O,5I1OH3C,H3C,Beton,zakken de huizen / muren,lower houses / walls,0,c,2
+8I1F,8I1FA3,A3,Beton,groot bouwen + kleinere liften,big build smaller elevators +,0,c,2
+8I5F,8I5F3A1,3A1,Beton,kunnen betonnen gebouwen krimpen,may shrink concrete buildings,3,g,2
+8I6F,8I6FH3E,H3E,Beton,krimpen veel gebouwen die van o.a. Beton zijn gemaakt,shrink many buildings made from concrete include,3,g,2
+11I4F,11I4FA3,A3,Beton,als beton uitdroogt krimpt het gebouw,as concrete dries it shrinks building,2,g,2
+13I5F,13I5FHC3,HC3,Beton,moet er een komo-certificaat zijn,there must be a KOMO-certificate,0,c,2
+14I4F,14I4FG3,G3,Beton,Wordt het beton kleiner,The concrete is less,3,g,2
+20I5F,20I5FH3B,H3B,Beton,kan krimpen,can shrink,3,g,2
+26I6F,26I6FA3A,A3A,Beton,krimpen gebouwen,shrink buildings,3,g,2
+4I3O,4I3O3VA,3VA,Beton,krimpt het beton in,the concrete shrinks,3,g,2
+10I4F,10I4F3G2,3G2,Beton,droogt het beton uit,the concrete dries out,2,g,2
+11I1F,11I1F3G2,3G2,Beton,gaat het beton krimpen,to shrink the concrete,3,g,2
+11I2F,11I2F3TT1,3TT1,Beton,worden gebouwen kleiner,buildings are smaller,3,g,2
+11I2F,11I2FH3B,H3B,Beton,door de verwarming aan te zetten be\'efnvloed je het beton,"by turning on the heater be \ ""you efnvloed concrete",1,g,2
+11I3F,11I3F3GA1,3GA1,Beton,Door de CV wordt het beton warmer,By heating the concrete heats,1,g,2
+11I3F,11I3FHC3,HC3,Beton,worden gebouwen kleiner,buildings are smaller,3,g,2
+11I5F,11I5FG3,G3,Beton,Droogt het beton uit,The concrete dries out,2,g,2
+11I6F,11I6FV3D,V3D,Beton,heeft nederland een wet dat je alleen speciaal beton mag gebruiken,Netherlands has a law that you can only use special concrete,0,c,2
+12I4F,12I4FHC3,HC3,Beton,door de warmte krimpt het beton,by heat shrinking the concrete,3,g,2
+14I3F,14I3F3A1,3A1,Beton,beton kan niet goed tegen warmte,concrete can not stand heat,0,c,2
+14I5F,14I5F3TT1,3TT1,Beton,gaat het beton uitdrogen,drying out the concrete,2,g,2
+16I1F,16I1F3G2,3G2,Beton,krimpt beton,concrete shrinks,3,g,2
+17I2F,17I2F3TT1,3TT1,Beton,krimpt het beton,Shrink concrete,3,g,2
+17I6F,17I6FV3D,V3D,Beton,krimpt het beton,Shrink concrete,3,g,2
+19I4F,19I4F3GA1,3GA1,Beton,worden gebouwen kleiner,buildings are smaller,3,g,2
+19I5F,19I5F3AB,3AB,Beton,Ontstaat er beton krimpt,Creates concrete shrinks,3,g,2
+20I6F,20I6FG3,G3,Beton,Daarom kan beton uitdrogen,Therefore dry concrete,2,g,2
+2I3O,2I3O2VB,2VB,Beton,droogt beton uit,concrete dries out,2,g,2
+2I5O,2I5O3TT1,3TT1,Beton,het beton wordt warm,the concrete is hot,0,c,2
+2I6F,2I6FH3B,H3B,Beton,krimpen betonnen gebouwen,shrink concrete buildings,3,g,2
+4I2O,4I2O3G2,3G2,Beton,het beton krimpt,Shrink concrete,3,g,2
+5I1F,5I1FH3A,H3A,Beton,betonnen gebouwen krimpen,shrink concrete buildings,3,g,2
+5I2F,5I2F3TT1,3TT1,Beton,beton zet uit,Concrete expands,0,c,2
+5I3O,5I3OV3D,V3D,Beton,het beton krimpt,Shrink concrete,3,g,2
+5I5F,5I5F3A3,3A3,Beton,krimpt het beton in,the concrete shrinks,3,g,2
+7I5F,7I5F3VA,3VA,Beton,Droogt beton uit,Concrete dries out,2,g,2
+8I3F,8I3F2VB,2VB,Beton,KOMO-certificaat aanvragen voor beton,KOMO-license applications for concrete,0,c,2
+8I5F,8I5FH3C,H3C,Beton,droogt het beton uit,the concrete dries out,2,g,2
+9I3F,9I3F3A3,3A3,Beton,het beton krimpt hierdoor omdat het vocht in het beton verdompt,the concrete will shrink because the moisture in the concrete verdompt,3,g,2
+10I2F,10I2FHC3,HC3,Beton,in liften ook dus hangt lift vast,So also in elevator is stuck elevators,4,g,2
+11I3F,11I3F3VA,3VA,Beton,beton droogt op,dry concrete,0,c,2
+11I4F,11I4FH3C,H3C,Beton,zijn er verwarmings nodig in het betonnen huis,there are heating needed in the concrete house,0,c,2
+11I5F,11I5F3A1,3A1,Beton,moet de verwarminstallatie niet teveel gebruikt worden anders krimpt het gebouw,the heating system must not be used too much otherwise the building shrinks,3,g,2
+11I5F,11I5FH3A,H3A,Beton,hitte heeft invloed op beton,Heat affects concrete,0,c,2
+11I6F,11I6F2VB,2VB,Beton,verwarming bij beton,heating in concrete,1,g,2
+14I3F,14I3FA3A,A3A,Beton,beton droogt uit,concrete dries out,2,g,2
+14I5F,14I5F3AB,3AB,Beton,De centrale verwarming wordt gebruikt,The central heating is used,1,g,2
+14I5F,14I5FH3B,H3B,Beton,gebruiken veel meer betonnen panelen,Using more concrete panels,0,c,2
+15I3F,15I3F3A3,3A3,Beton,kan met een bepaalde verwarming het beton inkrimpen,can reduce the concrete with a specific heating,3,g,2
+17I1F,17I1F3GA1,3GA1,Beton,de verwarming staat natuurlijk aan,heating is of course,1,g,2
+17I1F,17I1F3VA,3VA,Beton,Dat kan niet goed tegen UV-straling,This can not be properly against UV radiation,0,c,2
+17I2F,17I2FH3D,H3D,Beton,Door verwarmingcentrales krimpt het beton,By heating plants shrinks concrete,1,g,2
+17I3F,17I3F3AB,3AB,Beton,Constructie van gebouwen wordt van beton gemaakt,Construction of buildings made of concrete,0,c,2
+17I5F,17I5FH3E,H3E,Beton,beton krimpt door centrale verwarming,concrete shrinks by heating,1,g,2
+17I6F,17I6F2VB,2VB,Beton,als er een centrale verwarming in een betonnen gebouw zit kan het gebouw gaan krimpen,if there is to shrink the building central heating in a concrete building,1,g,2
+17I6F,17I6FH3C,H3C,Beton,Muur verwarming,Wall heating,0,c,2
+18I4F,18I4F3GA1,3GA1,Beton,gebruikt men centrale verwarming in het gebouw,use is central heating in the building,1,g,2
+19I1F,19I1F3A3,3A3,Beton,beton krimpt,concrete shrinks,3,g,2
+1I4O,1I4O3GA1,3GA1,Beton,Verwarming gaat aan,Heating goes on,1,g,2
+20I3F,20I3F2VB,2VB,Beton,worden er veel huizen en gebouwen van beton gemaakt (nu nog steeds),There are many houses and buildings made of concrete (still),0,c,2
+20I3F,20I3FH3C,H3C,Beton,Passen liften niet meer,Elevators not fit,4,g,2
+20I4O,20I4O3A1,3A1,Beton,zorgt vooral de verwarming dus voor uitzetten,especially makes the heat so to expand,0,c,2
+20I5F,20I5F3AB,3AB,Beton,Door de centrale verwarming wordt het warm en vochtiger,The central heating it is warm and humid,0,c,2
+20I5F,20I5FH3E,H3E,Beton,centrale verwarming,central heating,1,g,2
+26I1F,26I1FV3D,V3D,Beton,als de centrale verwarming op de verkeerde plek zit,if the central heating is in the wrong place,0,c,2
+26I2F,26I2FH3D,H3D,Beton,Krimpen sommige gebouwen,Shrink some buildings,3,g,2
+26I3F,26I3FG3,G3,Beton,CV nodig anders is het koud,Resume required otherwise the cold,1,g,2
+29I1F,29I1F3AB,3AB,Beton,Krimpt beton,shrinks concrete,3,g,2
+2I6F,2I6F3A1,3A1,Beton,is er nu wel goed beton maar vroeger niet,is now well used but not concrete,0,c,2
+32I3F,32I3FH3E,H3E,Beton,Vergroot het beton,Increase the concrete,0,c,2
+3I2O,3I2O3A3,3A3,Beton,door CV instalatie droogt het beton uit,by heating instalation concrete dries out,2,g,2
+5I3O,5I3OG3,G3,Beton,Maken zij het van beton,they make it concrete,0,c,2
+5I6F,5I6F2VB,2VB,Beton,hebben ze een wet nodig om te bepalen of het beton goed genoeg is,they need a law to determine whether the concrete is good enough,0,c,2
+8I2F,8I2FV3D,V3D,Beton,door een warme droge lucht,by a warm dry air,0,c,2
+8I2O,8I2O3AB,3AB,Beton,Als beton warm wordt (bv door verwarming) krimpt het,If concrete is hot (eg heater) it shrinks,3,g,2
+8I3F,8I3FG3,G3,Beton,Beton krimpt als er centrale verwarming is,Concrete shrinks as there is central heating,3,g,2
+8I5F,8I5F3TT1,3TT1,Beton,beton is niet van goede kwaliteit,concrete is not of good quality,0,c,2
+17I6F,17I6FV3D,V3D,Botox,zie je er voor 6 maanden zeker jonger uit,you certainly under 6 months,4a,g,2
+20I2F,20I2FV3D,V3D,Botox,geen zenuwtrekjes hebben bij de oogleden (veel knipperen),no tics have (lots of blinking) on ​​the eyelids,2,g,2
+20I4O,20I4O3A1,3A1,Botox,gebruikt voor spierspasme oud ONLEESBAAR,used for muscle spasm old UNREADABLE,0,c,2
+20I5F,20I5F3AB,3AB,Botox,Zijn rimpels weg,His wrinkles away,3,g,2
+8I6F,8I6FH3E,H3E,Botox,wordt het gebruikt om de huid strak te treken,it is used to move over the skin tight,0,c,2
+8I1F,8I1FA3,A3,Botox,gebruiken mensen dat omdat dat hun aanspanning helpt,people use it because it helps their tightening,2,g,2
+12I5F,12I5FA3,A3,Botox,zorgt het voor een verlamming tussen je spieren,it creates a paralysis between muscles,0,c,2
+19I5F,19I5F3AB,3AB,Botox,verlamt dat stukje huid,paralyzes that piece of skin,0,c,2
+2I6F,2I6F3A1,3A1,Botox,is het belangrijk dat dokters dit veilig toepassen,it is important that doctors use it safely,0,c,2
+5I6O,5I6OH3E,H3E,Botox,Ontspannen je oogleden,Relax your eyelids,0,c,2
+8I1F,8I1FH3B,H3B,Botox,zenuwen verlamt,nerves paralyzes,0,c,2
+8I2F,8I2FV3D,V3D,Botox,verlamt de spieren,paralyzes the muscles,0,c,2
+10I4F,10I4F3G2,3G2,Botox,wordt het gebruikt om rimpels weg te laten zijn,it is used to eliminate wrinkles,3,g,2
+11I2F,11I2F3TT1,3TT1,Botox,wordt het gebruikt in plastische chirurgie,It is used in plastic surgery,2,g,2
+11I3F,11I3F3GA1,3GA1,Botox,de rimpels worden gladgestreken,the wrinkles are ironed out,3,g,2
+11I5F,11I5FG3,G3,Botox,Wordt het gebruikt in plastische chirurgie,It is used in plastic surgery,0,c,2
+13I5F,13I5FHC3,HC3,Botox,kunnen rimpels verborgen worden,can hide wrinkles,3,g,2
+14I4F,14I4FG3,G3,Botox,Worden in de plastische chirurgie in je voorhoofd gespoten,Are in plastic surgery injected into your forehead,0,c,2
+16I1F,16I1F3G2,3G2,Botox,vermindert rimpels + gladde huid,reduces smooth skin wrinkles +,3,g,2
+17I6F,17I6F2VB,2VB,Botox,laten veel mensen dit inspuiten door de plastisch chirurg zodat ze minder rimpels krijgen,let many people this injection by the surgeon so they have fewer wrinkles,3,g,2
+18I4F,18I4F3GA1,3GA1,Botox,verdwijnen er rimpels,wrinkles disappear,3,g,2
+20I5F,20I5FH3B,H3B,Botox,verlamd,paralysed,0,c,2
+23I2F,23I2FH3B,H3B,Botox,werd het gebruikt bij mensen die veel met hun ogen knipperen,it was used by people blink much with their eyes,2,g,2
+26I3F,26I3FG3,G3,Botox,Kan je het gebruiken om rimpels weg te halen,Can you use it to remove wrinkles,3,g,2
+26I6F,26I6FA3A,A3A,Botox,spieren verlamd,paralyzed muscles,2,g,2
+27I6F,27I6F3G2,3G2,Botox,gebruikt in de plastische chirurgie tegen rimpels,used in plastic surgery for wrinkles,3,g,2
+2I3O,2I3O2VB,2VB,Botox,vermindert rimpels,reduces wrinkles,3,g,2
+2I5O,2I5O3TT1,3TT1,Botox,mensen kunnen het in hun gezicht laten spuiten,people can leave the spray in their face,0,c,2
+5I1O,5I1OH3B,H3B,Botox,kan het ook ingespoten worden om rimpels te verminderen,it can also be injected to reduce wrinkles,3,g,2
+5I3O,5I3OV3D,V3D,Botox,worden rimpels opgevuld,be filled wrinkles,3,g,2
+5I6F,5I6F2VB,2VB,Botox,gebruiken mensen het om rimpels weg te halen,people use it to remove wrinkles,3,g,2
+7I5F,7I5F3VA,3VA,Botox,wordt het gebruikt om rimpels op te vullen,it is used to fill wrinkles,3,g,2
+8I3F,8I3FG3,G3,Botox,Gebruikt om rimpels glad te strijken,Used to smooth wrinkles,3,g,2
+10I2F,10I2FHC3,HC3,Botox,moeilijker knippen,difficult cut,0,c,2
+11I1F,11I1F3G2,3G2,Botox,verdooft zenuwen/spiertjes,stuns nerves / muscles,2,g,2
+11I2F,11I2FH3B,H3B,Botox,ontspant de huid/spier zien,relaxes see the skin / muscle,2,g,2
+11I3F,11I3F3VA,3VA,Botox,mensen zien er mooier uit,people look better,0,c,2
+11I4F,11I4FA3,A3,Botox,wordt botox gebruikt tegen rimpels,Botox is used against wrinkles,3,g,2
+11I4F,11I4FH3C,H3C,Botox,haalt rimpels weg,takes away wrinkles,0,c,2
+11I5F,11I5F3A1,3A1,Botox,wordt het vaak gebruikt bij mensen die veel knipperen,is often used when people blink much,2,g,2
+11I5F,11I5FH3A,H3A,Botox,stoppen je gezichtsdelen met bewegen,Stop your face moving parts,0,c,2
+11I6F,11I6F2VB,2VB,Botox,valt beweging weg,is moving away,0,c,2
+11I6F,11I6FH3E,H3E,Botox,Worden rimpels minder goed zichtbaar,Wrinkles are less visible,0,c,2
+12I4F,12I4FHC3,HC3,Botox,"worden de spieren ""verlamd""","muscles ""paralyzed"" are",0,c,2
+13I6F,13I6FA3,A3,Botox,kun je met botox je zenuwen niet altijd goed gebruiken,you can not always make good use of your nerves with botox,0,c,2
+14I4F,14I4F3G2,3G2,Botox,gaan rimpels weg,wrinkles go away,3,g,2
+14I4O,14I4OH3D,H3D,Botox,Word er een deel wat ingespoten wordt verlamd,Become a part that is injected paralyzed,0,c,2
+14I5F,14I5F3AB,3AB,Botox,Heb je minder rimpels als je het inspuit,Have fewer wrinkles when the injection,3,g,2
+14I5F,14I5F3TT1,3TT1,Botox,geen last meer van spastische spieren,no longer suffer from spastic muscles,2,g,2
+15I3F,15I3F3A3,3A3,Botox,daarom worden spieren verlamd,therefore paralyzed muscles,0,c,2
+15I3F,15I3FA3,A3,Botox,rimpels gaan weg,wrinkles go away,3,g,2
+17I1F,17I1F3GA1,3GA1,Botox,wordt het veel in de plastische chirurchie gebruikt,is used in many plastic chirurchie,0,c,2
+17I1F,17I1F3VA,3VA,Botox,vervormt het gezicht een beetje,face deforms slightly,0,c,2
+17I2F,17I2F3TT1,3TT1,Botox,spieren verlammen,paralyze muscles,2,g,2
+17I2F,17I2FH3D,H3D,Botox,Trekken de rimpels weg,Pull the wrinkles away,3,g,2
+17I3F,17I3F3AB,3AB,Botox,Verlamming van de spieren,Paralysis of the muscles,0,c,2
+17I5F,17I5FH3E,H3E,Botox,ziet er jonger uit,looks younger,4a,g,2
+17I6F,17I6FH3C,H3C,Botox,Verlamt het waar gesmeert,Paralyzes where gesmeert,0,c,2
+19I1F,19I1F3A3,3A3,Botox,minder aanspanning,less tension,2,g,2
+1I4O,1I4O3GA1,3GA1,Botox,Kan er niet meer worden aangespannen,Can not be tightened,0,c,2
+20I1F,20I1FA3A,A3A,Botox,word het gebruikt om mensen jonger te maken en gezicht mooier te maken,it is used to make people younger and to face better,4a,g,2
+20I2F,20I2F3VA,3VA,Botox,gebruiken plastische chirurgen het voor de rimpels,plastic surgeons to use it for the wrinkles,3,g,2
+20I3F,20I3F2VB,2VB,Botox,werd het vaak gebruikt tegen rimpels,it was often used against wrinkles,3,g,2
+20I3F,20I3FH3C,H3C,Botox,Wordt het gebruikt om je jonger te laten lijken,It is used to make you look younger,4a,g,2
+20I5F,20I5FH3E,H3E,Botox,geen gevoel meer in huid,no feeling in skin,0,c,2
+20I6F,20I6FG3,G3,Botox,Verdwijnt een eventuele rimpel of zenuwtrekking,Disappears any wrinkle or twitch,3,g,2
+20I6F,20I6FH3D,H3D,Botox,Is het gevaarlijk,Is it dangerous,0,c,2
+25I5F,25I5F3A1,3A1,Botox,verdwijnen je rimpels,your wrinkles disappear,3,g,2
+26I2F,26I2FH3D,H3D,Botox,Wordt het gebruikt bij plastische chirurgie,It is used in plastic surgery,0,c,2
+29I1F,29I1F3AB,3AB,Botox,Wordt botox gebruikt voor aangespannen spieren,Botox is used to tightened muscles,2,g,2
+2I6F,2I6FH3B,H3B,Botox,vermindert het rimpels,it reduces wrinkles,3,g,2
+32I3F,32I3FH3E,H3E,Botox,Zou je er jonger uit kunnen zien,Would you can look younger,4a,g,2
+3I2O,3I2O3A3,3A3,Botox,geen samentrekking van spieren,no contraction of muscles,2,g,2
+4I2O,4I2O3G2,3G2,Botox,gebruiken mensen het om rimpels opvullen,people use it to fill in wrinkles,3,g,2
+4I3O,4I3O3VA,3VA,Botox,minder 'spieractie',"less ""muscle action '",0,c,2
+5I1F,5I1FH3A,H3A,Botox,huid wordt strak gestreken,skin becomes taut ironing,0,c,2
+5I1O,5I1OH3C,H3C,Botox,kan het gevaarlijk zijn,it can be dangerous,0,c,2
+5I2F,5I2F3TT1,3TT1,Botox,ontspannen de spieren,relax the muscles,2,g,2
+5I3O,5I3OG3,G3,Botox,word het gebruikt bij plastische chirurgie,is it used in plastic surgery,0,c,2
+5I5F,5I5F3A3,3A3,Botox,wordt het gebruikt om rimpels te vervagen,it is used for wrinkles,3,g,2
+8I3F,8I3F2VB,2VB,Botox,veel mensen willen botox,many people want botox,0,c,2
+8I5F,8I5F3A1,3A1,Botox,kan het rimpels weghalen,it can remove wrinkles,3,g,2
+8I5F,8I5FH3C,H3C,Botox,ontspant de huid,relaxes the skin,0,c,2
+9I1F,9I1FHC3,HC3,Botox,kunnen mensen het gebruiken om zichzelf mooier te vinden,people can use it to find themselves better,0,c,2
+9I3F,9I3F3A3,3A3,Botox,hierdoor komen er geen spieraantrekkingen in de huid,therefore there will be no spieraantrekkingen in the skin,2,g,2
+13I6F,13I6FA3,A3,Geld,je bent niet lang gelukkig,you're not happy for long,2,g,2
+15I3F,15I3F3A3,3A3,Geld,"maakt geld niet gelukkig, omdat je er niet heel lang gelukkig mee blijft","money can not buy happiness, because you do not remain very long happy with it",4a,g,2
+14I3F,14I3FA3A,A3A,Geld,mens wordt weer 'niet gelukkig',"man returns ""not happy""",0,c,2
+5I1F,5I1FH3A,H3A,Geld,mensen worden gelukkiger van familie,people are happier family,4b,g,2
+11I6F,11I6F2VB,2VB,Geld,mensen kunnen maar kort van iets genieten,people can enjoy but short of something,2,g,2
+8I3F,8I3FG3,G3,Geld,veel luxe gaat wennen,many luxury goes accustom,3,g,2
+11I2F,11I2F3TT1,3TT1,Geld,raakt men snel gewend aan luxe,one quickly gets used to luxury,3,g,2
+11I6F,11I6FH3E,H3E,Geld,Wen je snel aan het feit dat je meer geld hebt en dingen kan kopen,Wen you quickly to the fact that you have more money and can buy things,3,g,2
+12I5F,12I5FA3,A3,Geld,hebben ze steeds meer nodig om zich gelukkig te voelen,they increasingly need to feel happy,0,c,2
+8I2O,8I2O3AB,3AB,Geld,Mensen met veel geld wennen aan dat bedrag en willen nog meer geld maar dat lukt hun niet,People with lots of money to get used to that amount and still want more money but it does not their,0,c,2
+11I1F,11I1F3G2,3G2,Geld,went snel aan rijkdom als je lotto wint,went quickly gaining wealth as your lotto,3,g,2
+2I6F,2I6F3A1,3A1,Geld,ben je maar voor korte tijd blij met veel geld,you're just happy for a short time with a lot of money,3,g,2
+5I1O,5I1OH3C,H3C,Geld,Kunnen mensen niet lang gelukkig blijven door geld,People can not remain happy by money,4a,g,2
+5I3O,5I3OV3D,V3D,Geld,wen je snel aan dingen,you get used to things quickly,3,g,2
+8I5F,8I5F3TT1,3TT1,Geld,mensen hebben steeds nieuw geluk nodig,People have always needed new happiness,0,c,2
+9I3F,9I3F3A3,3A3,Geld,wil een persoon met veel geld dat gevoel weer terug,wants a person with lots of money that feeling back again,0,c,2
+7I5F,7I5F3VA,3VA,Geld,kunnen ze niet lang zonder primaire behoeften,they can not last long without basic needs,0,c,2
+8I5F,8I5FH3C,H3C,Geld,hebben ze ook maar een kort moment van euforaie,they have only a brief moment of euforaie,2,g,2
+10I2F,10I2FHC3,HC3,Geld,zij zijn niet gelukkig,they are not happy,5,g,2
+10I4F,10I4F3G2,3G2,Geld,veel geld uitgegeven,much money,0,c,2
+11I3F,11I3F3GA1,3GA1,Geld,mensen zijn maar korte tijd heel gelukkig om iets,people are but a short time very happy thing,2,g,2
+11I3F,11I3F3VA,3VA,Geld,ze zijn even gelukkig,they are equally happy,0,c,2
+11I4F,11I4FH3C,H3C,Geld,hebben ze veel geld gekregen,they have got a lot of money,0,c,2
+11I6F,11I6FV3D,V3D,Geld,als zij dus de lotto winnen zijn ze maar kort gelukkig,So when they win the lottery they are happy but short,2,g,2
+12I4F,12I4FHC3,HC3,Geld,koopt veel luxe,buy many luxuries,0,c,2
+14I5F,14I5F3TT1,3TT1,Geld,ben je niet blij met wat je krijgt,you're not happy with what you get,0,c,2
+14I5F,14I5FH3B,H3B,Geld,mensen worden niet lang afgeleid en willen dan noodzakelijke behoeften,people are not distracted long and want than necessities,1,g,2
+16I1F,16I1F3G2,3G2,Geld,korte tijd gelukkig over iets,briefly happy about something,2,g,2
+17I1F,17I1F3GA1,3GA1,Geld,"kan daarom maar kort geluk ervaren, zodat hij niet afgeleid raakt","therefore only experienced brief happiness, so he does not get distracted",2,g,2
+17I1F,17I1F3VA,3VA,Geld,Duurt groot geluk of ongeluk vaak kort,Takes great happiness or unhappiness often short,2,g,2
+17I3F,17I3F3AB,3AB,Geld,Kort moment van geluk,Brief moment of happiness,2,g,2
+17I5F,17I5FH3E,H3E,Geld,Blij zijn met het geld is van korte duur,Happy with the money is short,0,c,2
+17I6F,17I6F2VB,2VB,Geld,word je heberiger,you'll heberiger,0,c,2
+17I6F,17I6FH3C,H3C,Geld,Willen mensen meer,People want more,0,c,2
+17I6F,17I6FV3D,V3D,Geld,vergeten wat belangrijk in het leven is.,forget what is important in life.,0,c,2
+18I4F,18I4F3GA1,3GA1,Geld,ze hebben geluk en winnen de lotto,get lucky and win the lottery,0,c,2
+19I1F,19I1F3A3,3A3,Geld,gelukkig,happy,0,c,2
+19I4F,19I4F3GA1,3GA1,Geld,ben je blij voor een korte tijd,are you happy for a short time,0,c,2
+19I5F,19I5F3AB,3AB,Geld,Wordt er geld uitgegeven aan verkeerde dingen zoals alcohol en drugs,Money is spent on the wrong things like alcohol and drugs,0,c,2
+1I4O,1I4O3GA1,3GA1,Geld,kunt alle duren dingen kopen,can buy all things take,0,c,2
+20I2F,20I2F3VA,3VA,Geld,veel geld niet gelukkig,money not happy,0,c,2
+20I2F,20I2FV3D,V3D,Geld,zijn mensen maar van korte duur heel gelukkig of ongelukkig,people but short-lived very happy or unhappy,2,g,2
+20I3F,20I3F2VB,2VB,Geld,kopen veel mensen loten,many people buy auctions,0,c,2
+20I3F,20I3FH3A,H3A,Geld,natuur/mensen,nature / people,0,c,2
+20I3F,20I3FH3C,H3C,Geld,Kwam er een onderzoek,there was an investigation,0,c,2
+20I4O,20I4O3A1,3A1,Geld,"als iemand 314,9 miljoen wind heeft hij",if someone 314.9 million wind has,0,c,2
+20I5F,20I5FH3E,H3E,Geld,korte periode gelukkig,short time lucky,2,g,2
+20I6F,20I6FG3,G3,Geld,Daarom werd er getest waar je geluk vandaan komt,"Therefore, it was tested where your happiness comes from",0,c,2
+23I2F,23I2FH3C,H3C,Geld,Meer kopen,Buy more,0,c,2
+25I5F,25I5F3A1,3A1,Geld,je kan veel leuke dingen kopen (alcohol),You can buy lots of things (alcohol),0,c,2
+26I2F,26I2FH3D,H3D,Geld,je wint de lotto met een smak geld,you win the lottery with a lot of money,0,c,2
+29I1F,29I1F3AB,3AB,Geld,Familie en vrienden maken wel gelukkig,Family and friends make happy,4b,g,2
+2I3O,2I3O2VB,2VB,Geld,win je lotterij ben je ff gelukkig,win lottery you happy ff,0,c,2
+2I5O,2I5O3TT1,3TT1,Geld,hebben mensen een kort moment voor zichzelf waarin ze groot geluk ervaren,people have a moment to themselves that they experienced great joy,0,c,2
+2I6F,2I6FH3B,H3B,Geld,kan er maar een kort gevoel zijn van tevredenheid,there can only be a brief feeling of satisfaction,0,c,2
+32I3F,32I3FH3E,H3E,Geld,Koop je veel,Buy your lot,0,c,2
+3I2O,3I2O3A3,3A3,Geld,wil je veel uitgeven,you want to slather,0,c,2
+4I2O,4I2O3G2,3G2,Geld,ze willen steeds meer om hun behoeftes te vervullen,they want more and more to fulfill their needs,0,c,2
+4I3O,4I3O3VA,3VA,Geld,mensen wennen of verdienen veel geld,people get used or earn money,0,c,2
+5I1O,5I1OH3B,H3B,Geld,ze raken aan de rijkdom gewend,they get used to the wealth,0,c,2
+5I3O,5I3OG3,G3,Geld,Denken zij dat ze dan gelukkig worden,they think they are happy,0,c,2
+5I5F,5I5F3A3,3A3,Geld,je begint te leven met meer luxe,you start living with more luxury,0,c,2
+5I6F,5I6F2VB,2VB,Geld,mensen verdienen veel geld,people make lots of money,0,c,2
+5I6F,5I6FH3D,H3D,Geld,Geven ze snel en makkelijk uit,They provide quick and easy off,0,c,2
+8I1F,8I1FA3,A3,Geld,Iets zoeken wat je gelukkig maakt? Geld,Find something that makes you happy? Money,0,c,2
+8I1F,8I1FH3B,H3B,Geld,went snel aan luxe spullen,quickly get used to luxuries,3,g,2
+8I3F,8I3F2VB,2VB,Geld,familie in schulden,family in debt,0,c,2
+8I5F,8I5F3A1,3A1,Geld,hebben ze minder spullen nodig,they need less stuff,0,c,2
+8I6F,8I6FH3E,H3E,Geld,lijkt het normaal en willen ze steeds weer meer,seems normal and they want always more,3,g,2
+9I1F,9I1FHC3,HC3,Geld,gaan veel geld uitgeven,going to spend a lot of money,0,c,2
+1I4O,1I4O3GA1,3GA1,Metro,Kwam een stof vrij,Came a dust-free,0,c,2
+11I6F,11I6F2VB,2VB,Metro,plankton zeefauna en naar kunstmatig rif,plankton and marine fauna in artificial reef,4,g,2
+20I1F,20I1FA3A,A3A,Metro,kunnen vissen er leven die dat normaal niet zouden kunnen,fish can live there that could not normally,5,g,2
+26I6F,26I6FA3A,A3A,Metro,zeefauna en plankton toegenomen,increased plankton and marine fauna,4,g,2
+5I1F,5I1FH3A,H3A,Metro,meer planten zee annemoon etc.,more plants sea anne moon etc.,4,g,2
+11I1F,11I1F3G2,3G2,Metro,rif gemaakt,made reef,0,c,2
+11I2F,11I2F3TT1,3TT1,Metro,kunstmatig zeerif in de oceaan,artificial zeerif in the ocean,3,g,2
+11I2F,11I2FH3B,H3B,Metro,een kunstmatig riff ontstaat,creates an artificial riff,3,g,2
+11I3F,11I3F3GA1,3GA1,Metro,Er ontstaat een rif,There arises a reef,0,c,2
+11I3F,11I3F3VA,3VA,Metro,is de zeebodem geschikter voor leven,The seabed is more suitable for life,0,c,2
+11I3F,11I3FHC3,HC3,Metro,komen ze op de bodem van de oceaan aan de kust te liggen,they come to lie on the bottom of the ocean to the coast,0,c,2
+11I5F,11I5FG3,G3,Metro,Groeit er plankton en zeefauna,Grows plankton and marine fauna,4,g,2
+11I6F,11I6FH3E,H3E,Metro,word het rif uitgebreider,Become the reef wider,3,g,2
+12I4F,12I4FHC3,HC3,Metro,nieuw rif,new reef,0,c,2
+14I4F,14I4F3G2,3G2,Metro,is het plankton aantal 400x zo groot,the number of plankton 400x so great,4,g,2
+14I4F,14I4FG3,G3,Metro,Ontstonden er kliffen,Arose cliffs,0,c,2
+14I5F,14I5F3AB,3AB,Metro,Er komen gifstoffen vrij,There toxins are released,0,c,2
+15I3F,15I3F3A3,3A3,Metro,daarom kon er rif gaan groeien,therefore could grow reef,0,c,2
+17I1F,17I1F3GA1,3GA1,Metro,is er meer kans op leven op de zandbodem in zee,there is more likely to live on the sandy sea,0,c,2
+17I3F,17I3F3AB,3AB,Metro,Er ontstaat een kunstmatig rif,This creates an artificial reef,3,g,2
+18I4F,18I4F3GA1,3GA1,Metro,komt er meer plankton,there is more plankton,4,g,2
+19I4F,19I4F3GA1,3GA1,Metro,apart zeerif tot stand gekomen,separately zeerif been established,0,c,2
+19I5F,19I5F3AB,3AB,Metro,Ontstond er een kunstmatig rif op de bodem,there was an artificial reef on the bottom,3,g,2
+20I4O,20I4O3A1,3A1,Metro,onstond er een koraalrif,there was a heated coral reef,0,c,2
+20I6F,20I6FG3,G3,Metro,Is de vlakte in de zee niet meer plat,Is the plain no longer flat in the sea,0,c,2
+23I2F,23I2FH3B,H3B,Metro,werd er rif aangebracht op de bodem,reef was applied to the soil,0,c,2
+25I5F,25I5F3A1,3A1,Metro,natuurlijke leefomgeving rif,reef habitat,0,c,2
+26I1F,26I1FV3D,V3D,Metro,omdat er een kunstmatig rif,because an artificial reef,3,g,2
+27I6F,27I6F3G2,3G2,Metro,ontstaan er koraalriffen,emerge coral reefs,3,g,2
+2I3O,2I3O2VB,2VB,Metro,natuurlijk rif,natural reef,0,c,2
+2I5O,2I5O3TT1,3TT1,Metro,het ontstaan van een kunstmatig koraal,the creation of an artificial coral,3,g,2
+4I2O,4I2O3G2,3G2,Metro,meer zee-flora en fauna,more marine flora and fauna,4,g,2
+4I3O,4I3O3VA,3VA,Metro,er word een rif gevormd,Become a reef formed,0,c,2
+5I1O,5I1OH3B,H3B,Metro,onststaat er een nieuw rif op zeebodem,there onststaat a new reef seabed,0,c,2
+5I2F,5I2F3TT1,3TT1,Metro,onnatuurlijk zeerif,unnatural zeerif,0,c,2
+8I1F,8I1FA3,A3,Metro,Groeit er plankton,Grows plankton,4,g,2
+8I3F,8I3FG3,G3,Metro,Eerst weinig ruimte voor zeedieren,First little space for marine animals,0,c,2
+8I5F,8I5F3TT1,3TT1,Metro,maakt meer relief op de bodem van de oceaan,makes more relief on the bottom of the ocean,0,c,2
+8I5F,8I5FH3C,H3C,Metro,komt er meer relief op de zee bodem,there will be more relief on the sea bottom,0,c,2
+8I6F,8I6FH3E,H3E,Metro,is er een onnatuurlijk rif ontstaan,There is an unnatural reef arise,3,g,2
+10I2F,10I2FHC3,HC3,Metro,meer slib,more sludge,0,c,2
+10I4F,10I4F3G2,3G2,Metro,ontstond er een kunstmatig koraalrif,there was an artificial reef,3,g,2
+11I4F,11I4FH3C,H3C,Metro,afval weg,waste away,0,c,2
+11I5F,11I5F3A1,3A1,Metro,worden er meer oceaandieren aangemerkt,are being considered more ocean animals,0,c,2
+11I5F,11I5FH3A,H3A,Metro,meer planten zoals plankton,more plants like plankton,4,g,2
+11I6F,11I6FV3D,V3D,Metro,komen er meer plankton naar de Amerikaanse kust,get more plankton to the American coast,4,g,2
+13I5F,13I5FHC3,HC3,Metro,meer plankton en zeefauna,more plankton and marine fauna,4,g,2
+14I3F,14I3F3A1,3A1,Metro,wagons maken groot rif in zeebodem,cars make big reef seabed,0,c,2
+14I5F,14I5F3TT1,3TT1,Metro,rif aangelegt,reef called explains,0,c,2
+15I3F,15I3FA3,A3,Metro,plankton 400x verdubbeld,plankton 400x doubled,4,g,2
+16I1F,16I1F3G2,3G2,Metro,op de bodem,on the bottom,0,c,2
+17I1F,17I1F3VA,3VA,Metro,Ontstaat een soort kapot koraal,Creates a kind of broken coral,0,c,2
+17I2F,17I2F3TT1,3TT1,Metro,meer plankton,more plankton,4,g,2
+17I2F,17I2FH3D,H3D,Metro,Ontstond er een rif,there was a reef,0,c,2
+17I5F,17I5FH3E,H3E,Metro,kunstmatig rif,artificial reef,3,g,2
+17I6F,17I6F2VB,2VB,Metro,kunstmatige rif gevormd,artificial reef formed,3,g,2
+17I6F,17I6FH3C,H3C,Metro,Veel voedsel voor bijv plankton,Lots of food for example plankton,0,c,2
+17I6F,17I6FV3D,V3D,Metro,onnatuurlijke rif gemaakt,created unnatural reef,3,g,2
+19I1F,19I1F3A3,3A3,Metro,meer plankton,more plankton,4,g,2
+20I2F,20I2F3VA,3VA,Metro,kunstmatig rif aangelegd,artificial reef constructed,3,g,2
+20I2F,20I2FV3D,V3D,Metro,nieuw rif,new reef,0,c,2
+20I3F,20I3F2VB,2VB,Metro,ontstaat er meer fauna en rif,there will be more fauna and reef,4,g,2
+20I5F,20I5F3AB,3AB,Metro,Plankton en ander voedsel meer geworden,Plankton and other food became more,4,g,2
+20I5F,20I5FH3E,H3E,Metro,onregelmatig rif,irregular reef,0,c,2
+20I6F,20I6FH3D,H3D,Metro,is het goedkoper,it is cheaper,0,c,2
+23I2F,23I2FH3C,H3C,Metro,Veel plankton,many plankton,4,g,2
+26I2F,26I2FH3D,H3D,Metro,Ontstaat er een kunstwaardigrif,there is a kunstwaardigrif,0,c,2
+29I1F,29I1F3AB,3AB,Metro,Nerrif aangelegd,Nerrif built,0,c,2
+2I6F,2I6F3A1,3A1,Metro,werden deze bewoond door vissen,these were inhabited by fish,0,c,2
+3I2O,3I2O3A3,3A3,Metro,een nep rif gemaakt in de zee,a fake made reef in the sea,0,c,2
+5I1O,5I1OH3C,H3C,Metro,koraalrif,Coral reef,0,c,2
+5I3O,5I3OG3,G3,Metro,Ontstond er rif en plankton,There was reef and plankton,3,g,2
+5I3O,5I3OV3D,V3D,Metro,meer zeeplanten,more marine plants,0,c,2
+5I5F,5I5F3A3,3A3,Metro,trekt het meer zeedieren aan,it attracts more sea life,0,c,2
+5I6F,5I6FH3D,H3D,Metro,Heb je nooit meer last van de wagens,Have you never suffer from the cars,0,c,2
+5I6O,5I6OH3E,H3E,Metro,kwam er meer koral,came more koral,3,g,2
+7I5F,7I5F3VA,3VA,Metro,is bodem zee niet meer vlak,sea ​​bottom is not flat,0,c,2
+8I1F,8I1FH3B,H3B,Metro,worden niet veel metro's gemaakt,not made much subways,0,c,2
+8I2O,8I2O3AB,3AB,Metro,Ontstaat rif,creates reef,0,c,2
+8I3F,8I3F2VB,2VB,Metro,plankton etc. heel erg toegenomen,plankton etc. increased very,4,g,2
+8I5F,8I5F3A1,3A1,Metro,komen er algen op,come on algae,0,c,2
+9I3F,9I3F3A3,3A3,Metro,"wordt een kunstmatig rif gevormd in atlantische ocean, Amerikaanse oost kust","an artificial reef formed in the Atlantic ocean, US east coast",3,g,2
+10I2F,10I2FHC3,HC3,Muziek,meer help het mensen met Alzheimer,more help to people with Alzheimer's,0,c,2
+17I2F,17I2FH3D,H3D,Muziek,Komen herinneringen vaak terug,Memories come back often,3b,g,2
+26I1F,26I1FV3D,V3D,Muziek,krijg je makkelijker inzicht met wiskunde b.v. Breuken,Get easier understanding of math example fractures,3a,g,2
+8I1F,8I1FA3,A3,Muziek,is je IQ wat hoger,your IQ is higher,3c,g,2
+8I3F,8I3FG3,G3,Muziek,Helpen om herinneringen op te halen,Helping to reminisce,3b,g,2
+8I6F,8I6FH3E,H3E,Muziek,zijn sommige hersengebieden veel meer ontwikkeld,Some brain areas are more developed,0,c,2
+2I3O,2I3O2VB,2VB,Muziek,hoger iq,higher iQ,3c,g,2
+9I3F,9I3F3A3,3A3,Muziek,beter in wiskundige vaardigheden zoals breuken,better math skills including fractions,3a,g,2
+10I4F,10I4F3G2,3G2,Muziek,krijgen mensen een hogere uitslag bij IQ testen,people get higher test results in IQ,3c,g,2
+11I1F,11I1F3G2,3G2,Muziek,kinderen hoger IQ,children higher IQ,3c,g,2
+11I2F,11I2F3TT1,3TT1,Muziek,scoren 2-jarige beter bij een IQ-test,scoring two more years in an IQ test,3c,g,2
+11I2F,11I2FH3B,H3B,Muziek,is het goed voor jonge kinderen,it is good for young children,0,c,2
+11I4F,11I4FH3C,H3C,Muziek,kunnen ze van alles onthouden,they can remember everything,0,c,2
+11I5F,11I5FG3,G3,Muziek,hoger IQ scores,higher IQ scores,3c,g,2
+11I6F,11I6F2VB,2VB,Muziek,kun je herinneringen ophalen,You can reminisce,3b,g,2
+11I6F,11I6FV3D,V3D,Muziek,herinner je de gebeurtenissen die op dat moment gebeurde beter,remember the events that happened at that time better,3b,g,2
+12I4F,12I4FHC3,HC3,Muziek,gebruik je veel verschillende hersengebieden,you use many different brain areas,2,g,2
+14I3F,14I3FA3A,A3A,Muziek,beter in wiskunde,better in math,3a,g,2
+15I3F,15I3F3A3,3A3,Muziek,kun je hoger scoren bij de IQ-test,You can score higher on IQ tests,3c,g,2
+15I3F,15I3FA3,A3,Muziek,kinderen halen een hoger IQ,children get a higher IQ,3c,g,2
+16I1F,16I1F3G2,3G2,Muziek,werken verschillende gebieden samen,working different areas together,2,g,2
+17I1F,17I1F3GA1,3GA1,Muziek,hebben muzikanten vaak een hoger IQ,Musicians often have a higher IQ,3c,g,2
+17I3F,17I3F3AB,3AB,Muziek,Zorgt voor herkenning,Provides for recognition,0,c,2
+17I6F,17I6F2VB,2VB,Muziek,haal je een hogere IQ score blijkt uit een test,gives you show a higher IQ score from a test,3c,g,2
+17I6F,17I6FV3D,V3D,Muziek,Heb je meer ruimtelijk inzicht met wiskunde vragen (breuken),Do you have questions mathematics more spatial ability (breaks),3a,g,2
+18I4F,18I4F3GA1,3GA1,Muziek,onthoud je iets van de muziek,you remember anything about the music,0,c,2
+19I1F,19I1F3A3,3A3,Muziek,beter in wiskunde,better in math,3a,g,2
+19I4F,19I4F3GA1,3GA1,Muziek,geheugen beter,better memory,0,c,2
+19I5F,19I5F3AB,3AB,Muziek,Hogere IQ score,Higher IQ Scores,3c,g,2
+1I4O,1I4O3GA1,3GA1,Muziek,Hogere IQ-scores,Higher IQ scores,3c,g,2
+20I1F,20I1FA3A,A3A,Muziek,kun je soms iets herinneren als je een liedje hoort,you may remember something when you hear a song,3b,g,2
+20I2F,20I2FV3D,V3D,Muziek,hoger iq,higher iQ,3c,g,2
+20I3F,20I3FH3A,H3A,Muziek,alsheimer/zo kan een mens aan iets terugdenken al is hij dat vergeten door zijn/haar ziekte,Alsheimer / so can a man something to think back if he has forgotten his / her illness,0,c,2
+20I4O,20I4O3A1,3A1,Muziek,helpt het bij altzeimer patienten om weer dingen te herrinneren,It helps altzeimer patients to see things herrinneren,3b,g,2
+20I5F,20I5F3AB,3AB,Muziek,12-jarige hoger IQ-halen,12 years Higher IQ pick,3c,g,2
+25I5F,25I5F3A1,3A1,Muziek,kun je beter wiskundige formules oplossen,you can better solve math,3a,g,2
+27I6F,27I6F3G2,3G2,Muziek,12-jarige kinderen hoger IQ-score,12-year-old children higher IQ score,3c,g,2
+29I1F,29I1F3AB,3AB,Muziek,herinneringen worden weer helder,memories are clear again,3b,g,2
+2I4O,2I4OH3A,H3A,Muziek,hogere score IQ-test,higher score IQ test,3c,g,2
+2I6F,2I6FH3B,H3B,Muziek,haalde een kind van 12 een hogere IQ test score,took a child of 12 higher IQ test score,3c,g,2
+3I2O,3I2O3A3,3A3,Muziek,door een liedje meer kunnen herrineren van vroeger,a song can more saving memories of yesteryear,3b,g,2
+4I3O,4I3O3VA,3VA,Muziek,hogere uitslag bij een IQ-test,higher results in an IQ test,3c,g,2
+5I1O,5I1OH3B,H3B,Muziek,kun je je hersens er mee trainen zodat je makkelijker dingen ondhoud,you can train it with your brain so you can easily stuff ondhoud,0,c,2
+5I2F,5I2F3TT1,3TT1,Muziek,kinderen scoren hoger op IQ test,children score higher on IQ tests,3c,g,2
+5I3O,5I3OV3D,V3D,Muziek,hoger IQ,higher IQ,3c,g,2
+5I6F,5I6FH3D,H3D,Muziek,Score hoger op IQ-test,Score higher on IQ tests,3c,g,2
+7I5F,7I5F3VA,3VA,Muziek,hoger IQ,higher IQ,3c,g,2
+8I2F,8I2FV3D,V3D,Muziek,is het IQ van 12-jarige die muziek spelen hoger dan gemiddeld,the 12-year-old playing music IQ higher than average,3c,g,2
+8I2O,8I2O3AB,3AB,Muziek,Zijn je hersenen meer bezig,Are your brains more concerned,0,c,2
+9I1F,9I1FHC3,HC3,Muziek,maken mensen IQ test beter,make people better IQ test,3c,g,2
+11I3F,11I3F3GA1,3GA1,Muziek,kon je herinneringen ophalen,could pick your memories,3b,g,2
+11I4F,11I4FA3,A3,Muziek,Haalt herinneringen op,Reminisces,3b,g,2
+11I6F,11I6FH3E,H3E,Muziek,Word je IQ hoger,Get your IQ higher,3c,g,2
+12I5F,12I5FA3,A3,Muziek,komen oude herinneringen soms weer naar boven,Old memories come sometimes upwards again,3b,g,2
+13I6F,13I6FA3,A3,Muziek,heb je een hgoer IQ als je vanaf je 12de muziek speelt,have a hgoer IQ if you play music from your 12th,3c,g,2
+14I3F,14I3F3A1,3A1,Muziek,makkelijker wiskunde te doen,easier to do math,3a,g,2
+14I4F,14I4F3G2,3G2,Muziek,is wiskunde makkelijker,math is easier,3a,g,2
+14I4F,14I4FG3,G3,Muziek,Kan je dingen beter onthouden,Can you remember things better,0,c,2
+14I4O,14I4OH3D,H3D,Muziek,Haal je oude herinneringen op,Get your old memories,3b,g,2
+14I5F,14I5F3AB,3AB,Muziek,Scoren kinderen hoger op de IQ test,Children score higher on IQ tests,3c,g,2
+14I5F,14I5F3TT1,3TT1,Muziek,betere resultaten op school,better results at school,0,c,2
+17I1F,17I1F3VA,3VA,Muziek,Beter ruimtelijk inzicht,Better spatial awareness,0,c,2
+17I2F,17I2F3TT1,3TT1,Muziek,helpt het mensen met alzheimer,helps people with Alzheimer's,0,c,2
+17I6F,17I6FH3C,H3C,Muziek,Herinering voor mens met alzheimer,Herinering for people with Alzheimer's,0,c,2
+20I2F,20I2F3VA,3VA,Muziek,je geheugen wordt beter,your memory is better,0,c,2
+20I3F,20I3F2VB,2VB,Muziek,roept het herrinneringen van vroeger op,The herr minders from earlier calls,3b,g,2
+20I3F,20I3FH3C,H3C,Muziek,Herinner je dat nog veel,Remember that much,0,c,2
+20I6F,20I6FG3,G3,Muziek,Kun je iemand met Alzheimer soms iets laten herinneren met muziek,Can someone with Alzheimer's sometimes leave something to remember with music,3b,g,2
+20I6F,20I6FH3D,H3D,Muziek,Wordt je vrolijker,Will you happier,0,c,2
+23I2F,23I2FH3C,H3C,Muziek,Herinneringen ophalen,Reminisce,3b,g,2
+26I2F,26I2FH3D,H3D,Muziek,Kan het je helpen bij wiskundetaken zoals breuken,Can you help with math tasks such as fractures,3a,g,2
+26I3F,26I3FG3,G3,Muziek,12 jarige kinderen die muziek spelen hoger IQ,12 year old children playing music higher IQ,3c,g,2
+2I6F,2I6F3A1,3A1,Muziek,hoger IQ op IQ testen,IQ higher on IQ tests,3c,g,2
+32I3F,32I3FH3E,H3E,Muziek,Mensen met alzheimer kunnen dingen herinneren,People with Alzheimer's can remember things,0,c,2
+5I1F,5I1FH3A,H3A,Muziek,helpt herinneringen boven te halen,helps bring memories,3b,g,2
+5I1O,5I1OH3C,H3C,Muziek,kan je andere dingen beter,you may have other things better,0,c,2
+5I3O,5I3OG3,G3,Muziek,Train je jouw hersenen beter,You train your brains better,0,c,2
+5I5F,5I5F3A3,3A3,Muziek,kan een liedje je herinneringen opbrengen,a song came on your memories,3b,g,2
+5I6F,5I6F2VB,2VB,Muziek,kan het je helpen om dingen van vroeger te herinneren,it can help to remember things from the past,3b,g,2
+5I6O,5I6OH3E,H3E,Muziek,Laat muziek je weer dingen herriner,Let your music again remember this was stuff,3b,g,2
+8I1F,8I1FH3B,H3B,Muziek,komen herinneringen terug aan muziek,memories come back to music,0,c,2
+8I3F,8I3F2VB,2VB,Muziek,iq-test hoger,IQ test higher,3c,g,2
+8I5F,8I5F3A1,3A1,Muziek,kan je dingen herineren,You can herineren things,3b,g,2
+8I5F,8I5F3TT1,3TT1,Muziek,kun je beter worden in wiskunde,you are better at math,0,c,2
+8I5F,8I5FH3C,H3C,Muziek,kinderen van 12 die muziek spelen hoger IQ,children 12 playing music higher IQ,3c,g,2
+13I5F,13I5FHC3,HC3,Suez,Jeddah - Ortterdam = 40% korter,Jeddah - Ortterdam = 40% shorter,5,g,2
+20I3F,20I3FH3C,H3C,Suez,Bedacht iemand een kanaal,Someone invented a channel,0,c,2
+20I5F,20I5FH3E,H3E,Suez,graven kanaal,digging channel,4,g,2
+20I6F,20I6FH3D,H3D,Suez,moest er een opl. Komen,a sol had. come,0,c,2
+26I1F,26I1FV3D,V3D,Suez,bedacht een Oostenrijkse ontwerper een oplossing,Austrian designer invented a solution,0,c,2
+32I3F,32I3FH3E,H3E,Suez,Kanaal gegraven,dug channel,4,g,2
+8I5F,8I5FH3C,H3C,Suez,bedacht een oostenrijkse ingenieur suez kanaal,devised an Austrian engineer Suez canal,0,c,2
+9I1F,9I1FHC3,HC3,Suez,zijn ze een kanaal gaan graven,they're going to dig a channel,4,g,2
+11I3F,11I3F3GA1,3GA1,Suez,dit kost veel tijd en dus ook veel geld,This takes time and therefore money,0,c,2
+11I5F,11I5FG3,G3,Suez,Werd het suez kanaal aangelegd,Was the Suez canal built,4,g,2
+11I6F,11I6FV3D,V3D,Suez,een plan gemaakt om het Suezkanaal te graven,a plan designed to dig the Suez Canal,4,g,2
+14I4F,14I4FG3,G3,Suez,Werd het suez kanaal gegraven,Was the Suez Canal dug,4,g,2
+1I4O,1I4O3GA1,3GA1,Suez,Was te lang dus werd Suezkanaal gegraven,Was so long Suez Canal was dug,4,g,2
+20I1F,20I1FA3A,A3A,Suez,word besloten het suezkanaal te graven,Become decided to dig the Suez canal,4,g,2
+29I1F,29I1F3AB,3AB,Suez,Bedacht een Oostenrijker een kanaal tussen de twee oceanen,Devised an Austrian channel between the two oceans,4,g,2
+4I2O,4I2O3G2,3G2,Suez,de afstand was te lang en kostte veel tijd,The distance was too long and time-consuming,0,c,2
+8I2O,8I2O3AB,3AB,Suez,Bedacht een oostenrijker een plan. Hij maakte een kanaal tussen de oceanen,Austrian devised a plan. He made a canal between the oceans,4,g,2
+8I6F,8I6FH3E,H3E,Suez,wilden ze een kanaal aanleggen,they wanted to create a channel,0,c,2
+11I2F,11I2F3TT1,3TT1,Suez,moesten handelaars door afrikaans gebied lopen,traders had to walk through african region,0,c,2
+13I6F,13I6FA3,A3,Suez,was de handel heel lang,Trade was very long,3,g,2
+14I5F,14I5F3AB,3AB,Suez,Handelsschepen moeten helemaal om Afrika heen varen,Trading ships must all sail around Africa,2,g,2
+17I3F,17I3F3AB,3AB,Suez,Woestijn ligt op de snelle weg naar Europa,Desert is on the fast track to Europe,0,c,2
+17I6F,17I6FV3D,V3D,Suez,scheepsmensen moesten om Afrika heen,people had to ship around Africa,2,g,2
+19I5F,19I5F3AB,3AB,Suez,Werd het suezkanaal aangelegd,Was built the Suez canal,4,g,2
+20I6F,20I6FG3,G3,Suez,Er was/is veel handel en er was een kortere route nodig,There was / is much trade and it took a shorter route,3,g,2
+26I2F,26I2FH3D,H3D,Suez,moesten mensen om heel afrika heen,people across Africa should go,2,g,2
+26I3F,26I3FG3,G3,Suez,Handelsroute is erg ver om en dat is onnodig,Trade Route is very far and it is unnecessary,3,g,2
+3I2O,3I2O3A3,3A3,Suez,boten van saudi-arabi\'eb meoten helemaal om Afrika varen om in Europa te komen,Boats from saudi arabia \ 'eb meoten all to sail Africa to Europe,2,g,2
+5I3O,5I3OV3D,V3D,Suez,lang afstand voor handel om afrika heen,long distance trade around Africa,2,g,2
+8I3F,8I3FG3,G3,Suez,Mensen moesten meer dan 10.000 mijl reizen,"People had to travel more than 10,000 miles",3,g,2
+10I2F,10I2FHC3,HC3,Suez,toen kunstmatig aangelegd,when artificial,0,c,2
+10I4F,10I4F3G2,3G2,Suez,suezkannaal gegraven,dug suezkannaal,4,g,2
+11I2F,11I2FH3B,H3B,Suez,de route is helemaal om afrika heen,The route is all around africa,2,g,2
+11I3F,11I3F3VA,3VA,Suez,boten omvaren rond afrika,boats circumnavigate around africa,2,g,2
+11I4F,11I4FH3C,H3C,Suez,Moesten zij omweg maken door afrika,Had they make detour through Africa,0,c,2
+11I5F,11I5F3A1,3A1,Suez,moesten mensen jaren lang grafen om dit kanaal aan te maken,people had for years graphs to create this channel,0,c,2
+11I6F,11I6F2VB,2VB,Suez,idee\'ebn over kanaal,idea \ 'ebn over canal,0,c,2
+14I3F,14I3F3A1,3A1,Suez,geen snelle weg om van en naar andere werelddeel te gaan,no quick way to get to and from another continent,0,c,2
+14I3F,14I3FA3A,A3A,Suez,kortere weg gezocht,shortcut sought,0,c,2
+14I5F,14I5F3TT1,3TT1,Suez,kanaal aangelegd,Channel created,4,g,2
+15I3F,15I3F3A3,3A3,Suez,afstand tussen Europa en handelsstad Jeddah te groot,distance between Europe and commercial city of Jeddah too big,0,c,2
+16I1F,16I1F3G2,3G2,Suez,snel willen vervoeren,to provide fast,0,c,2
+17I1F,17I1F3GA1,3GA1,Suez,ze vonden om Afrika heen veel te lang,they found around Africa too long,0,c,2
+17I1F,17I1F3VA,3VA,Suez,moeten boten een grote omweg langs Afrika maken om bij Europa te komen,Boats have to make a big detour to Africa to reach Europe,2,g,2
+17I2F,17I2F3TT1,3TT1,Suez,suezkanaal gegraven,dug Suez canal,4,g,2
+17I2F,17I2FH3D,H3D,Suez,Er was een kortere route nodig,a shorter route was needed,3,g,2
+17I6F,17I6F2VB,2VB,Suez,hadden ze veel mankracht en tijd nodig,they needed a lot of manpower and time,0,c,2
+17I6F,17I6FH3C,H3C,Suez,Lange afstand rond afrika,Long distance around africa,2,g,2
+18I4F,18I4F3GA1,3GA1,Suez,lieten ze een oostenrijker het Suezkanaal ontwerpen,they showed an austrian design the Suez Canal,0,c,2
+19I4F,19I4F3GA1,3GA1,Suez,hadden ze een kanaal nodig om boten door te kunnen laten varen,they had a channel needed to be abandoned boats,0,c,2
+20I2F,20I2F3VA,3VA,Suez,Suezkanaal aangelegd,constructed Suez Canal,4,g,2
+20I2F,20I2FV3D,V3D,Suez,moesten schepen om heel afrika heen varen,ships had to sail back across africa,2,g,2
+20I3F,20I3FH3A,H3A,Suez,kortere waterweg nodig,shorter waterway needed,3,g,2
+20I4O,20I4O3A1,3A1,Suez,hoeven mensen niet meer helemaal om afrika heen,People do not go all the way to Africa,0,c,2
+20I5F,20I5F3AB,3AB,Suez,Geen verbinding middellandse zee en indische oceaan,No connection Mediterranean and Indian Ocean,1,g,2
+25I5F,25I5F3A1,3A1,Suez,na jarenlang bouwen,After years of building,0,c,2
+26I6F,26I6FA3A,A3A,Suez,lange tochten,long trips,0,c,2
+27I6F,27I6F3G2,3G2,Suez,mensen moesten ver omvaren om naar Rotterdam te gaan (van Jeddah en andersom),circumnavigate people had far to go to Rotterdam (Jeddah and vice versa),0,c,2
+2I3O,2I3O2VB,2VB,Suez,zoeken kortere weg,Search shortcuts,3,g,2
+2I6F,2I6FH3B,H3B,Suez,is het suezkanaal gemaakt,the Suez canal is made,4,g,2
+4I3O,4I3O3VA,3VA,Suez,Moet er een verkorte route gevonden worden maar die is er niet,Must be found a shorter route but there is not,3,g,2
+5I1F,5I1FH3A,H3A,Suez,weg veels te lang,way way too long,0,c,2
+5I1O,5I1OH3B,H3B,Suez,zoeken naar een oplossing,looking for a solution,0,c,2
+5I1O,5I1OH3C,H3C,Suez,Werd het suez kanaal gegraven,Was the Suez Canal dug,4,g,2
+5I3O,5I3OG3,G3,Suez,Afstand jeddah-rotterdam was veel te lang,Distance jeddah-Rotterdam was too long,3,g,2
+5I5F,5I5F3A3,3A3,Suez,wilde men een kortere route varen,they wanted to sail a shorter route,3,g,2
+5I6F,5I6FH3D,H3D,Suez,Moet je door een woestijn,Should you go through a desert,0,c,2
+5I6O,5I6OH3E,H3E,Suez,mensen wouden graag met elkaar handelen,People like forests act together,0,c,2
+7I5F,7I5F3VA,3VA,Suez,bedacht een Oostenrijkse ingenieur een plan,Austrian engineer devised a plan,0,c,2
+8I1F,8I1FA3,A3,Suez,suezkanaal gegraven,dug Suez canal,4,g,2
+8I1F,8I1FH3B,H3B,Suez,geen snellere verbinding,no faster connection,0,c,2
+8I3F,8I3F2VB,2VB,Suez,onhandig oosterijker kwam met idee,awkward austrian came up with idea,0,c,2
+8I5F,8I5F3TT1,3TT1,Suez,suezkanaal gemaakt,made Suez Canal,4,g,2
+9I3F,9I3F3A3,3A3,Suez,werd door een oostenrijker suezkanaal ontworpen,was designed by an austrian Suez canal,0,c,2
+8I1F,8I1FH3B,H3B,Beton,liften kleiner en de lifttunnel smaller,smaller elevators and the elevator tunnel narrower,0,c,3
+11I6F,11I6FH3E,H3E,Beton,Komen liften vast te zitten,Get stuck elevators,4,g,3
+20I2F,20I2F3VA,3VA,Beton,Anders wordt de lifttunnel smaller,"Otherwise, the elevator tunnel narrows",0,c,3
+20I2F,20I2FV3D,V3D,Beton,krimpen liftschachten,shrink elevator shafts,3,g,3
+20I6F,20I6FH3D,H3D,Beton,wordt het gebouw kleiner,the building is smaller,,g,3
+27I6F,27I6F3G2,3G2,Beton,het beton krimpt waardoor de liftschachten te klein worden,the concrete shrinks so that the shafts are too small,3,g,3
+5I1O,5I1OH3C,H3C,Beton,passen liften niet meer,Elevators not fit,4,g,3
+8I5F,8I5F3A1,3A1,Beton,kunnen liften vast zitten,can lift stuck,4,g,3
+8I6F,8I6FH3E,H3E,Beton,worden liftschaften kleiner en dunner,be abolished lift smaller and thinner,0,c,3
+11I4F,11I4FA3,A3,Beton,Als het gebouw krimpt gaat de lift klemmen,If the building shrinks the lift terminals,4,g,3
+14I4F,14I4FG3,G3,Beton,Wordt de liftschacht smaller,If the elevator shaft narrows,3,g,3
+20I5F,20I5FH3B,H3B,Beton,liftschacht krimpt mee,elevator shaft with shrink,0,c,3
+26I6F,26I6FA3A,A3A,Beton,liften blijven vastzitten,remain stuck elevators,4,g,3
+4I3O,4I3O3VA,3VA,Beton,krimpt het gebouw,Shrink building,3,g,3
+10I4F,10I4F3G2,3G2,Beton,krimpt het beton,Shrink concrete,3,g,3
+11I1F,11I1F3G2,3G2,Beton,liftschachten nauwer,elevator shafts closer,0,c,3
+11I2F,11I2F3TT1,3TT1,Beton,worden liftschachten te klein voor liften,elevator shafts are too small for lifts,0,c,3
+11I2F,11I2FH3B,H3B,Beton,het beton krimpt (onder andere in de liftschacht),shrinks the concrete (among others in the elevator shaft),3,g,3
+11I3F,11I3F3GA1,3GA1,Beton,Omdat het beton warmer wordt krimpen de betonplaten,Because the concrete is hotter shrink the concrete slabs,3,g,3
+11I5F,11I5FG3,G3,Beton,Krimpt het beton,Shrink concrete,3,g,3
+11I6F,11I6FV3D,V3D,Beton,maar als dat niet zo is wimpt alles,but if it is not all wimpt,0,c,3
+12I4F,12I4FHC3,HC3,Beton,krimpt het zeker een paar cm,it certainly shrinks a few cm,3,g,3
+14I3F,14I3F3A1,3A1,Beton,gebouwen krimpen en worden dus smaller,buildings shrink and are therefore narrower,3,g,3
+14I5F,14I5F3TT1,3TT1,Beton,krimpt het beton,Shrink concrete,3,g,3
+16I1F,16I1F3G2,3G2,Beton,beton krimpt dus gebouw ook,concrete building shrinks so too,3,c,3
+17I2F,17I2F3TT1,3TT1,Beton,krimpt het gebouw,Shrink building,3,g,3
+17I6F,17I6FV3D,V3D,Beton,wordt het oorspronkelijke gebouw kleiner dan de oorspronkelijke grootte,The original building is smaller than the original size,3,g,3
+19I4F,19I4F3GA1,3GA1,Beton,beton moet gekeurd worden,Concrete must be inspected,0,c,3
+19I5F,19I5F3AB,3AB,Beton,Worden gebouwen weider die gebouwd zijn op beton,Weider buildings are built on concrete,0,c,3
+20I6F,20I6FG3,G3,Beton,Daardoor kan beton krimpen,This makes it possible to shrink concrete,3,g,3
+2I3O,2I3O2VB,2VB,Beton,krimpt het in,shrinks in,3,g,3
+2I5O,2I5O3TT1,3TT1,Beton,gebouwen krimpen (betonkrimp),shrink buildings (concrete shrinking),3,g,3
+2I6F,2I6FH3B,H3B,Beton,krimpen de liftschachten,shrinking the elevator shafts,0,c,3
+4I2O,4I2O3G2,3G2,Beton,krimpen gebouwen,shrink buildings,3,g,3
+5I1F,5I1FH3A,H3A,Beton,liftschaften worden te klein,lift abolished are too small,0,c,3
+5I2F,5I2F3TT1,3TT1,Beton,gebouw kleiner,building smaller,3,g,3
+5I3O,5I3OV3D,V3D,Beton,het beton wordt kleiner dan de bedoeling was,the concrete is smaller than intended,3,g,3
+5I5F,5I5F3A3,3A3,Beton,is er minder plaats in een gebouw,There is less space in a building,0,c,3
+7I5F,7I5F3VA,3VA,Beton,krimpt beton,concrete shrinks,3,g,3
+8I3F,8I3F2VB,2VB,Beton,als het slecht beton is gaan gebouwen krimpen,if the bad concrete shrink buildings,3,g,3
+8I5F,8I5FH3C,H3C,Beton,krimpt het beton,Shrink concrete,3,g,3
+9I3F,9I3F3A3,3A3,Beton,krimping soms zo erg dat beton wel 12 cm kan inkrimpen,shrinkage sometimes so bad that concrete up to 12 cm can shrink,0,c,3
+10I2F,10I2FHC3,HC3,Beton,extra ruimte tussen muren gemaakt,extra space between walls,0,c,3
+11I3F,11I3F3VA,3VA,Beton,het beton krimpt,Shrink concrete,3,g,3
+11I4F,11I4FH3C,H3C,Beton,krimpt het beton door de warmte,the concrete shrinks by heat,3,g,3
+11I5F,11I5F3A1,3A1,Beton,zoveel gebouwen van beton niet teveel de verwarming gebruiken maar dat doen ze toch,"many buildings of concrete does not use too much heat, but they still do",0,c,3
+11I5F,11I5FH3A,H3A,Beton,gebouwen krimpen,shrink buildings,3,g,3
+11I6F,11I6F2VB,2VB,Beton,beton droogt op,dry concrete,0,c,3
+14I3F,14I3FA3A,A3A,Beton,beton krimpt,concrete shrinks,3,g,3
+14I4O,14I4OH3D,H3D,Beton,beton krimpt door temperatuur,concrete shrinks by temperature,3,g,3
+14I5F,14I5F3AB,3AB,Beton,Krimpt het beton,Shrink concrete,3,g,3
+14I5F,14I5FH3B,H3B,Beton,door centrale verwarming krimpt het beton in d gebouw,by heating shrinks the concrete in building d,1,g,3
+15I3F,15I3F3A3,3A3,Beton,wordt het gebouw kleiner,the building is smaller,3,g,3
+17I1F,17I1F3GA1,3GA1,Beton,krimpt het gebouw een beetje,the building shrinks slightly,3,g,3
+17I1F,17I1F3VA,3VA,Beton,krimpt het gebouw,Shrink building,3,g,3
+17I2F,17I2FH3D,H3D,Beton,"Doordat het beton krimpt, krimpen de gebouwen ook","As the concrete shrinks, the buildings also shrinking",3,g,3
+17I3F,17I3F3AB,3AB,Beton,Centrale verwarming tast het beton aan,Heating affects the concrete to,1,g,3
+17I6F,17I6F2VB,2VB,Beton,is beton niet altijd goed in dus is een gebouw 12 cm gekrompen,concrete is not always so good at is building shrunk 12 cm,3,g,3
+17I6F,17I6FH3C,H3C,Beton,Betton krimpt,shrinks betton,3,g,3
+18I4F,18I4F3GA1,3GA1,Beton,krimpt het beton iets,the concrete shrinks slightly,3,g,3
+19I1F,19I1F3A3,3A3,Beton,liften blijven hangen,lifts linger,4,g,3
+1I4O,1I4O3GA1,3GA1,Beton,Beton krimpt,concrete shrinks,3,g,3
+20I3F,20I3F2VB,2VB,Beton,is er veel beton dat word verkleind door warmte,There is much concrete get dwarfed by heat,0,c,3
+20I4O,20I4O3A1,3A1,Beton,er is zelfs een gebouw met 12 cm gekrompen,There is even a building fell by 12 cm,0,c,3
+20I5F,20I5F3AB,3AB,Beton,Krimpt het beton,Shrink concrete,3,g,3
+20I5F,20I5FH3E,H3E,Beton,beton dat gaat krimpen,concrete will shrink,3,g,3
+25I5F,25I5F3A1,3A1,Beton,bij gebruik van verwarming,When using heating,1,g,3
+26I1F,26I1FV3D,V3D,Beton,het beton zet dan uit,the concrete turn off,0,c,3
+26I2F,26I2FH3D,H3D,Beton,Wordt het gebouw kleiner dan het was,If the building is less than it was,3,g,3
+26I3F,26I3FG3,G3,Beton,Door warmte van CV kan het beton krimpen,By heat from heating can shrink the concrete,3,g,3
+29I1F,29I1F3AB,3AB,Beton,Krimpt het gebouw,Shrink building,3,g,3
+2I6F,2I6F3A1,3A1,Beton,krompen vroeger de betonplaten door enkele verwarming,reduced once the slabs by single heating,0,c,3
+32I3F,32I3FH3E,H3E,Beton,Verwarming \'85 stuk,Heating \ '85 piece,0,c,3
+3I2O,3I2O3A3,3A3,Beton,als het beton uitdroogt wordt het kleiner,as the concrete dries it gets smaller,3,g,3
+5I3O,5I3OG3,G3,Beton,Krimpen gebouwen,shrinking buildings,3,g,3
+5I6F,5I6F2VB,2VB,Beton,is het gebruik van centrale verwarming niet goed,the use of central heating is not good,1,g,3
+8I2F,8I2FV3D,V3D,Beton,het uitdrogen van beton,drying concrete,2,g,3
+8I2O,8I2O3AB,3AB,Beton,Bij een groot gebouw kan dat grote verschillen maken,In a large building that can make big differences,0,c,3
+8I3F,8I3FG3,G3,Beton,Muren krimpen / worden nauwer,Walls shrink / become narrower,3,g,3
+8I5F,8I5F3TT1,3TT1,Beton,kan gaan krimpen,can shrink,3,g,3
+17I6F,17I6FV3D,V3D,Botox,voel je je jonger en gelukkiger,you feel younger and happier,0,c,3
+20I4O,20I4O3A1,3A1,Botox,ook voor mensen met rimpels,also for people with wrinkles,3,g,3
+20I5F,20I5F3AB,3AB,Botox,Lijk je jonger,You seem younger,4a,g,3
+8I6F,8I6FH3E,H3E,Botox,wordt dit gebruikt door sommige mensen met geld en rimpels,This is used by some people with money and wrinkles,0,c,3
+8I1F,8I1FA3,A3,Botox,moet je dat een keer inde 1-6 maanden doen?,you should do once end 1-6 months?,0,c,3
+2I6F,2I6F3A1,3A1,Botox,niet te veel doseren,not too much dose,0,c,3
+5I6O,5I6OH3E,H3E,Botox,heb je niet meer zulke gespannen oogleden,have not such tense eyelids,0,c,3
+8I1F,8I1FH3B,H3B,Botox,gezicht veranderd,face changed,0,c,3
+8I2F,8I2FV3D,V3D,Botox,mensen die vaak knipperen door botox ervanaf worden geholpen,people who frequently flashing helped by botox rid of it,2,g,3
+10I4F,10I4F3G2,3G2,Botox,kan de gezichtsuitdrukking anders zijn,The expression may be different,4b,g,3
+11I2F,11I2F3TT1,3TT1,Botox,kan men er jonger uitzien,you can look younger,4a,g,3
+11I3F,11I3F3GA1,3GA1,Botox,je ziet er jonger uit,you look younger,4a,g,3
+11I5F,11I5FG3,G3,Botox,Verdwijnen rimpels op het gezicht,Vanish wrinkles on the face,3,g,3
+14I4F,14I4FG3,G3,Botox,Kan je emotie veranderen,Can you change emotion,0,c,3
+16I1F,16I1F3G2,3G2,Botox,veel mensen gebruiken botox voor cometische bedoelingen,many people use Botox to come extremist intentions,0,c,3
+17I6F,17I6F2VB,2VB,Botox,lijken ze vaak jonger,they often appear younger,4a,g,3
+18I4F,18I4F3GA1,3GA1,Botox,ziet men er jonger uit,it looks younger,4a,g,3
+23I2F,23I2FH3B,H3B,Botox,verdwijnen de rimpels rond hun ogen en verlammen de spieren in hun ogen,eliminate the wrinkles around their eyes and paralyze the muscles in their eyes,3,g,3
+26I6F,26I6FA3A,A3A,Botox,jonger uitzien,look younger,4a,g,3
+27I6F,27I6F3G2,3G2,Botox,een gladde huid (huid zonder rimpels),smooth skin (skin without wrinkles),0,c,3
+2I3O,2I3O2VB,2VB,Botox,je ziet er jonger uit,you look younger,4a,g,3
+2I5O,2I5O3TT1,3TT1,Botox,mensen hebben geen rimpels meer,people have no more wrinkles,3,g,3
+5I1O,5I1OH3B,H3B,Botox,hierdoor krijg je een jeugdigere uitstraling,thus you get a younger look,4a,g,3
+5I6F,5I6F2VB,2VB,Botox,gaan mensen naar de plastichurgie,people go to the plastichurgie,0,c,3
+7I5F,7I5F3VA,3VA,Botox,krijgen mensen een gladde huid,people get a smooth skin,0,c,3
+8I3F,8I3FG3,G3,Botox,Ongewenste gezichtsuitdrukking,Unwanted facial expressions,4b,g,3
+8I5F,8I5F3TT1,3TT1,Botox,maakt je jonger,makes you look younger,4a,g,3
+11I1F,11I1F3G2,3G2,Botox,geen rimpels,no wrinkles,3,g,3
+11I2F,11I2FH3B,H3B,Botox,helpt het tegen een trillende spier,it helps against a vibrant muscle,0,c,3
+11I4F,11I4FH3C,H3C,Botox,soms ontgewenste gezichtsuitdrukking,sometimes ontgewenste expression,4b,g,3
+11I5F,11I5F3A1,3A1,Botox,een bij een overdosis mensen overlijden,death by overdose people,0,c,3
+11I5F,11I5FH3A,H3A,Botox,zie je er jonger uit,you look younger,4a,g,3
+11I6F,11I6F2VB,2VB,Botox,vult het rimpels op,it fills in wrinkles,3,g,3
+12I4F,12I4FHC3,HC3,Botox,gaan rimpels tijdenlijk weg,go wrinkles time corpse,3,g,3
+13I6F,13I6FA3,A3,Botox,kun je harde oogknipperingen weg laten halen,eye blinking hard you let get away,2,g,3
+14I3F,14I3F3A1,3A1,Botox,mensen zien er jonger uit,people look younger,4a,g,3
+14I4F,14I4F3G2,3G2,Botox,zien mensen er jonger uit,see people younger,4a,g,3
+14I4O,14I4OH3D,H3D,Botox,is het verboden voor je,it is forbidden for you,0,c,3
+14I5F,14I5F3AB,3AB,Botox,Wordt gebruikt door plastische chirurgen,It is used by plastic surgeons,0,c,3
+14I5F,14I5F3TT1,3TT1,Botox,goed functioneren,function well,0,c,3
+15I3F,15I3F3A3,3A3,Botox,kun je een gezichtsuitdrukking krijgen die je niet wil,you can get a facial expression that you do not want,4b,g,3
+17I1F,17I1F3GA1,3GA1,Botox,wordt het gebruikt om rimpels glad te strijken,it is used to smooth wrinkles,3,g,3
+17I2F,17I2F3TT1,3TT1,Botox,andere gezichtsuitdrukking,Another expression,4b,g,3
+17I2F,17I2FH3D,H3D,Botox,Kun je een andere gezichtsuitdrukking krijgen,Can you get a different facial expression,4b,g,3
+17I3F,17I3F3AB,3AB,Botox,Kan ongewenste gezichtsuitdrukkingen veroorzaken,Can cause unwanted facial expressions,4b,g,3
+17I5F,17I5FH3E,H3E,Botox,gezicht kan er anders uit zien,face may look different,4b,g,3
+17I6F,17I6FH3C,H3C,Botox,Minder getrek,less Pulls,0,c,3
+19I1F,19I1F3A3,3A3,Botox,slappe huid,sagging skin,0,c,3
+1I4O,1I4O3GA1,3GA1,Botox,Rimpels weg,wrinkles away,3,g,3
+20I1F,20I1FA3A,A3A,Botox,kunnen mensen een ongewenste uitdrukking krijgen,people can get an unwanted expression,4b,g,3
+20I2F,20I2F3VA,3VA,Botox,ongewenste gezichtsuitdrukking ontstaat,unwanted facial expression occurs,4b,g,3
+20I3F,20I3F2VB,2VB,Botox,kan het een andere gezichtsuitdrukking opleveren,it can be a different facial expression,4b,g,3
+20I3F,20I3FH3C,H3C,Botox,Zie je er jonger uit,You look younger,4a,g,3
+20I5F,20I5FH3E,H3E,Botox,geen emotie,no emotion,0,c,3
+20I6F,20I6FG3,G3,Botox,Lijk je jonger en dat willen veel mensen,You seem younger and want a lot of people,4a,g,3
+20I6F,20I6FH3D,H3D,Botox,Kan je minder mooi worden,Can you be so nice,0,c,3
+23I2F,23I2FH3C,H3C,Botox,Andere gezichtsuitdrukking,Other expression,4b,g,3
+25I5F,25I5F3A1,3A1,Botox,word mooier en rimpel vrij van,become more beautiful and wrinkle-free,3,g,3
+26I2F,26I2FH3D,H3D,Botox,kan je gezichtsuitdrukking veranderen,you can change facial expressions,4b,g,3
+29I1F,29I1F3AB,3AB,Botox,Wordt het geburikt als je te hard knippert met je ogen,If the geburikt if you blink too hard with your eyes,2,g,3
+2I4O,2I4OH3A,H3A,Botox,gezichtsuitdrukking verandert ongewenst,facial expression changes undesirably,4b,g,3
+2I6F,2I6FH3B,H3B,Botox,kan de gezichtsuitdrukking ongewenst verandert worden,the facial expression changes can be undesirable,4b,g,3
+32I3F,32I3FH3E,H3E,Botox,kan het er heel raar en onnatuurlijk uit kunnen zien,it can might look very strange and unnatural,0,c,3
+3I2O,3I2O3A3,3A3,Botox,niet meer hard knipperen met je oog,not blinking hard with your eye,0,c,3
+4I2O,4I2O3G2,3G2,Botox,lijken mensen jonger,people look younger,4a,g,3
+4I3O,4I3O3VA,3VA,Botox,de lijntjes van bijvoorbeeld het lachen verdwijnen,"the lines of, for example laughter disappear",0,c,3
+5I1F,5I1FH3A,H3A,Botox,je ziet er jonger uit,you look younger,4a,g,3
+5I1O,5I1OH3C,H3C,Botox,Zijn 28 mensen overleden,deceased 28 people,0,c,3
+5I2F,5I2F3TT1,3TT1,Botox,knijpen mensen ogen niet meer samen,pinching people eyes no longer together,2,g,3
+5I3O,5I3OG3,G3,Botox,Kan de gezichtsuitdrukking verpest worden,Can the expression be ruined,4b,g,3
+5I5F,5I5F3A3,3A3,Botox,zie je er jonger uit,you look younger,4a,g,3
+5I6F,5I6FH3D,H3D,Botox,Wordt je huid voller,Is your skin plumper,0,c,3
+8I3F,8I3F2VB,2VB,Botox,kan mis gaan en kunnen er gewonden vallen,can go wrong and there may be injured,0,c,3
+8I5F,8I5F3A1,3A1,Botox,kan je geen gezichtuitdrukking zien,you can not see facial expressions,4b,g,3
+8I5F,8I5FH3C,H3C,Botox,word het gebruikt voor plastische chirurgie,is it used for plastic surgery,0,c,3
+9I1F,9I1FHC3,HC3,Botox,kan de gezichtsuidrukking ongewenst veranderen,the gezichtsuidrukking may change undesirably,4b,g,3
+9I3F,9I3F3A3,3A3,Botox,blijft de huid rimpelloos,skin without wrinkles,3,g,3
+13I6F,13I6FA3,A3,Geld,je raakt gewent aan de luxe,you get used to the luxury,3,g,3
+15I3F,15I3F3A3,3A3,Geld,wil men uiteindelijk altijd meer dan ze hebben,they eventually always want more than they have,0,c,3
+14I3F,14I3FA3A,A3A,Geld,hij wil weer meer maar kan het niet krijgen,he wants more again but can not get it,0,c,3
+5I1F,5I1FH3A,H3A,Geld,steeds meer geld nodig om gelukkig te worden,more and more money to be happy,0,c,3
+11I6F,11I6F2VB,2VB,Geld,raken gewend aan luxe,become accustomed to luxury,3,g,3
+8I3F,8I3FG3,G3,Geld,kort gevoel van geluk,brief sense of happiness,2,g,3
+11I2F,11I2F3TT1,3TT1,Geld,heeft men meer nodig om gelukkig te worden,we need more to be happy,0,c,3
+11I6F,11I6FH3E,H3E,Geld,Word je steeds minder gelukkig,Are you less happy,0,c,3
+8I2O,8I2O3AB,3AB,Geld,Daarom maakt geld een persoon niet gelukkig,"Therefore, money makes a person happy",5,g,3
+11I1F,11I1F3G2,3G2,Geld,niet tevreden,unsatisfied,0,c,3
+2I6F,2I6F3A1,3A1,Geld,wen je er snel aan,wen you quickly,3,g,3
+5I1O,5I1OH3C,H3C,Geld,Wordt je niet gelukkig van geld,You will not be happy with money,0,c,3
+5I3O,5I3OV3D,V3D,Geld,wen je aan rijk zijn,you get used to his empire,3,g,3
+9I3F,9I3F3A3,3A3,Geld,wil een persoon m veel geld steeds weer nieuwe dingen kopen,m person wants a lot of money always buy new things,0,c,3
+14I5F,14I5F3AB,3AB,Geld,Mensen raken snel gewend aan luxe,People quickly get used to luxury,3,g,3
+7I5F,7I5F3VA,3VA,Geld,maakt geld maar kort gelukkig,make money but fortunately brief,0,c,3
+8I5F,8I5FH3C,H3C,Geld,als een mense geld hoeft went het al snel,as a peopl money does get used to it quickly,0,c,3
+10I4F,10I4F3G2,3G2,Geld,veel spectaculaire en leuke dingen doen,many spectacular and fun things,0,c,3
+11I2F,11I2FH3B,H3B,Geld,de mens is snel gewend aan luxe,Man is quickly accustomed to luxury,3,g,3
+11I3F,11I3F3GA1,3GA1,Geld,Je went dus snel aan de luxe,You get used so quickly to the luxury,3,g,3
+11I3F,11I3F3VA,3VA,Geld,ze raken gewend aan de luxe,they get used to the luxury,3,g,3
+11I4F,11I4FA3,A3,Geld,mensen kopen ook drank om zich tevreden te voelen,People also buy drinks to feel satisfied,0,c,3
+11I4F,11I4FH3C,H3C,Geld,worden ze gewend aan het geld,they are accustomed to money,3,g,3
+11I5F,11I5FG3,G3,Geld,Hebben bestemming bedacht van te voren voor het geld,Have devised destination in advance for the money,0,c,3
+11I5F,11I5FH3A,H3A,Geld,"hoe meer geld je hebt, hoe meer je wilt","The more money you have, the more you want",0,c,3
+11I6F,11I6FV3D,V3D,Geld,omdat ze er aan gewent raken,because they become habituated to,3,g,3
+12I4F,12I4FHC3,HC3,Geld,wen je snel aan de luxe.,wen you quickly to the luxury.,3,g,3
+14I3F,14I3F3A1,3A1,Geld,in 1 keer veel geld krijgen maakt je niet gelukkiger,at one time a lot of money does not make you happier,0,c,3
+14I5F,14I5F3TT1,3TT1,Geld,je wilt steeds meer,You want more and more,0,c,3
+14I5F,14I5FH3B,H3B,Geld,mensen kan haar kort gevoel van geluk of ongeluk ervaren,people can experience its brief sense of happiness or unhappiness,2,g,3
+16I1F,16I1F3G2,3G2,Geld,willen mensen dit gevoel langer vasthouden,People want longer hold this feeling,0,c,3
+17I1F,17I1F3GA1,3GA1,Geld,je went snel aan geld/alcohol: 'geluk',You quickly get used to money / alcohol: 'happiness',0,c,3
+17I1F,17I1F3VA,3VA,Geld,De mens went aan het geluk,The man went to the happiness,2,g,3
+17I3F,17I3F3AB,3AB,Geld,Gewenning,Habituation,3,g,3
+17I6F,17I6F2VB,2VB,Geld,neem je niet genoeg met minder en raak je gewend aan de luxe,take enough with less and you get used to the luxury,3,g,3
+17I6F,17I6FH3C,H3C,Geld,Doen mee aand lotto's,Join press lotteries,0,c,3
+17I6F,17I6FV3D,V3D,Geld,meer aandacht voor geld dan voor familie en vrienden,more attention than money for family and friends,4b,g,3
+18I4F,18I4F3GA1,3GA1,Geld,ze hebben veel geld gekregen,they have got a lot of money,0,c,3
+19I1F,19I1F3A3,3A3,Geld,zalt op dat je kort gelukkig bent,Zalt that you're short happy,0,c,3
+19I4F,19I4F3GA1,3GA1,Geld,op een gegeven moment wen je eraan,at some point you get used to it,3,g,3
+19I5F,19I5F3AB,3AB,Geld,Maakt het hebben van geld je niet gelukkig,Does having money you happy,4a,g,3
+1I4O,1I4O3GA1,3GA1,Geld,Geld op. Kan nog maar kleine dingen kopen,Money on. Can only buy small things,0,c,3
+20I2F,20I2FV3D,V3D,Geld,maakt geld niet gelukkig,money can not be happy,4a,g,3
+20I3F,20I3F2VB,2VB,Geld,lottowinnaars kopen heel veel spullen,lotto winners buying lots of stuff,0,c,3
+20I3F,20I3FH3C,H3C,Geld,Vroegen ze iemand die meer dan 300 mil gewonnen had,She asked someone who had won more than 300 mil,0,c,3
+20I4O,20I4O3A1,3A1,Geld,geen zorgen om bijvoorbeeld rekeningen te betalen,"no worries, for example to pay bills",0,c,3
+20I5F,20I5F3AB,3AB,Geld,Het is gevaarlijk om voor een langere tijd blij te zijn,It is dangerous to be happy for a long time,0,c,3
+20I5F,20I5FH3E,H3E,Geld,er komt niks bij,there is nothing at,0,c,3
+20I6F,20I6FG3,G3,Geld,Daar is uitgekomen dat je geluk van liefde en ergens bij horen vandaan komt,That is true happiness that you love and belongingness comes from,4b,g,3
+20I6F,20I6FH3D,H3D,Geld,geld maakt alleen arme mensen gelukkig,money is only poor people happy,0,c,3
+23I2F,23I2FH3C,H3C,Geld,Minder geld,Less money,0,c,3
+25I5F,25I5F3A1,3A1,Geld,je moet telkens geld hebben om gelukkig te blijven,You should always have money to stay happy,0,c,3
+26I1F,26I1FV3D,V3D,Geld,mensen wennen snel aan omstandigheden zoals luxe en alcohol,People quickly get used to conditions such as luxury and alcohol,3,g,3
+26I2F,26I2FH3D,H3D,Geld,je bent rijk,you're rich,0,c,3
+2I3O,2I3O2VB,2VB,Geld,went aan luxe,get used to luxury,3,g,3
+2I5O,2I5O3TT1,3TT1,Geld,"lottowinnaars vinden het en zijn blij met het geld, maar dat duurt niet lang","lottery winners find it and are happy with the money, but not for long",0,c,3
+2I6F,2I6FH3B,H3B,Geld,mensen raken snel gewend aan luxe,People quickly get used to luxury,3,g,3
+32I3F,32I3FH3E,H3E,Geld,Maar drm blijf je meer willen kopen,But drm you keep wanting to buy more,0,c,3
+3I2O,3I2O3A3,3A3,Geld,krijg je geen echte vrienden maar vrienden voor het geld,"you get no real friends, but friends for money",0,c,3
+4I2O,4I2O3G2,3G2,Geld,zijn zij ongelukkig omdat ze steeds meer willen en het gemakkelijk krijgen,They are unhappy because they want more and more and get easy,0,c,3
+4I3O,4I3O3VA,3VA,Geld,wennen ze snel aan luxe,they get used to luxury,3,g,3
+5I1O,5I1OH3B,H3B,Geld,ze zijn daarom maar heel even gelukkig met hun geld,They are therefore only briefly happy with their money,0,c,3
+5I3O,5I3OG3,G3,Geld,Zien zij dat het geluk maar heel even is,they see that happiness is only a moment,2,g,3
+5I5F,5I5F3A3,3A3,Geld,je went snel aan veel geld hebben,you get used to have quick money,3,g,3
+5I6F,5I6FH3D,H3D,Geld,Willen ze veel luxe,They want much luxury,0,c,3
+8I1F,8I1FA3,A3,Geld,Geld winnen,win cash,0,c,3
+8I1F,8I1FH3B,H3B,Geld,ziet veel nadelen aan dingen,sees many downsides to things,0,c,3
+8I3F,8I3F2VB,2VB,Geld,kopen ze lot,buy fate,0,c,3
+8I5F,8I5F3A1,3A1,Geld,trekken ze minder geluk als ze iets kunnen kopen,they attract less fortunate if they can buy something,0,c,3
+8I6F,8I6FH3E,H3E,Geld,zijn ze daardoor weer ongelukkig,They are therefore again unhappy,0,c,3
+9I1F,9I1FHC3,HC3,Geld,hebben ze steeds meer nodig om blij te worden,they still need to be happy,0,c,3
+1I4O,1I4O3GA1,3GA1,Metro,Kunstmatig rif ontstaan,Artificial reef arise,3,g,3
+11I6F,11I6F2VB,2VB,Metro,vissen en andere zeedieren leven nu daar leefbaarheid toegenomen,fish and other marine life there now increased livability,5,g,3
+20I1F,20I1FA3A,A3A,Metro,komer er meer vissen en planten (zo'n 400%),now draws more fish and plants (400%),5,g,3
+26I6F,26I6FA3A,A3A,Metro,meer plek voor zeedieren,more space for marine animals,0,c,3
+5I1F,5I1FH3A,H3A,Metro,meer dieren in de zee,More animals in the sea,0,c,3
+11I1F,11I1F3G2,3G2,Metro,meer koraal,more coral,0,c,3
+11I2F,11I2F3TT1,3TT1,Metro,extra plankton en zeefauna,extra plankton and marine fauna,4,g,3
+11I2F,11I2FH3B,H3B,Metro,meer planten en plankton aanwezig,more plants and plankton present,4,g,3
+11I3F,11I3F3GA1,3GA1,Metro,dit trekt meer plankton aan,This attracts plankton,4,g,3
+11I3F,11I3F3VA,3VA,Metro,er groeit koraal op de wagons,There coral grows on the wagons,0,c,3
+11I3F,11I3FHC3,HC3,Metro,komen er meer algen,there are more algae,0,c,3
+11I6F,11I6FH3E,H3E,Metro,komen er meer plankton en andere plantjes,get more plankton and other plants,4,g,3
+12I4F,12I4FHC3,HC3,Metro,veel zeewier enz. op de metro's,lots of seaweed etc. on the subway,0,c,3
+14I4F,14I4FG3,G3,Metro,Kwam er meer plankton,Came more plankton,4,g,3
+14I5F,14I5F3AB,3AB,Metro,Plankton is 400 keer vervoudigd,Plankton is 400 times vervoudigd,4,g,3
+15I3F,15I3F3A3,3A3,Metro,kwam er meer plankton,more plankton came,4,g,3
+17I1F,17I1F3GA1,3GA1,Metro,komt er meer plankton en bijv. koralen,there is more plankton and eg. corals,4,g,3
+17I3F,17I3F3AB,3AB,Metro,Kleine dieren zoals plankton komen naar het rif,Small animals like plankton get to the reef,4,g,3
+18I4F,18I4F3GA1,3GA1,Metro,krijg je een kunstmatig rif,you get an artificial reef,3,g,3
+19I4F,19I4F3GA1,3GA1,Metro,meer aanmaak plankton etc.,"more production plankton, etc.",4,g,3
+19I5F,19I5F3AB,3AB,Metro,Er kwamen meer plankton en zeefauna op af,There were more plankton and marine fauna on off,4,g,3
+20I4O,20I4O3A1,3A1,Metro,daar is nu 400x zoveel plankton opgegroeid zoals normaal,there now 400x as much plankton grew up as usual,4,g,3
+20I6F,20I6FG3,G3,Metro,Onstaat er meer plankton etc,Arises more plankton etc,4,g,3
+23I2F,23I2FH3B,H3B,Metro,groeide er veel zeewier op de bodem,grew much seaweed on the bottom,0,c,3
+25I5F,25I5F3A1,3A1,Metro,plankton 400x zo veel geworden,plankton 400x become so much,0,c,3
+26I1F,26I1FV3D,V3D,Metro,er kan meer flora en fauna in de zee komen,there may be more flora and fauna in the sea,4,g,3
+27I6F,27I6F3G2,3G2,Metro,komt er meer plankton en andere kleine organismen,there is more plankton and other small organisms,4,g,3
+2I3O,2I3O2VB,2VB,Metro,meer plankton,more plankton,4,g,3
+2I5O,2I5O3TT1,3TT1,Metro,plankton en zeeanemonen gaan zich erop vestigen,plankton and sea anemones will settle out,0,c,3
+4I2O,4I2O3G2,3G2,Metro,meer leefgebied voor zeedieren,more habitat for marine life,0,c,3
+4I3O,4I3O3VA,3VA,Metro,hoeveelheid plankton en andere kleine organismen met 400 keer vergroot,plankton and other small organisms 400 times magnified,4,g,3
+5I1O,5I1OH3B,H3B,Metro,komt er meer plankton,there is more plankton,4,g,3
+5I2F,5I2F3TT1,3TT1,Metro,meer leven voor de kust,longer life for the coast,0,c,3
+8I1F,8I1FA3,A3,Metro,maakt het een,makes it a,0,c,3
+8I3F,8I3FG3,G3,Metro,Een rif onstaan,develop a reef,0,c,3
+8I5F,8I5F3TT1,3TT1,Metro,meer plankton,more plankton,4,g,3
+8I5F,8I5FH3C,H3C,Metro,400x zoveel koraal. Veel plankton,400x much coral. many plankton,4,g,3
+8I6F,8I6FH3E,H3E,Metro,is het aantal planktons 4x verdubbled,The number of planktons 4x verdubbled,4,g,3
+10I4F,10I4F3G2,3G2,Metro,meer plankton in de zee daar,more plankton in the sea there,4,g,3
+11I4F,11I4FH3C,H3C,Metro,dingen waar zeedieren op af komen,things on marine animals come down,0,c,3
+11I5F,11I5F3A1,3A1,Metro,komt er meer leven,there will be more alive,0,c,3
+11I5F,11I5FH3A,H3A,Metro,meer vissen,more fish,5,g,3
+11I6F,11I6FV3D,V3D,Metro,komt er ook koraal,There is also coral,0,c,3
+13I5F,13I5FHC3,HC3,Metro,meer vissen,more fish,5,g,3
+14I3F,14I3F3A1,3A1,Metro,meer plankton en zeefauna bij de kust,more plankton and marine life at the seaside,4,g,3
+14I5F,14I5F3TT1,3TT1,Metro,meer plankton,more plankton,4,g,3
+16I1F,16I1F3G2,3G2,Metro,rif,reef,0,c,3
+17I1F,17I1F3VA,3VA,Metro,Komen er voedingstoffen in de zee,Are there nutrients into the sea,0,c,3
+17I2F,17I2F3TT1,3TT1,Metro,meer vissen,more fish,5,g,3
+17I2F,17I2FH3D,H3D,Metro,Kan er nu meer plankton en koraal groeien,Can now grow more plankton and coral,4,g,3
+17I5F,17I5FH3E,H3E,Metro,meer vissen,more fish,5,g,3
+17I6F,17I6F2VB,2VB,Metro,veel plankton op de metrowagens,much plankton in the subway cars,4,g,3
+17I6F,17I6FH3C,H3C,Metro,Veel plankton zeewal,Many plankton seawall,4,g,3
+17I6F,17I6FV3D,V3D,Metro,meer plankton en zeeleven,more plankton and marine life,4,g,3
+19I1F,19I1F3A3,3A3,Metro,meer vissen ook die er gaan leven,even more fish go live,5,g,3
+20I2F,20I2F3VA,3VA,Metro,plankton en fauna kan weer leven,plankton and fauna can live again,4,g,3
+20I2F,20I2FV3D,V3D,Metro,meer plankton en andere zeediertjes,more plankton and other sea creatures,4,g,3
+20I3F,20I3F2VB,2VB,Metro,goed voor de zeedieren,good for marine life,0,c,3
+20I5F,20I5F3AB,3AB,Metro,Zijn er veel meer vissen zoals makreel en baars,There are many more fish like mackerel and perch,5,g,3
+20I5F,20I5FH3E,H3E,Metro,meer plankton,more plankton,4,g,3
+20I6F,20I6FH3D,H3D,Metro,meer zeeplanten,more marine plants,0,c,3
+23I2F,23I2FH3C,H3C,Metro,Veel zou .. ONLEESBAAR VS,Many would UNREADABLE USA ..,0,c,3
+26I2F,26I2FH3D,H3D,Metro,Meer plankton en andere eencelligen,More plankton and other single-celled,4,g,3
+29I1F,29I1F3AB,3AB,Metro,Meer plankton,more plankton,4,g,3
+2I6F,2I6F3A1,3A1,Metro,veranderd dit zeeleven,changed this marine life,0,c,3
+3I2O,3I2O3A3,3A3,Metro,meer eten voor dieren,more food for animals,0,c,3
+5I1O,5I1OH3C,H3C,Metro,meer plankton,more plankton,4,g,3
+5I3O,5I3OG3,G3,Metro,Trok het dieren aan,Pulled the animal to,0,c,3
+5I3O,5I3OV3D,V3D,Metro,betere zee leefomgeving,better sea environment,0,c,3
+5I5F,5I5F3A3,3A3,Metro,trekt het andere zeedieren aan,draws on other marine animals,0,c,3
+5I6F,5I6FH3D,H3D,Metro,Groeit er o.a. Plankton,"Grows there is, inter alia, Plankton",4,g,3
+5I6O,5I6OH3E,H3E,Metro,kwam er meer plankton,more plankton came,4,g,3
+7I5F,7I5F3VA,3VA,Metro,meer riffen,more reefs,0,c,3
+8I1F,8I1FH3B,H3B,Metro,wordt het metaal voor iets anders gemaakt (?),the metal made for something else (?),0,c,3
+8I2O,8I2O3AB,3AB,Metro,Meer plankton,more plankton,4,g,3
+8I3F,8I3F2VB,2VB,Metro,"veel meer baars, markreel -> vis om te vangen dus meer eten","more bass, highlight reel -> fish to catch so more food",0,c,3
+8I5F,8I5F3A1,3A1,Metro,komen er zeedieren op af,come on marine life off,0,c,3
+9I3F,9I3F3A3,3A3,Metro,komen plankton en zeefauna weer op af,come on plankton and marine fauna off again,4,g,3
+10I2F,10I2FHC3,HC3,Muziek,kinderen hoger IQ,children higher IQ,3c,g,3
+17I2F,17I2FH3D,H3D,Muziek,Krijg je meer ruimtelijk inzicht (wiskunde),Get more spatial awareness (mathematics),3a,g,3
+26I1F,26I1FV3D,V3D,Muziek,wordt je geheugen beter,your memory is better,0,c,3
+8I1F,8I1FA3,A3,Muziek,onthoud je dingen beter,you remember things better,0,c,3
+8I3F,8I3FG3,G3,Muziek,Meer ruimtelijk inzicht,More spatial awareness,3a,g,3
+8I6F,8I6FH3E,H3E,Muziek,scoren deze muzikanten hoger op een IQ test,these musicians scored higher on an IQ test,3c,g,3
+2I3O,2I3O2VB,2VB,Muziek,beter in oriontatie,Orion better transplantation,0,c,3
+9I3F,9I3F3A3,3A3,Muziek,beter herrinneringen kunnen ophalen,better pick herr minders,3b,g,3
+10I4F,10I4F3G2,3G2,Muziek,kunnen ze beter ding onthouden,they can remember better thing,0,c,3
+11I1F,11I1F3G2,3G2,Muziek,wiskundige dingen beter oplossen,better solve math stuff,3a,g,3
+11I2F,11I2F3TT1,3TT1,Muziek,verbeterd het de motoriek die gebruikt wordt bij bijv. breuken,improved motor function which is used in e.g. fractures,0,c,3
+11I2F,11I2FH3B,H3B,Muziek,kun je makkelijker wiskundige problemen oplossen,You can easily solve mathematical problems,3a,g,3
+11I4F,11I4FH3C,H3C,Muziek,hebben ze verstand van meerdere dingen,they understand several things,0,c,3
+11I5F,11I5FG3,G3,Muziek,Komen herinneringen uit het verleden boven drijven,Come to the surface memories of the past,3b,g,3
+11I6F,11I6F2VB,2VB,Muziek,beter leren,better learning,0,c,3
+11I6F,11I6FV3D,V3D,Muziek,krijg je hogere resultaten in wiskunde,you get higher results in mathematics,3a,g,3
+12I4F,12I4FHC3,HC3,Muziek,beter dingen onthouden,remember things better,0,c,3
+14I3F,14I3FA3A,A3A,Muziek,herinneringen komen terug,memories come back,3b,g,3
+15I3F,15I3F3A3,3A3,Muziek,kun je beter worden in ruimtelijke wiskundesommen,you are better at spatial math problems,3a,g,3
+16I1F,16I1F3G2,3G2,Muziek,hoger IQ,higher IQ,3c,g,3
+17I1F,17I1F3GA1,3GA1,Muziek,zijn muziekanten beter in breuken,musicians are better fractures,0,c,3
+17I3F,17I3F3AB,3AB,Muziek,Stimuleert bv wiskundigheid,Stimulates example of mathematical,3a,g,3
+17I6F,17I6F2VB,2VB,Muziek,kun je beter herinneringen ophalen,you can pick up better memories,3b,g,3
+17I6F,17I6FV3D,V3D,Muziek,Heb je een gemiddeld hoger IQ,Do you have a higher average IQ,3c,g,3
+18I4F,18I4F3GA1,3GA1,Muziek,kan je met muziek oude herinneringen ophalen,You can pick up old memories with music,3b,g,3
+19I4F,19I4F3GA1,3GA1,Muziek,wiskundig beter,mathematically better,3a,g,3
+19I5F,19I5F3AB,3AB,Muziek,Beter in ruimtelijke vakken zoals wiskunde,Better spatial subjects like mathematics,3a,g,3
+1I4O,1I4O3GA1,3GA1,Muziek,Mensen die niets kunnen herinneren blijven muziek onthouden,People who can not remember anything keep abstaining music,0,c,3
+20I1F,20I1FA3A,A3A,Muziek,"kunnen mensen met alzheimer met behulp van een liedje, zich weer iets herinneren","people with Alzheimer's with a song, recall something again",0,c,3
+20I2F,20I2FV3D,V3D,Muziek,muziek relateren aan herinneringen,music relate to memories,3b,g,3
+20I3F,20I3FH3A,H3A,Muziek,terugden aan iets,terugden something,0,c,3
+20I4O,20I4O3A1,3A1,Muziek,scoren kinderen die vroeger een instrument bespeelde hoger op een IQ tekst,scoring children who used an instrument played higher on an IQ text,3c,g,3
+20I5F,20I5F3AB,3AB,Muziek,Herrineringen makkelijker ophalen,Get easier Memories,3b,g,3
+23I2F,23I2FH3B,H3B,Muziek,zijn ze vaak beter in het oplossen van wiskundeproblemen zoals breuken,they are often better at solving math problems such as fractures,3a,g,3
+25I5F,25I5F3A1,3A1,Muziek,ben je beter in ruimtelijk inzicht,You better spatial awareness,0,c,3
+27I6F,27I6F3G2,3G2,Muziek,helpt bij wiskundebreuken,helps with math fractions,3a,g,3
+29I1F,29I1F3AB,3AB,Muziek,Scoren 12-jarige die een muziekinstrument bespelen een hogere IQ op een IQ test,Scoring 12-year-old to play a musical instrument a higher IQ on an IQ test,3c,g,3
+2I4O,2I4OH3A,H3A,Muziek,Beter ophalen van herinneringen,Better reminiscing,0,c,3
+2I6F,2I6FH3B,H3B,Muziek,kan het helpen bij het oplossen van breuken,it can help solve fractures,0,c,3
+3I2O,3I2O3A3,3A3,Muziek,hogere IQ hebben,have higher IQ,3c,g,3
+4I3O,4I3O3VA,3VA,Muziek,makkelijker verbanden leggen,make connections easier,0,c,3
+5I1O,5I1OH3B,H3B,Muziek,kun je bijvoorbeeld wiskunde somen beter maken,"For example, you can make better math somen",0,c,3
+5I2F,5I2F3TT1,3TT1,Muziek,helpt het bij breuken en rekensommen,It helps fractures and arithmetic,0,c,3
+5I6F,5I6FH3D,H3D,Muziek,Ontwikkel je sommige gebieden,Develop your some areas,0,c,3
+7I5F,7I5F3VA,3VA,Muziek,betere rekenvaardigheden,better math skills,3b,g,3
+8I2F,8I2FV3D,V3D,Muziek,herinner je sommige momenten dat te maken had met dat soort muziek,remember some moments that had to do with that kind of music,3b,g,3
+8I2O,8I2O3AB,3AB,Muziek,Maakt muziek je slimmer,Does music make you smarter,3c,g,3
+11I3F,11I3F3GA1,3GA1,Muziek,beter sommen maken (vooral breuken),make better sums (mainly fractures),0,c,3
+11I4F,11I4FA3,A3,Muziek,Het is goed voor je ruimtelijk inzicht,It's good for your spatial awareness,3a,g,3
+11I6F,11I6FH3E,H3E,Muziek,Verbeterd je geheugen,Improve your memory,0,c,3
+13I6F,13I6FA3,A3,Muziek,kunnen mensen met alzheimer hun oude liedjes herinneren,People with Alzheimer's can remember their old songs,3b,g,3
+14I4F,14I4F3G2,3G2,Muziek,herinneren mensen zich dingen beter,people remember things better,3b,g,3
+14I4F,14I4FG3,G3,Muziek,Kun je dingen beter herinneren,Can you remember things better,3b,g,3
+14I5F,14I5F3AB,3AB,Muziek,Is het maken van wiskunde sommen als breuken makkelijker,Is making maths sums and fractions easier,3a,g,3
+14I5F,14I5F3TT1,3TT1,Muziek,hogere IQ,higher IQ,3c,g,3
+17I1F,17I1F3VA,3VA,Muziek,Haalt muziek herinneringen op,Retrieves music memories,3b,g,3
+17I5F,17I5FH3E,H3E,Muziek,betere toets resultaten,Better test scores,0,c,3
+17I6F,17I6FH3C,H3C,Muziek,Helpt leren,helps teach,0,c,3
+20I2F,20I2F3VA,3VA,Muziek,kunnen mensen met alzheimer meer herrineren,people with Alzheimer's more saving memories,3b,g,3
+20I3F,20I3F2VB,2VB,Muziek,stimuleert je hersenen,stimulates your brains,0,c,3
+20I3F,20I3FH3C,H3C,Muziek,Als je alzheimer hebt herinner je het soms,"If you remember, alzheimers sometimes",0,c,3
+20I6F,20I6FG3,G3,Muziek,Ben je slimmer en halen kinderen die naar muziek luisteren hogere resultaten,Are you smarter and get children who listen to music higher results,3c,g,3
+20I6F,20I6FH3D,H3D,Muziek,Beter in je vel,Better about yourself,0,c,3
+23I2F,23I2FH3C,H3C,Muziek,ONLEESBAAR,UNREADABLE,0,c,3
+26I2F,26I2FH3D,H3D,Muziek,het kan je helpen om herinneringen om te halen,it can help you to get reminders,3b,g,3
+26I3F,26I3FG3,G3,Muziek,"Mensen met alzheimer helpen, muziek roept herinneringen op.","Helping people with Alzheimer's, music evokes.",3b,g,3
+2I6F,2I6F3A1,3A1,Muziek,beter ruimtelijk inzicht,better spatial awareness,0,c,3
+32I3F,32I3FH3E,H3E,Muziek,Geeft een goed gevoel,Feels good,0,c,3
+4I2O,4I2O3G2,3G2,Muziek,kan het helpen met herinnringen ophalen,it can help retrieve herinnringen,3b,g,3
+5I1F,5I1FH3A,H3A,Muziek,je kan bepaalde dingen beter doen b.v. wiskunde,"you better do certain things for example, math",0,c,3
+5I3O,5I3OG3,G3,Muziek,Kan je sommige sommen beter oplossen,Can better solve certain sums,3a,g,3
+5I5F,5I5F3A3,3A3,Muziek,scoor je hoger op IQ testen,You score higher on IQ tests,3c,g,3
+5I6F,5I6F2VB,2VB,Muziek,helpt het je met breuken oplossen,helps you solve with fractions,0,c,3
+5I6O,5I6OH3E,H3E,Muziek,hebben mensen die een muziek instrument bespelen ook een hoger IQ,have people who play a musical instrument a higher IQ,3c,g,3
+8I1F,8I1FH3B,H3B,Muziek,kan het je helpen aan wiskunde sommen (breuken),it can help sums math (fractions),0,c,3
+8I3F,8I3F2VB,2VB,Muziek,beter onthouden,better remember,0,c,3
+8I5F,8I5F3A1,3A1,Muziek,kan je beter leren,you better learn,0,c,3
+8I5F,8I5F3TT1,3TT1,Muziek,je hebt een beter geheugen,you have a better memory,0,c,3
+8I5F,8I5FH3C,H3C,Muziek,mensen met alzheimer herinneren weer dingen door muziek,People with Alzheimer remember things again through music,0,c,3
+13I5F,13I5FHC3,HC3,Suez,snellere handel,faster trade,0,c,3
+20I3F,20I3FH3C,H3C,Suez,Werd het suezkanaal gegraven,Dug the Suez canal,4,g,3
+20I5F,20I5FH3E,H3E,Suez,schepen sneller,ships faster,0,c,3
+20I6F,20I6FH3D,H3D,Suez,het Suez kanaal werd gegraven,the Suez canal was dug,4,g,3
+26I1F,26I1FV3D,V3D,Suez,is er een kanaal tussen de zee\'ebn afgegraven,There is a channel between the ocean \ 'ebn excavated,4,g,3
+32I3F,32I3FH3E,H3E,Suez,Is de afstand nu kleiner,If the distance is now smaller,0,c,3
+8I5F,8I5FH3C,H3C,Suez,begonnen ze in de 19e eeuw met graven,They started in the 19th century with graves,0,c,3
+9I1F,9I1FHC3,HC3,Suez,werd het kanaal geopend in lovog,the channel was opened in lovog,0,c,3
+11I5F,11I5FG3,G3,Suez,Konden schepen via het kanaal langs de middellandse zee,Could ships through the channel along the Mediterranean,0,c,3
+1I4O,1I4O3GA1,3GA1,Suez,Toen Suezkanaal klaar was. Was er een verbinding tussen Indische & Grote oceaan,When Suez Canal was finished. Was there a connection between the Indian and Pacific Ocean,0,c,3
+20I1F,20I1FA3A,A3A,Suez,begon het graven van het suezkanaal,began digging the Suez canal,0,c,3
+29I1F,29I1F3AB,3AB,Suez,Is het suezkanaal gegraven,Dug the Suez canal,4,g,3
+4I2O,4I2O3G2,3G2,Suez,bouwden mensen een kanaal,people built a canal,4,g,3
+8I6F,8I6FH3E,H3E,Suez,hebben ze lang gegraven door een woestijn in afrika en het kanaal geopent,they have long dug through a desert in Africa and the channel geopent,0,c,3
+11I2F,11I2F3TT1,3TT1,Suez,moest er iets aan gedan worden,had to be something gedan,0,c,3
+13I6F,13I6FA3,A3,Suez,ging de handel niet makkelijk,Trade was not easy,0,c,3
+14I5F,14I5F3AB,3AB,Suez,Er moet een doorgang komen tussen de twee zeeen,A passage is needed between the two seas,1,g,3
+17I3F,17I3F3AB,3AB,Suez,Koopslieden moeten om Afrika heen varen om in Europa te komen,Buy executives have to sail around Africa to Europe,2,g,3
+17I6F,17I6FV3D,V3D,Suez,Duurde de reis van de ene kant van Afrika naar bv. Europa heel lang,Took the trip from one end of Africa to eg. Europe long,3,g,3
+19I5F,19I5F3AB,3AB,Suez,Werd er veel tijd bespaart voor het reizen,Was saves much time for traveling,5,g,3
+20I6F,20I6FG3,G3,Suez,Daarom is het suezkanaal aangelegd,"Therefore, the Suez Canal was built",4,g,3
+26I2F,26I2FH3D,H3D,Suez,is een kanaal nodig,is a channel necessary,0,c,3
+26I3F,26I3FG3,G3,Suez,Suezkanaal aangebracht die middellandse zee en indische oceaan verbindt,Suez Canal made connecting Mediterranean and Indian Ocean,4,g,3
+3I2O,3I2O3A3,3A3,Suez,aanleg Suezkanaal,construction Suez Canal,4,g,3
+5I3O,5I3OV3D,V3D,Suez,werd het suezkanaal aangelegd,the Suez Canal was built,4,g,3
+8I3F,8I3FG3,G3,Suez,Suezkanaal werd gebouwd,Suez Canal was built,4,g,3
+11I2F,11I2FH3B,H3B,Suez,er was besloten dat de route te lang is,it was decided that the route is too long,0,c,3
+11I3F,11I3F3VA,3VA,Suez,suezkanaal gegraven,dug Suez canal,4,g,3
+11I4F,11I4FH3C,H3C,Suez,werd het suezkanaal gegraven,The Suez Canal was dug,4,g,3
+11I5F,11I5F3A1,3A1,Suez,konden handelaren door het Suezkanaal varen,traders could sail through the Suez Canal,0,c,3
+14I3F,14I3F3A1,3A1,Suez,iemand had bedacht wat de oplossing kon zijn,someone had figured out what the solution could be,0,c,3
+14I3F,14I3FA3A,A3A,Suez,weg gevonden,road found,0,c,3
+14I4F,14I4F3G2,3G2,Suez,suezkanaal werd aangelegd,Suez Canal was built,4,g,3
+14I5F,14I5F3TT1,3TT1,Suez,korte reistijd,short journey,0,c,3
+15I3F,15I3F3A3,3A3,Suez,kanaal gebouwd om afstand te verbouwen,channel built to grow away,0,c,3
+16I1F,16I1F3G2,3G2,Suez,Suezkanaal graven,Suez Canal dig,4,g,3
+17I1F,17I1F3GA1,3GA1,Suez,ze zochten een kortere route,they were looking for a shorter route,0,c,3
+17I1F,17I1F3VA,3VA,Suez,Suezkanaal aangelegd,constructed Suez Canal,4,g,3
+17I2F,17I2F3TT1,3TT1,Suez,hoeft men nu niet meer om Afrika heen,they are no longer around Africa,0,c,3
+17I2F,17I2FH3D,H3D,Suez,Het suezkanaal werd gegraven,The Suez Canal was dug,4,g,3
+17I6F,17I6F2VB,2VB,Suez,is de scheepsvaart met 40% verkort,the shipping is reduced by 40%,0,c,3
+17I6F,17I6FH3C,H3C,Suez,Lange tochten oplossing sneller,Long trips solution faster,0,c,3
+18I4F,18I4F3GA1,3GA1,Suez,werd er jarenlang een kanaal gegraven,a channel was dug years,0,c,3
+19I4F,19I4F3GA1,3GA1,Suez,groeien ze een kanaal (leiding van een Oostenrijker),they grow a channel (led by an Austrian),0,c,3
+20I2F,20I2F3VA,3VA,Suez,verbinding tussen Atlantische oceaan en middellandse zee,connection between the Atlantic and Mediterranean,0,c,3
+20I2F,20I2FV3D,V3D,Suez,wilden ze een kortere weg cre\'ebren,they wanted to create a shortcut \ 'ebren,3,g,3
+20I3F,20I3F2VB,2VB,Suez,grote woestijn waar de boten omheen moesten varen,high desert where the boats had to sail around,0,c,3
+20I3F,20I3FH3A,H3A,Suez,jarenlang arbeids bezig om te graven,labor years trying to dig,0,c,3
+20I4O,20I4O3A1,3A1,Suez,is het dus heel voordelig voor de economie,it is thus very beneficial for the economy,0,c,3
+20I5F,20I5F3AB,3AB,Suez,Varen om het hele continent Afrika,Sailing to the entire African continent,2,g,3
+25I5F,25I5F3A1,3A1,Suez,in 1960 geopend voor scheepsvaart,Established in 1960 for shipping industry,0,c,3
+26I6F,26I6FA3A,A3A,Suez,kortere waterweg,shorter waterway,3,g,3
+27I6F,27I6F3G2,3G2,Suez,langs woestijn om 'niet om te lopen',along desert 'not to run',0,c,3
+2I3O,2I3O2VB,2VB,Suez,daarom maken ze een kanaal,"Therefore, they make a channel",4,g,3
+2I6F,2I6FH3B,H3B,Suez,kunnen mensen de doorgang gebruiken,people can use the passageway,0,c,3
+4I3O,4I3O3VA,3VA,Suez,graven mensen het suez-kanaal,People dig the Suez Canal,4,g,3
+5I1F,5I1FH3A,H3A,Suez,suezkanaal aanleggen,Suez canal construction,4,g,3
+5I1O,5I1OH3B,H3B,Suez,een kanaal door de woestijn gegrafen,a channel gegrafen through the desert,4,g,3
+5I1O,5I1OH3C,H3C,Suez,Was de afstand korter,Wash the shorter distance,0,c,3
+5I3O,5I3OG3,G3,Suez,Zijn er plannen gemaakt voor ene knaal om ze te verbinden,Are there any plans made for one knaal to connect them,0,c,3
+5I5F,5I5F3A3,3A3,Suez,werd het seuzkanaal gegraven,it was dug seuzkanaal,4,g,3
+5I6F,5I6FH3D,H3D,Suez,Kanaal onder de woestijn door,Channel under the desert,0,c,3
+5I6O,5I6OH3E,H3E,Suez,"als je uit saoudi-arabie iets ter schip wou brengen naar Europa, je om afrika heen moest","if you wanted to bring something to ship from Saudi Arabia to Europe, you had to go to Africa",2,g,3
+7I5F,7I5F3VA,3VA,Suez,gingen mensen jaren een kanaal door de woestijn graven,people went years a channel through the desert graves,0,c,3
+8I1F,8I1FA3,A3,Suez,betere handel,better trading,0,c,3
+8I1F,8I1FH3B,H3B,Suez,maakt ertussen aan kanaal,makes therebetween to channel,4,g,3
+8I2F,8I2FV3D,V3D,Suez,winnen van geld,winning money,0,c,3
+8I3F,8I3F2VB,2VB,Suez,kanaal neergelegt,down channel gelegt,4,g,3
+8I5F,8I5F3A1,3A1,Suez,hoef je niet langs afrika,You do not have past africa,0,c,3
+9I3F,9I3F3A3,3A3,Suez,suezkanaal gegraven door vele arbeiders,Suez canal dug by many workers,4,g,3
+8I1F,8I1FH3B,H3B,Beton,mensen moeten proberen het te renoveren,people should try to renovate the,0,c,4
+20I2F,20I2F3VA,3VA,Beton,gevolg: lift blijft hangen,result: lift lingers,4,g,4
+20I2F,20I2FV3D,V3D,Beton,passen de liften niet meer in de liftschacht,adjust the elevators no longer in the elevator shaft,4,g,4
+20I6F,20I6FH3D,H3D,Beton,Moet je betonbouwers inhuren,Should you hire concrete builders,0,c,4
+27I6F,27I6F3G2,3G2,Beton,de bouwers waren er niet op voorbereid waardoor de liftschachten te klein zijn voor de lift,the builders were unprepared for causing the elevator shafts are too small for the elevator,0,c,4
+8I5F,8I5F3A1,3A1,Beton,zijn op liften te klein,lifts are too small,0,c,4
+8I6F,8I6FH3E,H3E,Beton,hierdoor lopen de lift vast of doen het niet goed meer,will run the elevator fixed or do not work properly,4,g,4
+11I4F,11I4FA3,A3,Beton,De lift moet in een grotere ruimte hangen,The lift should hang in a larger space,0,c,4
+4I3O,4I3O3VA,3VA,Beton,blijven liften hangen,linger lifts,4,g,4
+10I4F,10I4F3G2,3G2,Beton,worden de liftschachten kleiner,the elevator shafts to be smaller,0,c,4
+11I1F,11I1F3G2,3G2,Beton,liften blijven vastzitten,remain stuck elevators,4,g,4
+11I2F,11I2F3TT1,3TT1,Beton,komen liften vaak vast te zitten,Elevators are often stuck,4,g,4
+11I2F,11I2FH3B,H3B,Beton,liften passen niet door het krimpen,Elevators do not fit by shrinking,0,c,4
+11I3F,11I3F3GA1,3GA1,Beton,Omdat de gebouwen krimpen komen de liften vast te zitten,Because the buildings shrink get stuck elevators,4,g,4
+11I3F,11I3FHC3,HC3,Beton,liften worden krapper,Elevators are tighter,4,g,4
+11I5F,11I5FG3,G3,Beton,Worden liftschachten smal,Elevator shafts are narrow,3,g,4
+11I6F,11I6FV3D,V3D,Beton,dus ook de liftschachten die niet meer in het beton passen,thus the elevator shafts that do not fit into the concrete,4,g,4
+12I4F,12I4FHC3,HC3,Beton,zijn de liften & liftschachten te groot,the elevators and elevator shafts too big,0,c,4
+14I3F,14I3F3A1,3A1,Beton,liften kunnen daardoor vast kokmen te zitten,lifts can therefore stuck kokmen,4,g,4
+14I5F,14I5F3TT1,3TT1,Beton,gaan liften kapot,go broken lifts,0,c,4
+16I1F,16I1F3G2,3G2,Beton,liften/lift schachten te klein,lift / elevator shafts too small,0,c,4
+17I6F,17I6FV3D,V3D,Beton,worden de liftschachten smaller,the elevator shafts to be narrower,0,c,4
+19I4F,19I4F3GA1,3GA1,Beton,bijv: liftbuizen worden te klein voor liften,eg: lift pipes are too small for lifts,0,c,4
+19I5F,19I5F3AB,3AB,Beton,Is er minder ruimte voor liften,There is less room for elevators,4,g,4
+20I6F,20I6FG3,G3,Beton,Daardoorz ijn gebouwen vaak kleiner dan dat ze bedoeld waren,Daardoorz ijn buildings often smaller than they were intended,3,g,4
+2I3O,2I3O2VB,2VB,Beton,minder ruimte voor de lift,less room for the elevator,0,c,4
+2I5O,2I5O3TT1,3TT1,Beton,de liftschachten werken niet meer zoals het moet,the elevator shafts do not work as it should,0,c,4
+2I6F,2I6FH3B,H3B,Beton,komt de lift vast te zitten,get stuck elevator,4,g,4
+4I2O,4I2O3G2,3G2,Beton,liftschachten worden te klein voor de lift,elevator shafts are too small for the elevator,0,c,4
+5I2F,5I2F3TT1,3TT1,Beton,lift schacht past niet meer,elevator shaft does not fit,0,c,4
+5I3O,5I3OV3D,V3D,Beton,de verhoudingen kloppen niet meer,the proportions are correct no longer,0,c,4
+5I5F,5I5F3A3,3A3,Beton,kunnen liften niet meer functioneren,Elevators can no longer function,0,c,4
+7I5F,7I5F3VA,3VA,Beton,kloppen de verhoudingen lift en gebouw niet meer,the proportions elevator and building no more,0,c,4
+8I3F,8I3F2VB,2VB,Beton,liften kunnen niet meer bewegen,elevators can not move anymore,0,c,4
+8I5F,8I5FH3C,H3C,Beton,de lift schachten krimpen en de lift komt vast te zitten,the elevator shafts and shrink the elevator gets stuck,4,g,4
+9I3F,9I3F3A3,3A3,Beton,liftschachten worden te nauw,elevator shafts are too narrow,0,c,4
+11I3F,11I3F3VA,3VA,Beton,betonnen gebouwen krimpen,shrink concrete buildings,3,g,4
+11I4F,11I4FH3C,H3C,Beton,is er niet genoeg ruimte voor de liften,there is not enough room for the lifts,4,g,4
+11I5F,11I5F3A1,3A1,Beton,krimpen gebouwen en worden de liftschachten aangetast,shrink buildings and shafts are affected,3,g,4
+11I5F,11I5FH3A,H3A,Beton,liftschachten krimpen mee,elevator shafts shrink along,0,c,4
+11I6F,11I6F2VB,2VB,Beton,gebouw krimpt,shrinks building,3,g,4
+14I3F,14I3FA3A,A3A,Beton,liften passen niet meer,Elevators do not fit,0,c,4
+14I4O,14I4OH3D,H3D,Beton,het beton krimpt nog,the concrete shrinks yet,3,g,4
+14I5F,14I5F3AB,3AB,Beton,Krimpen/veranderen de liftschachten zodat de lfiten niet meer kunnen worden gebruikt.,Shrink / change the elevator shafts so lfiten not be used.,4,g,4
+14I5F,14I5FH3B,H3B,Beton,liften blijven hangen,lifts linger,4,g,4
+15I3F,15I3F3A3,3A3,Beton,worden de liftschachten ook kleiner,the elevator shafts are also smaller,0,c,4
+15I3F,15I3FA3,A3,Beton,betonnen gebouwen krimpen,shrink concrete buildings,3,g,4
+17I1F,17I1F3GA1,3GA1,Beton,worden liften gemaakt 'op de krimp',"Lifts are made ""on the decline""",0,c,4
+17I1F,17I1F3VA,3VA,Beton,Blijven de liften hangen,Linger lifts,4,g,4
+17I2F,17I2FH3D,H3D,Beton,De liften worden dus te groot omdat het gebouw krimpt,The elevators are therefore too large because the building shrinks,3,g,4
+17I3F,17I3F3AB,3AB,Beton,Het beton krimpt,The concrete shrinks,3,g,4
+17I5F,17I5FH3E,H3E,Beton,liftsgachten ingekort worden,liftsgachten be shortened,0,c,4
+17I6F,17I6FH3C,H3C,Beton,liftschachten krimpen,shrink elevator shafts,4,g,4
+1I4O,1I4O3GA1,3GA1,Beton,Liften te groot,Elevators too big,0,c,4
+20I3F,20I3F2VB,2VB,Beton,worden gebouw verkleind,be reduced building,3,g,4
+20I4O,20I4O3A1,3A1,Beton,wordt de liftschacht vaak te klein,The elevator shaft is often too small,0,c,4
+20I5F,20I5F3AB,3AB,Beton,De liftschacht wordt kleiner,The elevator shaft becomes smaller,3,g,4
+20I5F,20I5FH3E,H3E,Beton,smallere liftschachten,narrow elevator shafts,0,c,4
+23I2F,23I2FH3B,H3B,Beton,krimpt het gebouw als het beton droog word,the building shrinks as the concrete become dry,3,g,4
+25I5F,25I5F3A1,3A1,Beton,krimt een gebouw,krimt building,4,g,4
+26I1F,26I1FV3D,V3D,Beton,de ilft past dan niet meer door de schacht,the ilft then will not fit through the shaft,4,g,4
+26I2F,26I2FH3D,H3D,Beton,Verkleinen ook de liftschachten,also reduce the lift shafts,0,c,4
+26I3F,26I3FG3,G3,Beton,Als beton in lift krimpt komt de lift vast te zitten,If concrete shrinks elevator gets stuck elevator,4,g,4
+29I1F,29I1F3AB,3AB,Beton,Moeten er kleinere liften in het gebouw,Should smaller lifts in the building,0,c,4
+2I6F,2I6F3A1,3A1,Beton,krompen somige liftschachten,shrunk contain some elevator shafts,0,c,4
+32I3F,32I3FH3E,H3E,Beton,Liftschachten krimpen en de lift past niet meer,Elevator shafts shrink and the elevator does not fit,4,g,4
+3I2O,3I2O3A3,3A3,Beton,het gebouw wordt kleiner en de liften kunnen door minder ruimte daardoor vastzitten,the building is smaller and the elevators can therefore by less space stuck,4,g,4
+5I3O,5I3OG3,G3,Beton,Past de lift niet in het gebouw,Past the elevator in the building,4,g,4
+5I6F,5I6F2VB,2VB,Beton,kan het beton gaan krimpen,can shrink the concrete,0,c,4
+5I6F,5I6FH3D,H3D,Beton,Kan je de lift beschadigen,Can damage the lift,0,c,4
+5I6O,5I6OH3E,H3E,Beton,Betonnen gebouwen krimpen soms,Concrete buildings may shrink,3,g,4
+8I2F,8I2FV3D,V3D,Beton,krimpt het beton,Shrink concrete,3,g,4
+8I3F,8I3FG3,G3,Beton,Liftschachten worden ook nauwer en de liften blijven vastzitten,Elevator shafts are also narrower and remain stuck elevators,4,g,4
+20I4O,20I4O3A1,3A1,Botox,er zijn ook 28 mensen aan dood gegaan omdat het de verkeerde concentratie hadden,There are also 28 people went to death because it had the wrong concentration,0,c,4
+20I5F,20I5F3AB,3AB,Botox,Gezichtsuitdrukking veranderen,Changing Facial Expression,4b,g,4
+8I6F,8I6FH3E,H3E,Botox,hierdoor kan je gezichtsuitdrukking ongewild aangetast zijn,this can be unintentionally affected facial expression,4b,g,4
+19I5F,19I5F3AB,3AB,Botox,Van het rare gezichtsuitdrukking veroorzaken,Cause of the weird facial expression,4b,g,4
+5I6O,5I6OH3E,H3E,Botox,kun je weer prima knipperen,you blink fine again,0,c,4
+8I1F,8I1FH3B,H3B,Botox,spieren gaan niet goed door,muscles are not going well,0,c,4
+11I2F,11I2F3TT1,3TT1,Botox,kan de gezichtsuitdrukken veranderen,the suit face pressures to change,4b,g,4
+11I3F,11I3F3GA1,3GA1,Botox,Je gezichtsuitdrukking verandert op een foute manier,Your facial expression changes in a wrong way,4b,g,4
+11I5F,11I5FG3,G3,Botox,zijn er soms ongewenste veranderingen in gezichtsuitdrukking,are sometimes undesirable changes in facial expression,4b,g,4
+14I4F,14I4FG3,G3,Botox,Verdwijnen de rimpels,The wrinkles disappear,3,g,4
+16I1F,16I1F3G2,3G2,Botox,strijkt voorhoofd glad,stroking forehead smooth,0,c,4
+23I2F,23I2FH3B,H3B,Botox,kunnen gezichtsuitdrukkingen veranderen,can change facial expressions,4b,g,4
+26I6F,26I6FA3A,A3A,Botox,gezichtsuitdrukkingen veranderen,changing facial expressions,4b,g,4
+27I6F,27I6F3G2,3G2,Botox,doordat de zenuwen worden geblokkeerd hebben botox gebruikers een (soms) niet gewenste gezichtsuitdrukking,because the nerves are blocked botox users have a (sometimes) not facial expression,4b,g,4
+2I3O,2I3O2VB,2VB,Botox,gezicht uitdrukking zien er gek uit,facial expression look silly out,4b,g,4
+2I5O,2I5O3TT1,3TT1,Botox,mensen kunnen een andere gezichtsuitdrukking,people may have a different facial expression,4b,g,4
+5I1O,5I1OH3B,H3B,Botox,kan ook ongewenst je gezichtsuitdrukking veranderen,can also change your unwanted facial expression,4b,g,4
+5I6F,5I6F2VB,2VB,Botox,kunnen er wel verkeerde dingen ontstaan,can do wrong things occur,0,c,4
+7I5F,7I5F3VA,3VA,Botox,krijgen mensen een uitdrukkingsloos gezicht,people get an expressionless face,0,c,4
+8I3F,8I3FG3,G3,Botox,Effect van 1-6 maanden,Effect of 1-6 months,0,c,4
+8I5F,8I5F3TT1,3TT1,Botox,het gezicht kan ongewenst veranderen,the face may change undesirable,4b,g,4
+11I1F,11I1F3G2,3G2,Botox,andere gezichtsuitdrukking,Another expression,4b,g,4
+11I2F,11I2FH3B,H3B,Botox,kan het rimpels laten verdwijnen,the wrinkles can disappear,3,g,4
+11I4F,11I4FH3C,H3C,Botox,lijken ze jonger,They look younger,4a,g,4
+11I5F,11I5FH3A,H3A,Botox,krijg je soms ongewenste gezichtsuitdrukkingen,sometimes you get unwanted facial expressions,4b,g,4
+11I6F,11I6F2VB,2VB,Botox,? Kan ook ongewenste gezichtsuitdrukkingen veroorzaken,? Can also cause unwanted facial expressions,4b,g,4
+13I6F,13I6FA3,A3,Botox,kun je rimpels weghalen,you can remove wrinkles,3,g,4
+14I3F,14I3F3A1,3A1,Botox,geen rimpels te zien,see no wrinkles,3,g,4
+14I4F,14I4F3G2,3G2,Botox,kunnen mensen ongewenst een andere gezichtsuitdrukking krijgen,people can get another unwanted facial expression,4b,g,4
+14I4O,14I4OH3D,H3D,Botox,zorgt het soms voor problemen,it sometimes causes problems,0,c,4
+14I5F,14I5F3AB,3AB,Botox,Kan je gezichtsuitdrukking ongewenst veranderen,Can you change unwanted facial expression,4b,g,4
+14I5F,14I5F3TT1,3TT1,Botox,geen gevoel,no feeling,0,c,4
+15I3F,15I3F3A3,3A3,Botox,gaan je rimpeld tijdelijk weg,go your way temporarily rimpeld,3,g,4
+15I3F,15I3FA3,A3,Botox,rare gezichtsuitdrukking,weird facial expression,4b,g,4
+17I1F,17I1F3GA1,3GA1,Botox,kunnen spastische bewegingen (zoals heel hard in je oog dicht knijpen) verholpen worden,jerky movements can be remedied (such as hard in your eye squint),0,c,4
+17I2F,17I2FH3D,H3D,Botox,Willen veel oudere vrouwen met rimpels dat taken doen,Like many older women with wrinkles do tasks,0,c,4
+17I3F,17I3F3AB,3AB,Botox,Rimpels verdwijnen vanwege de spierverlamming,Wrinkles disappear because of muscle paralysis,3,g,4
+1I4O,1I4O3GA1,3GA1,Botox,Trekkend oog weg,Pulling eye away,0,c,4
+20I1F,20I1FA3A,A3A,Botox,stoppen mensen met heel hard knipperen,people stop blinking very hard,2,g,4
+20I2F,20I2F3VA,3VA,Botox,verloopt na 1 \'e0 6 maanden,"expires after 1 \ ""e0 6 months",0,c,4
+20I3F,20I3F2VB,2VB,Botox,gebruiken veel mensen botox,many people use Botox,0,c,4
+20I3F,20I3FH3C,H3C,Botox,Gaan de rimpels weg,Will the wrinkles away,0,c,4
+20I6F,20I6FG3,G3,Botox,Kan het ook ongeenst effect op je gezichtsuitdrukking hebben,May also ongeenst effect on your facial expression,4b,g,4
+20I6F,20I6FH3D,H3D,Botox,Kan je dood gaan,Can you die,0,c,4
+25I5F,25I5F3A1,3A1,Botox,kan je uiterlijk sterk verandere,You can look significantly changed:,4b,g,4
+26I2F,26I2FH3D,H3D,Botox,Kan het gebruikt worden om rimpels te verwijderen,Can it be used to remove wrinkles,0,c,4
+29I1F,29I1F3AB,3AB,Botox,Verlamt het de spieren,Paralyzes the muscles,2,g,4
+2I6F,2I6FH3B,H3B,Botox,zien mensen er jonger uit,see people younger,4a,g,4
+3I2O,3I2O3A3,3A3,Botox,geen klachten meer,no complaints,0,c,4
+4I2O,4I2O3G2,3G2,Botox,hebben ze een strakkere huid,they have tighter skin,0,c,4
+4I3O,4I3O3VA,3VA,Botox,kan de gezichtsuitdrukking veranderen,facial expression may change,4b,g,4
+5I1F,5I1FH3A,H3A,Botox,kan ongewenste gezichtsuitdrukking geven,may give unwanted facial expression,4b,g,4
+5I1O,5I1OH3C,H3C,Botox,moet je goed weten hoeveel je inspuit,you have to know how much your injection,0,c,4
+5I2F,5I2F3TT1,3TT1,Botox,kan botox worden gebruikt tegen rimpels,botox can be used against wrinkles,3,g,4
+5I3O,5I3OG3,G3,Botox,Krijgen mensen tijdelijk minder rimpels,Getting people temporarily less wrinkles,0,c,4
+5I5F,5I5F3A3,3A3,Botox,kan je bepaalde gezichtsuitdrukkingen niet meer maken,you can make certain facial expressions no longer,0,c,4
+5I6F,5I6FH3D,H3D,Botox,Wordt je spieren slapper,Is your muscles weaker,0,c,4
+8I3F,8I3F2VB,2VB,Botox,bij die mensen zijn dan veel rimpels etc. weg,are these people so many wrinkles away,3,g,4
+8I5F,8I5F3A1,3A1,Botox,lijk je jonger,you seem younger,4a,g,4
+8I5F,8I5FH3C,H3C,Botox,word het gebruikt voor mensen met zenuwtrekken,The word used for people with tics,0,c,4
+9I1F,9I1FHC3,HC3,Botox,kunnen rimpels weggaan,can leave wrinkles,3,g,4
+13I6F,13I6FA3,A3,Geld,wil je meer,do you want more,0,c,4
+27I6F,27I6F3G2,3G2,Geld,rijken moeten steeds meer hebben om 'geluk' te krijgen,rich have more and more to get 'lucky',0,c,4
+14I3F,14I3FA3A,A3A,Geld,blijft ongelukkig,still unhappy,0,c,4
+5I1F,5I1FH3A,H3A,Geld,minder snel geluksgevoel,less happiness,0,c,4
+11I6F,11I6F2VB,2VB,Geld,worden minder oplettend,less observant,0,c,4
+8I3F,8I3FG3,G3,Geld,meer geld nodig om gelukkig te blijven,more money to stay happy,0,c,4
+11I2F,11I2F3TT1,3TT1,Geld,maakt geld niet gelukkig,money can not be happy,4a,g,4
+11I1F,11I1F3G2,3G2,Geld,wilt steeds meer rijkdom,want more and more wealth,0,c,4
+2I6F,2I6F3A1,3A1,Geld,omdat je ander gevaar niet goed opmerkt,Another danger because you not notice,0,c,4
+5I3O,5I3OV3D,V3D,Geld,is er steeds meer nodig voor een gelukkig gevoel,there is an increasing need for a happy feeling,0,c,4
+8I5F,8I5F3TT1,3TT1,Geld,hebben steeds weer nieuw geluk nodig,have constantly need new happiness,0,c,4
+9I3F,9I3F3A3,3A3,Geld,gevoel van geluk steeds moeilijker om te behalen,feeling of happiness and more difficult to achieve,0,c,4
+14I5F,14I5F3AB,3AB,Geld,Willen mensen met veel geld steeds meer. Ze raken er gewend aan,Like people with money growing. They get used to it,3,g,4
+7I5F,7I5F3VA,3VA,Geld,willen mensen steeds meer geld,People always want more money,0,c,4
+10I4F,10I4F3G2,3G2,Geld,kan dat later niet overtreft worden,can later be not exceed,0,c,4
+11I2F,11I2FH3B,H3B,Geld,ze raken gewend aan het hebben van veel geld,they get used to having a lot of money,0,c,4
+11I3F,11I3F3GA1,3GA1,Geld,Omdat je aan de luxe went heb je steeds meer nodig om gelukkig te zijn,Because you get used to the luxury you always need to be happy,0,c,4
+11I3F,11I3F3VA,3VA,Geld,lottowinnaars moeten steeds meer hebben om gelukkig te zijn,Lotto winners have increasingly to be happy,0,c,4
+11I3F,11I3FHC3,HC3,Geld,te veel geld maakt niet gelukkig,too much money can not buy happiness,4a,g,4
+11I4F,11I4FA3,A3,Geld,"Als je veel geld hebt blijf je spullen kopen om je tevreden te voelen, maar dat is niet zo","If you can keep buying stuff much money to feel happy, but it is not",0,c,4
+11I4F,11I4FH3C,H3C,Geld,willen ze alleen maar meer geld zijn niet snel tevreden,they just want more money are not easily satisfied,0,c,4
+11I5F,11I5FG3,G3,Geld,weten mensen niet wat ze met het geld moeten,people do not know what to do with the money,0,c,4
+11I5F,11I5FH3A,H3A,Geld,"ongelukkig, je krijgt niet meer geld","unfortunately, you do not get more money",0,c,4
+11I6F,11I6FV3D,V3D,Geld,hebben ze steeds meer geld nodig om gelukkig te worden,they increasingly need money to be happy,0,c,4
+12I4F,12I4FHC3,HC3,Geld,als je dan geen luxe meer hebt,if you are no longer a luxury,0,c,4
+14I3F,14I3F3A1,3A1,Geld,Bij lotto krijg je in 1 keer wel geld en dus 'geluk',In Lotto you get in one time or money and so 'lucky',0,c,4
+14I4F,14I4FG3,G3,Geld,Je raakt snel aan luxe/rijkdom gewend,You soon get used to luxurious / wealth,3,g,4
+14I5F,14I5F3TT1,3TT1,Geld,is het steeds niet meer genoeg,it is still not enough,0,c,4
+14I5F,14I5FH3B,H3B,Geld,wennen mensen snel aan luxe en willen ze steeds meer,people get used quickly to luxury and they want more and more,0,c,4
+15I3F,15I3FA3,A3,Geld,in het begin is het even leuk om zoveel geld te hebben maar daarna niet meer,in the beginning was just nice to have so much money but not thereafter,0,c,4
+16I1F,16I1F3G2,3G2,Geld,grijpen rijke naar geld alcohol,grabbing money to rich alcohol,0,c,4
+17I1F,17I1F3GA1,3GA1,Geld,je hebt meer nodig om tevreden te blijven,you need to stay happy,0,c,4
+17I1F,17I1F3VA,3VA,Geld,wil men bijv. steeds meer geld voor meer geluk,they want eg. increasing money for happiness,0,c,4
+17I2F,17I2F3TT1,3TT1,Geld,ze hebben meer nodig om tevreden te zijn,they need to be satisfied,0,c,4
+17I2F,17I2FH3D,H3D,Geld,Ze hebben zoveel geld dat ze niet weten wat e er mee moeten,They have so much money that they do not know what email is to bring,0,c,4
+17I3F,17I3F3AB,3AB,Geld,Meer nodig om weer gelukkig te zijn,More needed to be happy again,0,c,4
+17I6F,17I6FH3C,H3C,Geld,Winnen gigantisch geld bedrag,Winning huge amount of money,0,c,4
+18I4F,18I4F3GA1,3GA1,Geld,men wil meer om gelukkig te zijn,one wants more to be happy,0,c,4
+19I4F,19I4F3GA1,3GA1,Geld,wil je meer geld om nog een beetje gelukkig te worden,You want more money to be a little lucky,0,c,4
+19I5F,19I5F3AB,3AB,Geld,Hoef je eignelijk geen geld te winnen,Eignelijk you do not win cash,0,c,4
+1I4O,1I4O3GA1,3GA1,Geld,Ben je niet snel meer tevreden met kleine dingen,Are not you more quickly satisfied with little things,0,c,4
+20I2F,20I2FV3D,V3D,Geld,maakt een groot bedrag ineens winnen niet gelukkig,making a large lump sum not win lucky,0,c,4
+20I3F,20I3F2VB,2VB,Geld,lottowinnaars hebben alles al,Lotto winners have all been,0,c,4
+20I3F,20I3FH3C,H3C,Geld,Hij was niet gelukkig,He was not happy,0,c,4
+20I4O,20I4O3A1,3A1,Geld,word het steeds lastiger om je zelf te verrassen en om gelukkig te zijn,become increasingly difficult to surprise yourself and be happy,0,c,4
+20I5F,20I5F3AB,3AB,Geld,Mensen wennen aan luxe,People get used to luxury,3,g,4
+20I5F,20I5FH3B,H3B,Geld,"iemand won 318,6 miljoen maar was niet gelukkig",someone won 318.6 million but was not happy,0,c,4
+20I5F,20I5FH3E,H3E,Geld,andere mensen krijgen meer,other people get more,0,c,4
+20I6F,20I6FG3,G3,Geld,Geld maakt dus niet zo gelukkig. Als je geld hebt wil je alleen maar meer meer meer,So money is not so lucky. If you have money you just want more more more,5,g,4
+20I6F,20I6FH3D,H3D,Geld,als je al rijk bent en je wint,if you are already rich and you win,0,c,4
+23I2F,23I2FH3C,H3C,Geld,Minder gelukkig,less fortunate,0,c,4
+25I5F,25I5F3A1,3A1,Geld,je geluk word al snel minder,your happiness quickly become less,0,c,4
+26I1F,26I1FV3D,V3D,Geld,ze hebben steeds meer nodig om geluk en tevredenheid te voelen,they increasingly need to feel happiness and contentment,0,c,4
+26I2F,26I2FH3D,H3D,Geld,je hebt meer nodig om gelukkig te blijven,you need to stay happy,3,g,4
+26I3F,26I3FG3,G3,Geld,"Geld maakt op lange termijn niet gelukkig, als je er aan gewend bent wil je nieuw","Money makes the long term not happy, if you're used to you like new",4a,g,4
+2I3O,2I3O2VB,2VB,Geld,vindt je niks leuk,you'll find nothing like,0,c,4
+2I5O,2I5O3TT1,3TT1,Geld,ze genieten niet meer van hun geld na een korte tijd,they do not enjoy more of their money after a short time,0,c,4
+2I6F,2I6FH3B,H3B,Geld,heb je steeds meer geld nodig om gelukkig te worden,you have more and more money to be happy,0,c,4
+32I3F,32I3FH3E,H3E,Geld,als je geld op is blijft je spullen willen kopen,if money is still on you to buy stuff,0,c,4
+3I2O,3I2O3A3,3A3,Geld,onzeker over wie echt je vriend is,uncertainty about who is real friend,0,c,4
+4I3O,4I3O3VA,3VA,Geld,willen ze steeds meer van deze luxe,they want more and more of these luxury,0,c,4
+5I1O,5I1OH3B,H3B,Geld,ze hebben steeds meer nodig om gelukkig te zijn,they still need to be happy,0,c,4
+5I3O,5I3OG3,G3,Geld,willen zij liever een goede band met familie ipv geld,rather they want a good relationship with family instead of money,4b,g,4
+5I5F,5I5F3A3,3A3,Geld,je wilt steeds meer geld,You want more money,0,c,4
+5I6F,5I6F2VB,2VB,Geld,op een gegeven moment hebben ze alles gekocht,at one point she bought everything,0,c,4
+5I6F,5I6FH3D,H3D,Geld,Worden ze vaak niet gelukkig,They are often not happy,0,c,4
+5I6O,5I6OH3E,H3E,Geld,omdat je snel aan al dat luxe gewent bent,because you quickly to all that luxury are habituated,3,g,4
+8I1F,8I1FA3,A3,Geld,Steeds meer geld willen om gelukkig te zijn,Always want more money to be happy,0,c,4
+8I1F,8I1FH3B,H3B,Geld,korte duur van gelukkig zijn,shortness of happiness,2,g,4
+8I2F,8I2FV3D,V3D,Geld,mensen wilde een snellere veiligere weg,People want a faster safer road,0,c,4
+8I3F,8I3F2VB,2VB,Geld,"winnen ze, maar krijgen veel meer problemen","they win, but get a lot more problems",0,c,4
+8I5F,8I5F3A1,3A1,Geld,geld maakt niet mensen gelukkig,Money does not make people happy,0,c,4
+8I6F,8I6FH3E,H3E,Geld,is een gozer die de lotto van ong 370 miljoen had gewonnen ook niet gelukkig. Conclusie:,is a guy the lottery of about 370 million won not happy. Conclusion:,0,c,4
+9I1F,9I1FHC3,HC3,Geld,geven ze steeds te veel uit om zichzelf tevreden te houden,they always give too much to keep himself satisfied,0,c,4
+1I4O,1I4O3GA1,3GA1,Metro,Bepaalde dieren worden aangetrokken bij de Amerikaanse kust,Certain animals are attracted to the American coast,0,c,4
+11I6F,11I6F2VB,2VB,Metro,konden nergens anders afval dumpen,could dump waste anywhere else,0,c,4
+20I1F,20I1FA3A,A3A,Metro,hoeft het niet meer op een andere manier verwerkt te worden,it need not be processed in a different way,2,g,4
+5I1F,5I1FH3A,H3A,Metro,minder afval,less waste,0,c,4
+11I1F,11I1F3G2,3G2,Metro,meer dieren (zoals vissen),More animals (such as fish),5,g,4
+11I2F,11I2F3TT1,3TT1,Metro,vis zoals makreel en zeebaars aangetrokken,fish such as mackerel and sea bass attracted,5,g,4
+11I2F,11I2FH3B,H3B,Metro,meer verschillende soorten vissen aanwezig,more different types of fish available,5,g,4
+11I3F,11I3F3GA1,3GA1,Metro,er worden meer vissen aangetrokken die dan ook meer eten hebben,it attracted more fish than have more food,5,g,4
+11I3F,11I3F3VA,3VA,Metro,Er komen meer vissen andere zeedieren,There are more fish other marine animals,5,g,4
+11I3F,11I3FHC3,HC3,Metro,meer onder water leven,more marine life,0,c,4
+11I5F,11I5FG3,G3,Metro,meer vissen in het gebied,more fish in the area,5,g,4
+11I6F,11I6FH3E,H3E,Metro,komen er meer vissen en andere zeedieren,there are more fish and other marine animals,5,g,4
+12I4F,12I4FHC3,HC3,Metro,fauna is 400x zo groot geworden,400x fauna is so big,4,g,4
+14I4F,14I4FG3,G3,Metro,Is het aantal zeedieren 400x toegenomen,Has increased the number of marine 400x,5,g,4
+14I5F,14I5F3AB,3AB,Metro,Op de bodem bij de kust leven veel vissen die plankton eten,At the bottom near the coast live many fish that eat plankton,5,g,4
+15I3F,15I3F3A3,3A3,Metro,kwamen er meer vissen die werken aangetrokken door de plankton,there were working more fish attracted by plankton,5,g,4
+17I1F,17I1F3GA1,3GA1,Metro,worden er meer vissen aangetrokken,are being attracted more fish,5,g,4
+17I3F,17I3F3AB,3AB,Metro,Er komen andere dieren zoals markrelen vanwege bijv. Plankton,There are other animals like markrelen for example. Plankton,5,g,4
+18I4F,18I4F3GA1,3GA1,Metro,is er du veel fauna in het rif,du is much wildlife on the reef,0,c,4
+19I4F,19I4F3GA1,3GA1,Metro,meer vissen zoals: baars,more fish such as perch,5,g,4
+19I5F,19I5F3AB,3AB,Metro,"Waren er ook meer baars, makreel en andere zeevissen","Were there more bass, mackerel and other marine fish",5,g,4
+20I4O,20I4O3A1,3A1,Metro,zijn er veel meer zeedieren het plankton trekt die aan,there are many more marine plankton which attracts to,4,g,4
+20I6F,20I6FG3,G3,Metro,Is er meer leefruimte voor de zeedieren,Is there more living space for marine animals,5,g,4
+23I2F,23I2FH3B,H3B,Metro,kwam er veel meer plankton,there was much more plankton,4,g,4
+25I5F,25I5F3A1,3A1,Metro,trekt veel vissen aan,attracts fish to,5,g,4
+26I1F,26I1FV3D,V3D,Metro,is de flora en fauna al 4x verdubbeld,the flora and fauna already doubled 4x,4,g,4
+27I6F,27I6F3G2,3G2,Metro,zijn er meer grote vissen,there are more big fish,5,g,4
+2I3O,2I3O2VB,2VB,Metro,meer flora en fauna,more flora and fauna,0,c,4
+2I5O,2I5O3TT1,3TT1,Metro,zeevissen gaan bij het kunstmatig koraal rondzwemmen,saltwater fish will swim around in artificial coral,0,c,4
+4I2O,4I2O3G2,3G2,Metro,meer vissen en dus een bron van inkomsten,more fish and thus a source of income,5,g,4
+4I3O,4I3O3VA,3VA,Metro,komen er meer vissen voor zoals de zeebaars en de snoek,there are more fish such as bass and pike,5,g,4
+5I1O,5I1OH3B,H3B,Metro,meer vissen,more fish,5,g,4
+8I1F,8I1FA3,A3,Metro,komen er vissen op af,come fishing off,5,g,4
+8I3F,8I3FG3,G3,Metro,Nu 400x meer zeedieren,Now 400x more marine life,5,g,4
+8I5F,8I5F3TT1,3TT1,Metro,meer zeedieren,more marine life,0,c,4
+8I5F,8I5FH3C,H3C,Metro,Steeds meer vissen worden aangetrokken,More and more fish are attracted,5,g,4
+8I6F,8I6FH3E,H3E,Metro,willen ze er nog een droppen,they want even a drop,0,c,4
+10I4F,10I4F3G2,3G2,Metro,plankton trekt andere vissen aan zoals makreel en baars,plankton attracts other fish such as mackerel and perch on,5,g,4
+11I4F,11I4FH3C,H3C,Metro,meer zeedieren,more marine life,5,g,4
+11I5F,11I5F3A1,3A1,Metro,komt er dus ook meer vis,So is also more fish,5,g,4
+11I5F,11I5FH3A,H3A,Metro,hoeven ze niet ergens te verwerken of op afvalhoop te zetten,they do not need to process something or put rubbish heap,2,g,4
+11I6F,11I6FV3D,V3D,Metro,komen er meer vissen,there will be more fish,5,g,4
+13I5F,13I5FHC3,HC3,Metro,meer voedsel,more food,0,c,4
+14I3F,14I3F3A1,3A1,Metro,meer soorten vissen aan de oostkust van amerika,more species of fish on the east coast of America,5,g,4
+14I5F,14I5F3TT1,3TT1,Metro,beter leefgebied voor dieren,better habitat for animals,0,c,4
+15I3F,15I3FA3,A3,Metro,zenuwen spanne niet,nerves do not span,0,c,4
+16I1F,16I1F3G2,3G2,Metro,meer plankton en zeewezens,more plankton and sea creatures,4,g,4
+17I1F,17I1F3VA,3VA,Metro,Komen er weer vissen en planten,Come back fish and plants,5,g,4
+17I2F,17I2FH3D,H3D,Metro,Is er nu ook meer vis,Is there now more fish,5,g,4
+17I6F,17I6F2VB,2VB,Metro,veel terugkerende vissen,many returning fish,5,g,4
+17I6F,17I6FH3C,H3C,Metro,Steeds meer vissen zwemmen er,More and more fish swim,5,g,4
+17I6F,17I6FV3D,V3D,Metro,meer vissen en zeeleven die worden aangetrokken (door de plankton),more fish and marine life attracted (by plankton),5,g,4
+20I2F,20I2F3VA,3VA,Metro,nieuw water leven,new water life,0,c,4
+20I2F,20I2FV3D,V3D,Metro,"worden grotere vissen, zoals zeebaars aangetroffen",larger fish such as sea bass found,5,g,4
+20I3F,20I3F2VB,2VB,Metro,komen er veel zeedieren naartoe,there are lots of marine life to go,0,c,4
+20I5F,20I5F3AB,3AB,Metro,Grotere visvangst,Larger fishing,0,c,4
+20I5F,20I5FH3E,H3E,Metro,meer vissen,more fish,5,g,4
+20I6F,20I6FH3D,H3D,Metro,meer zandbanken,more sandbanks,0,c,4
+23I2F,23I2FH3C,H3C,Metro,"Veel dieren langs kust VS, bouw, makreel","Many animals along US coast, construction, mackerel",0,c,4
+26I2F,26I2FH3D,H3D,Metro,Komt er meer baars en andere vissen,Will there be more perch and other fish,5,g,4
+26I3F,26I3FG3,G3,Metro,Veel meer plankton door materialen wagons,Much more plankton by materials wagons,4,g,4
+29I1F,29I1F3AB,3AB,Metro,meer vissen,more fish,5,g,4
+2I6F,2I6F3A1,3A1,Metro,is dit slechts voor de vissen,this is only for the fish,0,c,4
+3I2O,3I2O3A3,3A3,Metro,4 keer zo veel fauna en plankton in dat gebied,Four times as many fauna and plankton in the area,4,g,4
+5I1O,5I1OH3C,H3C,Metro,meer grotere dieren,more larger animals,0,c,4
+5I3O,5I3OG3,G3,Metro,Leven daar nu meer dieren,Life there are more animals,0,c,4
+5I3O,5I3OV3D,V3D,Metro,meer vissoorten op die plek,more fish in that place,5,g,4
+5I5F,5I5F3A3,3A3,Metro,zijn er meer soorten zeedieren in het water,there are more species of marine life in the water,5,g,4
+5I6F,5I6FH3D,H3D,Metro,Meer leefgebied voor dieren,More habitat for animals,0,c,4
+5I6O,5I6OH3E,H3E,Metro,kwamen er meer vissen,there were more fish,5,g,4
+7I5F,7I5F3VA,3VA,Metro,meer plankton en zeefauna en meer vissen,more plankton and marine fauna and more fish,4,g,4
+8I2O,8I2O3AB,3AB,Metro,Meer leefruimte voor dieren,More living space for animals,5,g,4
+8I3F,8I3F2VB,2VB,Metro,meer plek in New York,more place in New York,0,c,4
+8I5F,8I5F3A1,3A1,Metro,zijn er meer zeedieren,there are more marine species,0,c,4
+9I3F,9I3F3A3,3A3,Metro,plankton en zeefauna in atlantische oceaan wel 4x verdubbeld,plankton and marine fauna in Atlantic doubled to 4x,4,g,4
+17I2F,17I2FH3D,H3D,Muziek,Komt dit van pas bij mensen met alzheimer,Is this useful for people with Alzheimer's,0,c,4
+26I1F,26I1FV3D,V3D,Muziek,hoger IQ,higher IQ,3c,g,4
+8I1F,8I1FA3,A3,Muziek,helpt 't mensen met geheugenverlies,helps' t people with amnesia,0,c,4
+8I3F,8I3FG3,G3,Muziek,Hogere IQ score,Higher IQ Scores,3c,g,4
+9I3F,9I3F3A3,3A3,Muziek,beter dingen kunnen onthouden,better things to remember,0,c,4
+10I4F,10I4F3G2,3G2,Muziek,kunnen mensen met alzheimer herineringen ophalen met muziek,can pick people with Alzheimer's remembrances with music,0,c,4
+11I1F,11I1F3G2,3G2,Muziek,je herinnert je meer,you remember more,0,c,4
+11I2F,11I2F3TT1,3TT1,Muziek,kan het helpen met herinneringen ophalen,it can help retrieve memories,3b,g,4
+11I2F,11I2FH3B,H3B,Muziek,kun je beter ruimtelijk denken,you better spatial thinking,0,c,4
+11I4F,11I4FH3C,H3C,Muziek,kunnen ze herinneringen ophalen met liedjes,they can reminisce with songs,0,c,4
+11I5F,11I5FG3,G3,Muziek,Kunnen mensen met alzheimer bepaalde dingen weer herinneren,Can people with Alzheimer remember certain things again,3b,g,4
+11I6F,11I6F2VB,2VB,Muziek,gemiddeld hoger IQ,higher average IQ,3c,g,4
+15I3F,15I3F3A3,3A3,Muziek,kun je beter herinneringen terug halen,You better get your back memories,3b,g,4
+15I3F,15I3FA3,A3,Muziek,herinneringen of gebeurtenissen op doen,memories or events to do,3b,g,4
+16I1F,16I1F3G2,3G2,Muziek,herrinner je je dingen sneller die gekoppeld zijn aan een muziekje,herr inner your things quickly linked to a tune,0,c,4
+17I1F,17I1F3GA1,3GA1,Muziek,zijn muzikanten creatiever,Musicians are creative,0,c,4
+17I3F,17I3F3AB,3AB,Muziek,Ophalen herinneringen,reminisce,3b,g,4
+17I6F,17I6F2VB,2VB,Muziek,leer je sneller/makkelijker,learn faster / easier,0,c,4
+18I4F,18I4F3GA1,3GA1,Muziek,krijg je een hoge IQ,Get a high IQ,3c,g,4
+19I5F,19I5F3AB,3AB,Muziek,Haal je meer herrineringen op,Get more on Memories,3b,g,4
+1I4O,1I4O3GA1,3GA1,Muziek,Je wordt door muziek herinnert aan een gebeurtenis in verleden,You will be reminded by music at an event in past,0,c,4
+20I1F,20I1FA3A,A3A,Muziek,haal je een hoger iq (in bv breuken),you get a higher IQ (eg in fractures),3c,g,4
+20I2F,20I2FV3D,V3D,Muziek,Alzheimer pati\'ebnten onthouden wel muziekstukken,Pati Alzheimer \ 'ebnten remember it tracks,0,c,4
+20I4O,20I4O3A1,3A1,Muziek,het helpt bij dingen te onthouden,it helps to remember when things,0,c,4
+23I2F,23I2FH3B,H3B,Muziek,scoren kinderen vaak hoger bij IQ tests die muziek spelen,Children often score higher on IQ tests that play music,3c,g,4
+25I5F,25I5F3A1,3A1,Muziek,je kunt dingen weer weten,you know things again,0,c,4
+27I6F,27I6F3G2,3G2,Muziek,herinneringen opdoen. Helpt bij pati\'ebnten met Alzheimer,Gaining memories. Helps pati \ 'ebnten with Alzheimer's,3b,g,4
+29I1F,29I1F3AB,3AB,Muziek,Kan bij alzheim worden geholpen,Can be helped to Alzheim,0,c,4
+2I6F,2I6FH3B,H3B,Muziek,kan het herinneringen terughalen bij alzheimer pati\'ebnten,The memories may recall in Alzheimer pati \ 'ebnten,0,c,4
+3I2O,3I2O3A3,3A3,Muziek,verbetering van hypocantous,improving hypocantous,0,c,4
+5I1O,5I1OH3B,H3B,Muziek,kunnen mensen met altsheimer zich muziek van vroeger vaak nog herrineren en gebeurtenissen hierbij,people can altsheimer music of the past often saving memories and events here,3b,g,4
+5I3O,5I3OV3D,V3D,Muziek,als je alzheimer hebt kun je liedjes die je geleerd hebt nog herkennen,if you have Alzheimer's you songs you learned yet recognize,3b,g,4
+8I2F,8I2FV3D,V3D,Muziek,kunnen mensen met alzheimer zich sommige dingen herrineren bij het horen van die muziek,People with Alzheimer's can some things saving memories when you hear the music,3b,g,4
+8I2O,8I2O3AB,3AB,Muziek,"Herineringen van vroeger kan worden opgehaalt, ook al heeft die persoon alzheimer","Remembrances of can be used to get, even if that person has Alzheimer's",3b,g,4
+11I4F,11I4FA3,A3,Muziek,"Kinderen van 12 jaar die muziek spelen, presteren beter.","Children 12 years of playing music, perform better.",3c,g,4
+11I6F,11I6FH3E,H3E,Muziek,Word het gebruikt voor alzheimer patienten,Word used for Alzheimer's patients,0,c,4
+14I4F,14I4F3G2,3G2,Muziek,Herinneren mensen met alzheimer zich dingen beter,Remember people with Alzheimer's are better things,0,c,4
+14I5F,14I5F3AB,3AB,Muziek,Er kunnen herinneringen worden opgehaald,There memories can be retrieved,3b,g,4
+14I5F,14I5F3TT1,3TT1,Muziek,bettere hand-oog koordinatie,bettere hand-eye koordinatie,0,c,4
+17I1F,17I1F3VA,3VA,Muziek,Goed voor je IQ,Good for your IQ,3c,g,4
+17I5F,17I5FH3E,H3E,Muziek,kan je dingen door muziek herinneren,you can remember things through music,3b,g,4
+17I6F,17I6FH3C,H3C,Muziek,Onthoud meer,Remember more,0,c,4
+20I2F,20I2F3VA,3VA,Muziek,wordt het voor alzheimer gebruikt,it is used for alzheimer,0,c,4
+20I3F,20I3F2VB,2VB,Muziek,onthoud je dingen,you remember things,0,c,4
+32I3F,32I3FH3E,H3E,Muziek,Oude nummers brnegne herinneringen op,Old songs brnegne memories,0,c,4
+5I3O,5I3OG3,G3,Muziek,Heb je als je jong begint op een jonge leeftijd een hoger IQ,Do you have if you start young at a young age have a higher IQ,3c,g,4
+5I5F,5I5F3A3,3A3,Muziek,kan je beter concentreren,you can concentrate better,0,c,4
+8I1F,8I1FH3B,H3B,Muziek,kan je muzieknoten lezen,You can read music notes,0,c,4
+8I3F,8I3F2VB,2VB,Muziek,meer liedjes kennen ook als je alzheimer hebt,more songs even know if you have Alzheimer's,0,c,4
+8I5F,8I5F3TT1,3TT1,Muziek,scoort hoger op IQ test,score higher on IQ tests,3c,g,4
+8I5F,8I5FH3C,H3C,Muziek,Meer verbindingen tussen de hersenen,More connections between brains,0,c,4
+12I4F,12I4FHC3,HC3,Suez,afstand bij afrika is veel minder,distance to Africa is much less,0,c,4
+13I5F,13I5FHC3,HC3,Suez,is er meer geld,There is more money,0,c,4
+11I4F,11I4FA3,A3,Suez,Het suezkanaal aangelegd,built the Suez canal,4,g,4
+20I3F,20I3FH3C,H3C,Suez,Kortere afstand Indische en Atlantische oceaan,Shorter distance Indian and Atlantic Oceans,0,c,4
+20I6F,20I6FH3D,H3D,Suez,in 1869 geopent voor de schepen,in 1869 the way opened for ships,0,c,4
+8I5F,8I5FH3C,H3C,Suez,was het zo klaar,was so ready,0,c,4
+9I1F,9I1FHC3,HC3,Suez,werd de afstand tussen haven Jeddah en Rotterdam 40% verkort,the distance between Jeddah and Port of Rotterdam was shortened 40%,5,g,4
+11I3F,11I3F3GA1,3GA1,Suez,er werd een kanaal aangelegd zodat er schepen sneller van A naar B kunnen varen,a channel was constructed so that ships can sail faster from A to B,4,g,4
+1I4O,1I4O3GA1,3GA1,Suez,Kortere afstanden,shorter distances,0,c,4
+20I1F,20I1FA3A,A3A,Suez,werd het geopend voor scheepsvaart,it was opened for shipping industry,0,c,4
+29I1F,29I1F3AB,3AB,Suez,Is het nu maar 6000 mijl van Jeddah naar R'dam ipv 11.000 mijl,"It is now only 6,000 miles from Jeddah to R'dam instead of 11,000 miles",5,g,4
+4I2O,4I2O3G2,3G2,Suez,er ontstond een kortere route om aan de andere kant te komen,there was a shorter route to get to the other side,0,c,4
+8I6F,8I6FH3E,H3E,Suez,is de rout Rdam-indie 40% korter dan de 10.471 mijl lang oude route,"the rout Rdam indie 40% less than the 10,471 mile long old road",0,c,4
+11I2F,11I2F3TT1,3TT1,Suez,uitgraven van het suezkanaal,excavation of the Suez canal,4,g,4
+14I5F,14I5F3AB,3AB,Suez,Het sueskanaal werd gegraven,It was dug sueskanaal,4,g,4
+17I3F,17I3F3AB,3AB,Suez,Aanleg van het suez-kanaal,Construction of the Suez Canal,4,g,4
+17I6F,17I6FV3D,V3D,Suez,Hebben ze het Suezkanaal als verbindinge gegraven,Do they dug the Suez Canal and connect down,4,g,4
+20I6F,20I6FG3,G3,Suez,Daardoor kun je binnendoor varen en is de route erg verkort,"Thus, you can sail into and through the very route shortened",5,g,4
+26I2F,26I2FH3D,H3D,Suez,suezkanaal is gegraven,Suez canal was dug,4,g,4
+26I3F,26I3FG3,G3,Suez,Handelsroute door Suez kanaal,Trade Road by Suez canal,4,g,4
+3I2O,3I2O3A3,3A3,Suez,nu hoeven boten niet om Afrika heen te varen,Now boats do not have to sail around Africa,0,c,4
+8I3F,8I3FG3,G3,Suez,In 1969 af,In 1969 off,0,c,4
+11I1F,11I1F3G2,3G2,Suez,kanaal graven in saoedi-Arabi\'eb,canal digging in Saudi Arabia \ 'eb,0,c,4
+11I2F,11I2FH3B,H3B,Suez,er werdt een kanaal door de woestijn gegraven,there is a channel dug by the desert wast,4,g,4
+11I3F,11I3FHC3,HC3,Suez,water weg aangelegd,water laid off,0,c,4
+11I4F,11I4FH3C,H3C,Suez,ben je sneller bij jeddah/rotterdam,You quickly at jeddah / Rotterdam,0,c,4
+11I5F,11I5F3A1,3A1,Suez,ging het sneller varen,was sailing faster,0,c,4
+11I6F,11I6F2VB,2VB,Suez,kanaal gegraven,channel dug,4,g,4
+14I3F,14I3F3A1,3A1,Suez,aanlegging suezkanaal,berthing Suez canal,4,g,4
+14I3F,14I3FA3A,A3A,Suez,suezkanaal gegraven,dug Suez canal,4,g,4
+14I4F,14I4F3G2,3G2,Suez,Hoefden mensen niet meer rond Afrika langs,Did people not around Africa along,0,c,4
+14I5F,14I5F3TT1,3TT1,Suez,minder koste,less expense,0,c,4
+15I3F,15I3F3A3,3A3,Suez,kanaalverbinding tussen de middellandse zee en de Indische zee,channel connection between the Mediterranean and the Indian ocean,0,c,4
+16I1F,16I1F3G2,3G2,Suez,nu niet om Afrika heen,Now not around Africa,0,c,4
+17I1F,17I1F3GA1,3GA1,Suez,ze maakten het suez-kanaal,they made the Suez Canal,4,g,4
+17I2F,17I2FH3D,H3D,Suez,Kortere handelsweg,shorter trade route,0,c,4
+17I5F,17I5FH3E,H3E,Suez,suez kanaal gegraven,Suez canal dug,4,g,4
+17I6F,17I6F2VB,2VB,Suez,hoefen schepen niet meer om afrika heen,Hoefen ships not ignore Africa,0,c,4
+17I6F,17I6FH3C,H3C,Suez,Sueskanaal gebouwd,Sueskanaal built,4,g,4
+18I4F,18I4F3GA1,3GA1,Suez,werd het kanaal geopend,the channel was opened,4,g,4
+20I2F,20I2F3VA,3VA,Suez,van 10000+ zeemijl naar 6538 zeemijl naar Rotterdam,of 10000+ nm to 6538 nm to Rotterdam,0,c,4
+20I2F,20I2FV3D,V3D,Suez,werd het Suezkanaal gemaakt,the Suez Canal was,4,g,4
+20I3F,20I3F2VB,2VB,Suez,aanleg suezkanaal,Suez canal construction,4,g,4
+20I4O,20I4O3A1,3A1,Suez,is de afstand met 40% verkort,the distance is reduced by 40%,0,c,4
+20I5F,20I5F3AB,3AB,Suez,Het Suezkanaal werd gegraven,The Suez Canal was dug,4,g,4
+27I6F,27I6F3G2,3G2,Suez,Suezkanaal gegraven,dug Suez Canal,4,g,4
+2I6F,2I6FH3B,H3B,Suez,hoeven mensen niet meer een groot stuk over het land,people do not a large piece of land,0,c,4
+4I3O,4I3O3VA,3VA,Suez,is de reis met 40% verkort,the trip is shortened by 40%,0,c,4
+5I1F,5I1FH3A,H3A,Suez,handel hoeft niet het hele afrikaanse continent over,Trade does not have the whole African continent,0,c,4
+5I1O,5I1OH3B,H3B,Suez,kanaal geopend,channel open,4,g,4
+5I3O,5I3OG3,G3,Suez,Bouwden zij het suezkanaal uiteindelijk ook,they built the Suez canal eventually,4,g,4
+5I5F,5I5F3A3,3A3,Suez,kunnen boten door het suezkanaal heen varen,boats sail through the Suez canal,0,c,4
+5I6F,5I6FH3D,H3D,Suez,Kan je er onder door,Can you underneath,0,c,4
+5I6O,5I6OH3E,H3E,Suez,het suezkanaal werd gegraven door arbeiders,the Suez canal was dug by laborers,0,c,4
+7I5F,7I5F3VA,3VA,Suez,werd het Suezkanaal geopend,the Suez Canal was opened,4,g,4
+8I1F,8I1FA3,A3,Suez,meer vervoer en veel kortere afstanden,more transportation and much shorter distances,5,g,4
+8I1F,8I1FH3B,H3B,Suez,een kanaal dat het afstand verkort,a channel that shortens the distance,4,g,4
+8I2F,8I2FV3D,V3D,Suez,gewenning aan geld en luxe,habituation to money and luxury,0,c,4
+8I3F,8I3F2VB,2VB,Suez,veel afstanden verkort,many distances shortened,0,c,4
+8I5F,8I5F3A1,3A1,Suez,zeemiles minder,zeemiles less,0,c,4
+9I3F,9I3F3A3,3A3,Suez,suezkanaal geopend als scheepsweg in 1842,Suez Canal opened in 1842 scheepsweg,4,g,4
