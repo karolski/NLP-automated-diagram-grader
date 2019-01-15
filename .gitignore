@@ -1,7 +1,9 @@
-/data/*
+
 infersent*
 /encoder/*
 /.ipynb_checkpoints/*
 /__pychache__/*
 .token
+/models/*
+/env/
 
