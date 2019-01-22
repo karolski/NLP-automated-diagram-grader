@@ -25,15 +25,35 @@ $ ./02install_dependencies
 $ ./03_download_w2v_model
 ```
 
-## Run the notebooks
+## Run and edit the notebooks
 1. Open the terminal enter the repository
 2. Run jupyter application
-```$ jupyter notebook ```
+```
+$ jupyter notebook 
+```
 ...- your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
 3. Open a notebook **A_measure_sentence_similarity.ipynb**
 ...- the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
-4. Edit and run the cells. 
+4. Edit and run the cells. Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
 
+
+## Notebooks sequence
+A.  **A_measure_sentence_similarity.ipynb**
+1. I take “Example_dataset_marble_v2 - 2_data_no_omission.csv” – the dataset you gave at the very beginning, with English translations by Google-translate.
+2. I take “correct_answers.csv” – the correct answers for each task in the dataset
+3. I calculate the difference between what student wrote in a given field and all sentences from the model (using average cosinus distance 4. between words embedded using word2vec embeddings).
+5. I choose the sentence from the model, that seems the most similar to what students wrote.
+6. I save the student sentences with their “matches” from the model in “avg_wv2_matched.csv”
+Based on the matches I reconstruct the logical order of the sentences (taking under consideration only the sentences that match well enough with some sentence from the model, let’s say more than 0.2, otherwise I treat them as omissions). The logical order takes a form of e.g. “1324”, meaning: The student put the sentence 1, than 3, than 2, than 4. The model is “1234”
+7. I measure how different the logical order of the student is from the logical order of the model (using Levenshtein distance)
+8. I put the logical orders of the students’ sentences in a table.
+9. I take “self_assesment.csv” – the relevant columns from the last file you sent me,
+10. I make a joined table of self assessment and logical orders of sentences
+11. I save the detected order together with the its score and sum of semantic similarity-to-model points in “logical_order_score_similarity>0.2.csv”*
+12. I measure Pearson correlation of logical-order-score and similarity-to-model-sentences-score to self assessment
+13. I save the correlations in “correlations_similarity>0.2.csv”*
+ 
+*0.2 in the filename refers to the MIN_THRESHOLD_OF_SIMILARITY = 0.2 that I assume to treat a sentence of a student as one of the sentence from the model.If the sentence student wrote is not similar enough to any sentence in the model, the sentence is treated as an omission.
 
 ## Bibliography
 
