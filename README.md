@@ -1,19 +1,39 @@
 # marbel
 Research project at maastricht university
 
-# Requirements
+## Requirements
 - Unix based system (tested on Ubuntu and MacOS)
 - [Python](https://www.python.org/downloads/) >= 3.4, recommended 3.6
 - [pip](https://pip.pypa.io/en/stable/installing/) python package manager usually installed with python >= 3.4
-- [virtualenv](https://virtualenv.pypa.io/en/stable/installation/ ) - tool for creating isolated python environments. You can install it using a command ''' pip3 install virtualenv '''
-- Jupyter notebook - application for interactive development.
+- [virtualenv](https://virtualenv.pypa.io/en/stable/installation/ ) - tool for creating isolated python environments. You can install it using a command ```$ pip3 install virtualenv ```
+- Jupyter notebook - application for interactive development. You can install it with ```$ pip3 install jupyter```
 
-# Installation for the first time
+## Installation for the first time
 The scripts can be run and edited in a virtual environment with all the dependencies within installed within it.
-1. Create a virtual environment
-2. Activate it
-3. Install all required dependencies
-4. Put the input csv Files in 
+1. Clonse the repository and enter its directory:
+``` 
+$ git clone https://github.com/karolski/marbel.git 
+$ cd marbel
+```
+2. Create a virtual environment
+```
+$ ./01create_virtualenv
+```
+3. Install all required dependencies and download the models
+```
+$ ./02install_dependencies
+$ ./03_download_w2v_model
+```
+
+## Run the notebooks
+1. Open the terminal enter the repository
+2. Run jupyter application
+```$ jupyter notebook ```
+...- your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
+3. Open a notebook **A_measure_sentence_similarity.ipynb**
+...- the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
+4. Edit and run the cells. 
+
 
 ## Bibliography
 
