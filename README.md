@@ -3,7 +3,7 @@ Research project at maastricht university
 
 # Requirements
 Python 3.4+, recommended 3.6 with pip installed 
-- Unix based system, tested on ubuntu and macos
+- Unix based system (tested on Ubuntu and MacOS)
 - Jupyter notebook
 
 # Installation for the first time
@@ -35,6 +35,44 @@ Xiao Li1 and Qingsheng Li1,2
 <li> 
 https://nlp.stanford.edu/projects/glove/ - source of GloVe dataset
 </li>
+
+
+## Notes
+
+- WordNet Similarity for Java online demo was helpful in getting a feel for the different algorithms provided by WordNet: ws4jdemo.appspot.com 
+- check out this paper: Sentence similarity based on semantic nets and corpus statistics (PDF)
+- check into the WordNet project at Princeton University.
+- I would suggest taking a look at SEMILAR - http://www.semanticsimilarity.org/ 
+- cortical.io has developed a process for calculating the semantic similarity of two expressions and they have a demo of it up on their website. They offer a free API providing access to the functionality,
+- Take a look at http://mkusner.github.io/publications/WMD.pdf 
+- Update : I found this library very useful for measuring similarity between two words. Also the ConceptNet similarity mechanism is very good.
+- and this library for measuring semantic similarity between sentences
+- The best package I've seen for this is Gensim, found at the Gensim Homepage.
+- hard problem. The closest task that I know about is paraphrase detection, where you want to determine if two sentences semantically entail each other. aclweb.org/aclwiki/… 
+- The Google Sentence Encoder is Google’s answer to Facebook’s InferSent.
+- The specific algorithms at present are the following: string matching method based on keywords [6], the TF-IDF method based on vector space model [7], the calculation method of sentence similarity based on semantic dictionary [3], the calculation method of sentence similarity based on dependency analysis [8], and so on.
+- UMBC Semantic Similarity Service 
+- from the description on their website, it can do the following things
+    - Top-N Similarity -- Gives top-n most similar words to an input word
+    - Phrase Similarity -- Computes semantic similarity between two short noun or verb phrases.
+    - STS Similarity -- Computes Semantic Textual Similarity between two sentences or phrases.
+
+
+Tools: hosting the jupiter notebooks for free: 
+- https://research-anonhzhyfg.notebooks.azure.com/j/notebooks/notebook1.ipynb
+- https://nbviewer.jupyter.org/
+- https://hub.mybinder.org/user/jvns-pandas-cookbook-hofdfcpb/tree
+- https://colab.research.google.com/drive/1Br0ccGZ-CW1sCOd1uyIo6IpOdOTIMnhj#scrollTo=H1-7m5zZoF_1
+
+
+SEMILAR API comes with various similarity methods based on Wordnet, Latent Semantic Analysis (LSA), Latent Dirichlet Allocation (LDA), BLEU, Meteor, Pointwise Mutual Information (PMI), Dependency based methods, optimized methods based on Quadratic Assignment, etc. And the similarity methods work in different granularities - word to word, sentence to sentence, or bigger texts.
+
+
+To compute the n-gram vector, just pick a value of n (say, 3), and hash every 3-word sequence in the phrase into a vector. Normalize the vector to unit length, then take the dot product of different vectors to detect similarity.
+This approach has been described in J. Mitchell and M. Lapata, “Composition in Distributional Models of Semantics,” Cognitive Science, vol. 34, no. 8, pp. 1388–1429, Nov. 2010., DOI 10.1111/j.1551-6709.2010.01106.x
+
+Thoughts
+- it seems to me that keyword analysis would be enough as some of the answers of the students are mental shortcuts, where they indicate what they think is the cause in keywords, counting on the examiner understanding them. They can use keywords, because the context of their answers and their linguistic function are known, based on the questions. Hence the keywords detection algorithm should also be able to make use of question and example answers, or the text as a context that will make determining concepts behind the words more accurate, and thus increasing the accuracy of the assessment.
 
 
 ## To Read
