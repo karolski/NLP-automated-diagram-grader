@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# only use it at the first time
+echo "installing required dependencies, may take some time..."
+pip install -r requirements.txt
+echo "requirements installed"
+
+echo "downloading nltk stopwords... may take some time"
+python download_nlt_stopwords.py
+
+echo "creating jupyter kernel"
+ipython kernel install --name "Python3_marble" --user
+echo "created kernel called 'Python3_marble'"

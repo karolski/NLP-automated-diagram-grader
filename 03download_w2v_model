@@ -1,5 +1,7 @@
-#! /bin/sh
+#!/bin/sh
+
 cd models
 echo "downloading google's pretrained word embeddings..."                
 curl -O https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
+echo "unpacking the model... may take a while"
 gzip -d GoogleNews-vectors-negative300.bin.gz
