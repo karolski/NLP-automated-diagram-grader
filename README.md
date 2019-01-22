@@ -2,9 +2,11 @@
 Research project at maastricht university
 
 # Requirements
-Python 3.4+, recommended 3.6 with pip installed 
 - Unix based system (tested on Ubuntu and MacOS)
-- Jupyter notebook
+- [Python](https://www.python.org/downloads/) >= 3.4, recommended 3.6
+- [pip](https://pip.pypa.io/en/stable/installing/) python package manager usually installed with python >= 3.4
+- [virtualenv](https://virtualenv.pypa.io/en/stable/installation/ ) - tool for creating isolated python environments. You can install it using a command ''' pip3 install virtualenv '''
+- Jupyter notebook - application for interactive development.
 
 # Installation for the first time
 The scripts can be run and edited in a virtual environment with all the dependencies within installed within it.
