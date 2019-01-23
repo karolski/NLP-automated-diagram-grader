@@ -1,17 +1,59 @@
 # marbel
 Research project at maastricht university
 
-# Requirements
-Python 3.4+, recommended 3.6 with pip installed 
+## Requirements
 - Unix based system (tested on Ubuntu and MacOS)
-- Jupyter notebook
+- [Python](https://www.python.org/downloads/) >= 3.4, recommended 3.6
+- [pip](https://pip.pypa.io/en/stable/installing/) python package manager usually installed with python >= 3.4
+- [virtualenv](https://virtualenv.pypa.io/en/stable/installation/ ) - tool for creating isolated python environments. You can install it using a command ```$ pip3 install virtualenv ```
+- Jupyter notebook - application for interactive development. You can install it with ```$ pip3 install jupyter```
 
-# Installation for the first time
+## Installation for the first time
 The scripts can be run and edited in a virtual environment with all the dependencies within installed within it.
-1. Create a virtual environment
-2. Activate it
-3. Install all required dependencies
-4. Put the input csv Files in 
+1. Clonse the repository and enter its directory:
+``` 
+$ git clone https://github.com/karolski/marbel.git 
+$ cd marbel
+```
+2. Create a virtual environment
+```
+$ ./01create_virtualenv
+```
+3. Install all required dependencies and download the models
+```
+$ ./02install_dependencies
+$ ./03_download_w2v_model
+```
+
+## Run and edit the notebooks
+1. Open the terminal enter the repository
+2. Run jupyter application
+```
+$ jupyter notebook 
+```
+...- your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
+3. Open a notebook **A_measure_sentence_similarity.ipynb**
+...- the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
+4. Edit and run the cells. Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
+
+
+## Notebooks sequence
+A.  **A_measure_sentence_similarity.ipynb**
+1. I take “Example_dataset_marble_v2 - 2_data_no_omission.csv” – the dataset you gave at the very beginning, with English translations by Google-translate.
+2. I take “correct_answers.csv” – the correct answers for each task in the dataset
+3. I calculate the difference between what student wrote in a given field and all sentences from the model (using average cosinus distance 4. between words embedded using word2vec embeddings).
+5. I choose the sentence from the model, that seems the most similar to what students wrote.
+6. I save the student sentences with their “matches” from the model in “avg_wv2_matched.csv”
+Based on the matches I reconstruct the logical order of the sentences (taking under consideration only the sentences that match well enough with some sentence from the model, let’s say more than 0.2, otherwise I treat them as omissions). The logical order takes a form of e.g. “1324”, meaning: The student put the sentence 1, than 3, than 2, than 4. The model is “1234”
+7. I measure how different the logical order of the student is from the logical order of the model (using Levenshtein distance)
+8. I put the logical orders of the students’ sentences in a table.
+9. I take “self_assesment.csv” – the relevant columns from the last file you sent me,
+10. I make a joined table of self assessment and logical orders of sentences
+11. I save the detected order together with the its score and sum of semantic similarity-to-model points in “logical_order_score_similarity>0.2.csv”*
+12. I measure Pearson correlation of logical-order-score and similarity-to-model-sentences-score to self assessment
+13. I save the correlations in “correlations_similarity>0.2.csv”*
+ 
+*0.2 in the filename refers to the MIN_THRESHOLD_OF_SIMILARITY = 0.2 that I assume to treat a sentence of a student as one of the sentence from the model.If the sentence student wrote is not similar enough to any sentence in the model, the sentence is treated as an omission.
 
 ## Bibliography
 
@@ -92,3 +134,10 @@ Van Loon, M.H., De Bruin, A.B.H., Van Gog, T., & Van Merriënboer, J.J.G., & Dun
 De Bruin, A.B.H, Kok, E.M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21-43.
  
 De Bruin, A.B.H, & van Merriënboer, J.J. (2017). Bridging Cognitive Load and Self-Regulated Learning Research: A complementary approach to contemporary issues in educational research. Learning and Instruction, 51, 1-9.
+
+## Go further:
+Googles newest Natural Language processing tools: 
+https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=uu2dQ_TId-uH
+For free. 
+
+
