@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # only use it at the first time
+source env/bin/activate
 echo "installing required dependencies, may take some time..."
 pip install -r requirements.txt
 echo "requirements installed"

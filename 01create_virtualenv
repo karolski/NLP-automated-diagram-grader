@@ -2,5 +2,4 @@
 
 # only use it at the first time
 virtualenv env
-source env/bin/activate
-echo "created and activated virtual environment"
+echo "created virtual environment"
