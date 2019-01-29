@@ -38,7 +38,7 @@ $ jupyter notebook
 
  - the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
 
-4. Run or edit the cells. You run them with "play" button. You can run the whole notebook by pressing <img height="20" src=https://cdn4.iconfinder.com/data/icons/defaulticon/icons/png/256x256/media-fast-forward.png>  Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
+4. Run or edit the cells. You run them with "play" button. You can run the whole notebook by pressing [ <img height="20" src=https://cdn4.iconfinder.com/data/icons/defaulticon/icons/png/256x256/media-fast-forward.png> ]  Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
 
 5. Open a notebook **B_Postprocessing-measure_distance.ipynb**, and run (or edit) the cells.
 
@@ -83,10 +83,9 @@ The logic of the cells is outlined in the notebooks themselves. Here is the gene
 - get the files from .sav format to .csv on https://pspp.benpfaff.org/
 
 ### Tools: hosting the jupiter notebooks for free: 
-- Google's colab - https://colab.research.google.com/drive/1Br0ccGZ-CW1sCOd1uyIo6IpOdOTIMnhj#scrollTo=H1-7m5zZoF_1
-- Azure - https://research-anonhzhyfg.notebooks.azure.com/j/notebooks/notebook1.ipynb
-- Nbvirert - https://nbviewer.jupyter.org/
-- Mybinder - https://hub.mybinder.org/user/jvns-pandas-cookbook-hofdfcpb/tree
+- Google's colab - https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+- Azure - https://notebooks.azure.com/#
+- Mybinder - https://mybinder.org/
 
 ## Bibliography about methods I used:
 - Article about the repository used as a codebase [article](http://nlp.town/blog/sentence-similarity/). It compares different sentence similarity measures
