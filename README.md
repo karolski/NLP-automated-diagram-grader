@@ -1,6 +1,6 @@
-# marbel
-Research project at Maastricht University
-The notebooks serve to asses the correctness of causal relationship students indicate after reading a text. Their correctness is assesed throuhg comparison and matching of student's responses with the model response for each text. The notebooks use Latent Semantic Analysis methods, with the basic analysis involving comparison of weighted word embeddings through word2vec model. 
+# marble
+Marble is a series of Research projects at Maastricht University. This project is concerned with proof-of-concept application of Latent Semantic Analysis to research on self-monitoring in learning and the influence of practice testing on learning efficacy. 
+The notebooks serve to asses the correctness of causal relationships students indicate after reading a text. Their responses are compared and matched with the phrases from the model response for each text. The basic analysis involves comparison of weighted average of embeddings of words embedded with a pretrained word2vec model. The comparison methods include regular cosine distance, Smooth Inverse Frequency, Word Mover's Distance, each with or without weighitng the words by frequency of occurance in traing sets. Analysis can be extended by use of Infersent and Google Sentence Encoder - alternative and more sophisticated sentence encoders. The comparison of causal sequences is done with Levenshtein distance, treating each sentence as a character. More detailed information about analysis can be found within the notebooks themsleves.
 
 ## Requirements
 - Unix based system (tested on Ubuntu and MacOS)
@@ -27,7 +27,7 @@ $ ./03_download_w2v_model
 ```
 
 ## Run and edit the notebooks
-1. Open the terminal enter the repository
+1. Open the terminal enter the repository. *Tip for dummies: [this cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) will help you navigat within the terminal*
 2. Run jupyter application
 ```
 $ jupyter notebook 
