@@ -36,7 +36,7 @@ $ jupyter notebook
 
 3. Open a notebook **A_measure_sentence_similarity.ipynb**
 
- - the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
+ - the kernel for this project is **Python3_marble**, choose it in the top menu **kernel>Change kernel>Python3_marble**.
 
 4. Run or edit the cells. You run them with "play" button. You can run the whole notebook by pressing [ <img height="20" src=https://cdn4.iconfinder.com/data/icons/defaulticon/icons/png/256x256/media-fast-forward.png> ]  Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
 
@@ -100,34 +100,34 @@ The logic of the cells is outlined in the notebooks themselves. Here is the gene
 - gui application: [SEMILAR](http://www.semanticsimilarity.org/) SEMILAR API comes with various similarity methods based on Wordnet, Latent Semantic Analysis (LSA), Latent Dirichlet Allocation (LDA), BLEU, Meteor, Pointwise Mutual Information (PMI), Dependency based methods, optimized methods based on Quadratic Assignment, etc. 
 - API serveice [cortical.io](https://www.cortical.io/compare-text.html) with similar method
 - n-gram vectors - pick a value of n (say, 3), and hash every 3-word sequence in the phrase into a vector. Normalize the vector to unit length, then take the dot product of different vectors to detect similarity.
-J. Mitchell and M. Lapata, “Composition in Distributional Models of Semantics,” Cognitive Science, vol. 34, no. 8, pp. 1388–1429, Nov. 2010., DOI 10.1111/j.1551-6709.2010.01106.x
+
+    J. Mitchell and M. Lapata, *Composition in Distributional Models of Semantics*, Cognitive Science, vol. 34, no. 8, pp. 1388–1429, Nov. 2010., [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01106.x)
 - string matching method based on keywords and syntatic structure [paper](https://www.hindawi.com/journals/mpe/2015/203475/#B6), the 
-- Calculation of Sentence Semantic Similarity Based on Syntactic Structure
+- *Calculation of Sentence Semantic Similarity Based on Syntactic Structure*
 Xiao Li1 and Qingsheng [paper](https://www.hindawi.com/journals/mpe/2015/203475/) - article about merging analysis of sentence structure  with the analysis of meaning in terms of Wordnet-like models
-- Kazi, Hameedullah & Haddawy, Peter & Suebnukarn, Siriwan. (2012). Employing UMLS for generating hints in a tutoring system for medical problem-based learning. Journal of biomedical informatics. 45. 557-65. [link](https://www.researchgate.net/publication/221722664_Employing_UMLS_for_generating_hints_in_a_tutoring_system_for_medical_problem-based_learning) *employeeing a predefined ontology systems to produce easily verifiable tasks with a precise hinting system*
+- Y. Li, D. McLean, Z. A. Bandar, J. D. O'Shea and K. Crockett, *Sentence similarity based on semantic nets and corpus statistics*, in IEEE Transactions on Knowledge and Data Engineering, vol. 18, no. 8, pp. 1138-1150, Aug. 2006.[link](https://www.researchgate.net/publication/232645326_Sentence_Similarity_Based_on_Semantic_Nets_and_Corpus_Statistics)[code](https://github.com/chanddu/Sentence-similarity-based-on-Semantic-nets-and-Corpus-Statistics-)
+- Kazi, Hameedullah & Haddawy, Peter & Suebnukarn, Siriwan. (2012). *Employing UMLS for generating hints in a tutoring system for medical problem-based learning.* Journal of biomedical informatics. 45. 557-65. [link](https://www.researchgate.net/publication/221722664_Employing_UMLS_for_generating_hints_in_a_tutoring_system_for_medical_problem-based_learning) *employeeing a predefined ontology systems to produce easily verifiable tasks with a precise hinting system*
 
 
 ## Bibiliography on metacognitive monitoring, effects of practice testing on learning and intervention with online tools:
 
 
-Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). Accuracy of metacognitive monitoring affects learning of texts. Journal of Educational Psychology, 95, 66-73
+Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). *Accuracy of metacognitive monitoring affects learning of texts.* Journal of Educational Psychology, 95, 66-73 [link](https://wp.stolaf.edu/cila/files/2012/11/thiede_jedp.pdf)
 
-De Bruin, A.B.H., Dunlosky, J., & Cavalcanti. R.B. (2017). Monitoring and regulation of learning in medical education: The need for predictive cues. Medical Education, 51, 575-58
+De Bruin, A.B.H., Dunlosky, J., & Cavalcanti. R.B. (2017). *Monitoring and regulation of learning in medical education: The need for predictive cues.* Medical Education, 51, 575-58[link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/medu.13267)
 
-Van Loon, M.H., De Bruin, A.B.H., Van Gog, T., & Van Merriënboer, J.J.G., & Dunlosky, J. (2014). Can students evaluate their understanding of cause-and-effect relations? The effects of diagram completion on monitoring accuracy. Acta Psychologica, 151, 143-154.
+Van Loon, M.H., De Bruin, A.B.H., Van Gog, T., & Van Merriënboer, J.J.G., & Dunlosky, J. (2014). *Can students evaluate their understanding of cause-and-effect relations? The effects of diagram completion on monitoring accuracy.* Acta Psychologica, 151, 143-154.[link abstract](https://www.ncbi.nlm.nih.gov/pubmed/24977937)
  
-De Bruin, A.B.H, Kok, E.M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21-43.
+De Bruin, A.B.H, Kok, E.M., Lobbestael, J., & de Grip, A. (2017). *The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality.* Metacognition and Learning, 12, 21-43.[link](https://www.researchgate.net/publication/303774455_The_impact_of_an_online_tool_for_monitoring_and_regulating_learning_at_university_overconfidence_learning_strategy_and_personality)
  
-De Bruin, A.B.H, & van Merriënboer, J.J. (2017). Bridging Cognitive Load and Self-Regulated Learning Research: A complementary approach to contemporary issues in educational research. Learning and Instruction, 51, 1-9.
+De Bruin, A.B.H, & van Merriënboer, J.J. (2017). *Bridging Cognitive Load and Self-Regulated Learning Research: A complementary approach to contemporary issues in educational research.* Learning and Instruction, 51, 1-9.[link](https://www.researchgate.net/publication/317730058_Bridging_Cognitive_Load_and_Self-Regulated_Learning_Research_A_complementary_approach_to_contemporary_issues_in_educational_research)
 
 ## Go further:
 Googles state-of-art (30.02.2019) free Natural Language processing tool "Bert" in jupyter notebook.[link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=uu2dQ_TId-uH)
 
-Y. Li, D. McLean, Z. A. Bandar, J. D. O'Shea and K. Crockett, "Sentence similarity based on semantic nets and corpus statistics," in IEEE Transactions on Knowledge and Data Engineering, vol. 18, no. 8, pp. 1138-1150, Aug. 2006.[link](https://www.researchgate.net/publication/232645326_Sentence_Similarity_Based_on_Semantic_Nets_and_Corpus_Statistics)[code](https://github.com/chanddu/Sentence-similarity-based-on-Semantic-nets-and-Corpus-Statistics-)
-
 cross lingual embeddings [respository](https://github.com/nlptown/nlp-notebooks) by @nlptown 
 
-Kazi, H., Haddawy, P., & Suebnukarn, S. (n.d.). Expanding the Plausible Solution Space for Robustness in an Intelligent Tutoring System. Intelligent Tutoring Systems, 583-592. - [article about intelligent tutoring systems](https://pdfs.semanticscholar.org/63d1/64392c3c2200c30fc0f4cc3aefbe3378a952.pdf)
+Kazi, H., Haddawy, P., & Suebnukarn, S. (n.d.). Expanding the Plausible Solution Space for Robustness in an Intelligent Tutoring System. Intelligent Tutoring Systems, 583-592. - [article about intelligent tutoring systems](https://pdfs.semanticscholar.org/63d1/64392c3c2200c30fc0f4cc3aefbe3378a952.pdf) - make a feedback hint system helping students learn quickly
 
 ## Notes
 
