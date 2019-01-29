@@ -80,6 +80,9 @@ https://nlp.stanford.edu/projects/glove/ - source of GloVe dataset
 <li>
 https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf - word2vec paper
 </li>
+<li>
+https://arxiv.org/pdf/1411.2738.pdf - explanation of Mikolov's word2vec obejctive function and learning rates
+</li>
 
 ## Notes
 
