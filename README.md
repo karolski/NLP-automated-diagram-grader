@@ -32,20 +32,21 @@ $ ./03_download_w2v_model
 ```
 $ jupyter notebook 
 ```
-...- your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
+  - your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
 
 3. Open a notebook **A_measure_sentence_similarity.ipynb**
 
-...- the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
+ - the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
 
 4. Edit and run the cells. Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
 
 
 ## Notebooks sequence
-A.  **A_measure_sentence_similarity.ipynb**
+ **A_measure_sentence_similarity.ipynb**
 1. I take “Example_dataset_marble_v2 - 2_data_no_omission.csv” – the dataset you gave at the very beginning, with English translations by Google-translate.
 2. I take “correct_answers.csv” – the correct answers for each task in the dataset
 3. I calculate the difference between what student wrote in a given field and all sentences from the model (using average cosinus distance 4. between words embedded using word2vec embeddings).
+**B_postprocessing.ipynb**
 5. I choose the sentence from the model, that seems the most similar to what students wrote.
 6. I save the student sentences with their “matches” from the model in “avg_wv2_matched.csv”
 Based on the matches I reconstruct the logical order of the sentences (taking under consideration only the sentences that match well enough with some sentence from the model, let’s say more than 0.2, otherwise I treat them as omissions). The logical order takes a form of e.g. “1324”, meaning: The student put the sentence 1, than 3, than 2, than 4. The model is “1234”
@@ -60,6 +61,7 @@ Based on the matches I reconstruct the logical order of the sentences (taking un
 *0.2 in the filename refers to the MIN_THRESHOLD_OF_SIMILARITY = 0.2 that I assume to treat a sentence of a student as one of the sentence from the model.If the sentence student wrote is not similar enough to any sentence in the model, the sentence is treated as an omission.
 
 ## Tips for dummies
+
 - get the texts from any language translated in google spreadsheets using `GOOGLETRANSLATE` function:
 ![alt text](https://raw.githubusercontent.com/karolski/marbel/master/translate_in_gspreadsheet.png)
 
@@ -69,9 +71,8 @@ Based on the matches I reconstruct the logical order of the sentences (taking un
 ## Notes
 
 - [WordNet Similarity online demo](ws4jdemo.appspot.com) good for getting a feel for the different algorithms provided by WordNet. uses [this java library] (https://code.google.com/archive/p/ws4j/)
-
+- it seems to me that keyword analysis would be enough as some of the answers of the students are mental shortcuts, where they indicate what they think is the cause in keywords, counting on the examiner understanding them. They can use keywords, because the context of their answers and their linguistic function are known, based on the questions. Hence the keywords detection algorithm should also be able to make use of question and example answers, or the text as a context that will make determining concepts behind the words more accurate, and thus increasing the accuracy of the assessment.
 - The specific algorithms at present are the following: 
-- string matching method based on keywords and syntatic structure [paper](https://www.hindawi.com/journals/mpe/2015/203475/#B6), the 
 - TF-IDF method based on freqiencies [wikipedia article](https://en.wikipedia.org/wiki/Tf%E2%80%93idf), 
 
 
@@ -82,7 +83,7 @@ Based on the matches I reconstruct the logical order of the sentences (taking un
 - Mybinder - https://hub.mybinder.org/user/jvns-pandas-cookbook-hofdfcpb/tree
 
 Thoughts
-- it seems to me that keyword analysis would be enough as some of the answers of the students are mental shortcuts, where they indicate what they think is the cause in keywords, counting on the examiner understanding them. They can use keywords, because the context of their answers and their linguistic function are known, based on the questions. Hence the keywords detection algorithm should also be able to make use of question and example answers, or the text as a context that will make determining concepts behind the words more accurate, and thus increasing the accuracy of the assessment.
+
 
 
 ## To Read
@@ -91,7 +92,11 @@ Thoughts
 - https://www.irjet.net/archives/V4/i1/IRJET-V4I129.pdf
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.9942&rep=rep1&type=pdf
 
-## Bibliography
+
+## Bibliography about methods I used:
+
+- Word Mover Distance [paper](http://mkusner.github.io/publications/WMD.pdf)
+- explanation of Mikolov's word2vec obejctive function and learning rates [paper](https://arxiv.org/pdf/1411.2738.pdf)
 
 <li>
     <a href="https://www.hindawi.com/journals/mpe/2015/203475/">
@@ -126,11 +131,9 @@ https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phras
 - API serveice [cortical.io](https://www.cortical.io/compare-text.html) with similar method
 - n-gram vectors - pick a value of n (say, 3), and hash every 3-word sequence in the phrase into a vector. Normalize the vector to unit length, then take the dot product of different vectors to detect similarity.
 J. Mitchell and M. Lapata, “Composition in Distributional Models of Semantics,” Cognitive Science, vol. 34, no. 8, pp. 1388–1429, Nov. 2010., DOI 10.1111/j.1551-6709.2010.01106.x
+- string matching method based on keywords and syntatic structure [paper](https://www.hindawi.com/journals/mpe/2015/203475/#B6), the 
 
-## Bibliography about methods I used:
 
-- Word Mover Distance [paper](http://mkusner.github.io/publications/WMD.pdf)
-- explanation of Mikolov's word2vec obejctive function and learning rates [paper](https://arxiv.org/pdf/1411.2738.pdf)
 
 ## Bibiliography on metacognitive monitoring, effects of practice testing on learning and intervention with online tools:
 
