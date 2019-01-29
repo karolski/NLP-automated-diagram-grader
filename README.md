@@ -1,5 +1,6 @@
 # marbel
-Research project at maastricht university
+Research project at Maastricht University
+The notebooks serve to asses the correctness of causal relationship students indicate after reading a text. Their correctness is assesed throuhg comparison and matching of student's responses with the model response for each text. The notebooks use Latent Semantic Analysis methods, with the basic analysis involving comparison of weighted word embeddings through word2vec model. 
 
 ## Requirements
 - Unix based system (tested on Ubuntu and MacOS)
@@ -32,8 +33,11 @@ $ ./03_download_w2v_model
 $ jupyter notebook 
 ```
 ...- your browser will open a new tab with jupyter interface. You'll see the contents of the repository folder
+
 3. Open a notebook **A_measure_sentence_similarity.ipynb**
+
 ...- the kernel for this project is **Python3_marble** choose it in the top menu **kernel>Change kernel>Python3_marble**.
+
 4. Edit and run the cells. Your results will be saved in .csv files in the main directory of the repository. Every time you run the notebooks, new results will overwrite the previous ones. If you want to save the results, rename them or copy to another folder.
 
 
