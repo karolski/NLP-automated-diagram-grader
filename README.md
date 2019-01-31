@@ -123,7 +123,7 @@ De Bruin, A.B.H, Kok, E.M., Lobbestael, J., & de Grip, A. (2017). *The impact of
 De Bruin, A.B.H, & van Merriënboer, J.J. (2017). *Bridging Cognitive Load and Self-Regulated Learning Research: A complementary approach to contemporary issues in educational research.* Learning and Instruction, 51, 1-9.[link](https://www.researchgate.net/publication/317730058_Bridging_Cognitive_Load_and_Self-Regulated_Learning_Research_A_complementary_approach_to_contemporary_issues_in_educational_research)
 
 ## Go further:
-Googles state-of-art (30.02.2019) free Natural Language processing tool "Bert" in jupyter notebook.[link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=uu2dQ_TId-uH)
+Googles state-of-art (30.01.2019) free Natural Language processing tool "Bert" in jupyter notebook.[link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=uu2dQ_TId-uH)
 
 cross lingual embeddings [respository](https://github.com/nlptown/nlp-notebooks) by @nlptown 
 
