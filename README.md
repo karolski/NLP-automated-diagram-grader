@@ -18,12 +18,12 @@ $ cd marbel
 ```
 2. Create a virtual environment
 ```
-$ ./01create_virtualenv
+$ bash 01create_virtualenv
 ```
 3. Install all required dependencies and download the models
 ```
-$ ./02install_dependencies
-$ ./03_download_w2v_model
+$ bash 02install_dependencies
+$ bash 03_download_w2v_model
 ```
 
 ## Run and edit the notebooks
