@@ -31,7 +31,7 @@ $ bash 03_download_w2v_model
 ```
 
 ## Run and edit the notebooks
-1. Open the terminal enter the repository. *Tip for dummies: [this cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) will help you navigat within the terminal*
+1. Open the terminal enter the repository. *Tip for dummies: [this cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) will help you navigate within the terminal*
 2. Run jupyter application
 ```
 $ jupyter notebook 
