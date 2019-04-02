@@ -23,6 +23,10 @@ $ bash 01create_virtualenv
 3. Install all required dependencies and download the models
 ```
 $ bash 02install_dependencies
+```
+* in case `nltk` or some other dependency does not install correctly you can use:
+  `$ source env/bin/activate` to enter the environment and `$ pip install nltk` to install a package
+```
 $ bash 03_download_w2v_model
 ```
 
